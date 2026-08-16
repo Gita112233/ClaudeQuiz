@@ -1,0 +1,664 @@
+[
+  {
+    "id": "cs6-01",
+    "topic": "ER Overview",
+    "lang": "th",
+    "question": "Glycosylation ครั้งแรกของโปรตีนเกิดขึ้นที่ออร์แกเนลล์ชนิดใด?",
+    "choices": ["Golgi complex (cis face)", "Rough ER (RER)", "Smooth ER (SER)", "ไมโทคอนเดรีย", "นิวเคลียส"],
+    "answerIndex": 1,
+    "hint": "มองหา ER ที่มีไรโบโซมเกาะอยู่บนผิว",
+    "explanation": "จากเนื้อหา การเติม glycosylation ครั้งแรก (1st glycosylation) เกิดขึ้นที่ Rough ER ซึ่งมีลักษณะเป็นเม็ดหยาบ (granular) จากไรโบโซมที่เกาะอยู่"
+  },
+  {
+    "id": "cs6-02",
+    "topic": "ER Overview",
+    "lang": "en",
+    "question": "Which type of vesicle originates from the Smooth ER and feeds into the Golgi apparatus?",
+    "choices": ["Secretory vesicle", "Primary lysosome", "Transport vesicle", "Residual body", "Peroxisome"],
+    "answerIndex": 2,
+    "hint": "This vesicle type carries material from the tubular, ribosome-free ER.",
+    "explanation": "According to the material, Transport vesicles come from the Smooth ER and feed into the Golgi apparatus, alongside material from the Rough ER."
+  },
+  {
+    "id": "cs6-03",
+    "topic": "ER Overview",
+    "lang": "th",
+    "question": "ในการทำ microsome fractionation ด้วย sucrose density gradient centrifugation ไมโครโซมชนิดใดมีความหนาแน่นสูงและตกตะกอนอยู่ด้านล่าง?",
+    "choices": ["Smooth microsomes", "Golgi microsomes", "Rough microsomes", "Lysosomal microsomes", "Nuclear microsomes"],
+    "answerIndex": 2,
+    "hint": "ไมโครโซมที่มีไรโบโซมเกาะอยู่จะหนักกว่า",
+    "explanation": "Rough microsomes มีไรโบโซมเกาะติดอยู่ทำให้มีความหนาแน่นสูงกว่าและตกตะกอนอยู่ด้านล่างของหลอดปั่นเหวี่ยง ส่วน smooth microsomes มีความหนาแน่นต่ำและลอยอยู่ด้านบน"
+  },
+  {
+    "id": "cs6-04",
+    "topic": "ER Overview",
+    "lang": "en",
+    "question": "After homogenizing cells and separating ER fragments by sucrose density gradient centrifugation, where do smooth microsomes end up?",
+    "choices": ["Settled at the very bottom", "Floating at the top (low density)", "Mixed evenly throughout", "Bound to the nuclear envelope", "Dissolved in the sucrose solution"],
+    "answerIndex": 1,
+    "hint": "Smooth microsomes lack ribosomes, making them lighter.",
+    "explanation": "Smooth microsomes have low density and float at the top of the sucrose gradient, while rough microsomes (with attached ribosomes) have high density and settle at the bottom."
+  },
+  {
+    "id": "cs6-05",
+    "topic": "RER Structure",
+    "lang": "th",
+    "question": "RER แตกแขนงออกมาจากส่วนใดของนิวเคลียส?",
+    "choices": ["เยื่อหุ้มนิวเคลียสชั้นใน (inner membrane)", "รูพรุนนิวเคลียส (nuclear pore)", "เยื่อหุ้มนิวเคลียสชั้นนอก (outer membrane)", "นิวคลีโอลัส", "โครมาติน"],
+    "answerIndex": 2,
+    "hint": "คิดถึงเยื่อหุ้มนิวเคลียสด้านที่ต่อเนื่องกับไซโทพลาซึม",
+    "explanation": "ตามเนื้อหา RER แตกแขนงออกมาจาก Outer membrane ของนิวเคลียส"
+  },
+  {
+    "id": "cs6-06",
+    "topic": "RER Structure",
+    "lang": "en",
+    "question": "What type of ribosome is attached to the outer surface of the Rough ER?",
+    "choices": ["70S", "40S", "60S", "80S", "30S"],
+    "answerIndex": 3,
+    "hint": "This is the eukaryotic cytoplasmic ribosome type.",
+    "explanation": "The material specifies that 80S ribosomes are attached to the RER surface, giving it its 'rough' granular appearance."
+  },
+  {
+    "id": "cs6-07",
+    "topic": "RER Structure",
+    "lang": "th",
+    "question": "ช่องว่างภายใน RER ที่มีของเหลวบรรจุอยู่ เรียกว่าอะไร?",
+    "choices": ["ER lumen", "Cisterna ของ Golgi", "Matrix", "Vacuole", "Stroma"],
+    "answerIndex": 0,
+    "hint": "เป็นพื้นที่ภายในเยื่อหุ้ม ER ที่โปรตีนเคลื่อนเข้าไปหลังพับตัว",
+    "explanation": "พื้นที่ภายใน RER ที่มีของเหลวบรรจุอยู่เรียกว่า ER lumen ซึ่งเป็นบริเวณที่โปรตีนที่พับตัวแล้วเคลื่อนเข้าไปก่อนถูกเติมน้ำตาล"
+  },
+  {
+    "id": "cs6-08",
+    "topic": "RER Structure",
+    "lang": "en",
+    "question": "In the RER protein synthesis sequence, what occurs immediately after the amino acid chain folds into a protein and moves into the ER lumen?",
+    "choices": ["The mRNA detaches from the ribosome", "The protein is degraded", "Sugar side chains are added to it", "A secondary lysosome forms", "The ribosome leaves the ER"],
+    "answerIndex": 2,
+    "hint": "This step is the first glycosylation event.",
+    "explanation": "After folding and entering the ER lumen, sugar side chains are added to the protein, and then a vesicle forms to transport it further."
+  },
+  {
+    "id": "cs6-09",
+    "topic": "RER Function",
+    "lang": "th",
+    "question": "หน้าที่หนึ่งของ RER คือการตรวจสอบสิ่งใด?",
+    "choices": ["ตรวจสอบว่าโปรตีนถูกสังเคราะห์อย่างถูกต้อง", "ตรวจสอบระดับ pH ของเซลล์", "ตรวจสอบปริมาณ ATP", "ตรวจสอบจำนวนโครโมโซม", "ตรวจสอบความเข้มข้นของ Ca2+"],
+    "answerIndex": 0,
+    "hint": "เกี่ยวข้องกับคุณภาพของผลิตภัณฑ์ก่อนส่งต่อไปยัง Golgi",
+    "explanation": "RER มีหน้าที่ตรวจสอบว่าโปรตีนที่สังเคราะห์ขึ้นถูกต้องก่อนบรรจุลงเวสิเคิลเพื่อส่งต่อ"
+  },
+  {
+    "id": "cs6-10",
+    "topic": "RER Function",
+    "lang": "en",
+    "question": "What is the final product of RER processing, once carbohydrate groups have been added, that gets packaged into a vesicle?",
+    "choices": ["Lipoprotein", "Glycoprotein", "Phospholipid", "Glycolipid", "Proteoglycan"],
+    "answerIndex": 1,
+    "hint": "This term combines 'sugar' and 'protein'.",
+    "explanation": "After glycosylation and folding at the RER, the final product is a glycoprotein, which is packaged into a vesicle for transport to the Golgi."
+  },
+  {
+    "id": "cs6-11",
+    "topic": "RER Function",
+    "lang": "th",
+    "question": "โปรตีนที่สร้างขึ้นที่ RER อาจอยู่ในรูปแบบใดได้บ้าง?",
+    "choices": ["ฝังอยู่ในเยื่อหุ้ม ER หรือปล่อยเข้าสู่ ER lumen", "ลอยอิสระในไซโทซอลเท่านั้น", "ถูกส่งไปที่ไมโทคอนเดรียโดยตรง", "รวมตัวเป็นไรโบโซมใหม่", "กลายเป็น DNA สายใหม่"],
+    "answerIndex": 0,
+    "hint": "มีสองรูปแบบหลักตามตำแหน่งที่โปรตีนไปอยู่",
+    "explanation": "โปรตีนที่ RER สร้างขึ้นอาจฝังอยู่ในเยื่อหุ้ม ER หรือถูกปล่อยเข้าสู่ ER lumen เพื่อประมวลผลก่อนส่งออกต่อไป"
+  },
+  {
+    "id": "cs6-12",
+    "topic": "RER Examples: Stomach",
+    "lang": "th",
+    "question": "เซลล์ใดในกระเพาะอาหารหลั่ง Pepsinogen?",
+    "choices": ["Parietal cell", "G cell", "Chief cell", "Mucous neck cell", "Goblet cell"],
+    "answerIndex": 2,
+    "hint": "เซลล์นี้สร้างเอนไซม์ย่อยโปรตีนในรูปแบบที่ยังไม่ทำงาน",
+    "explanation": "Chief cell หลั่ง Pepsinogen ซึ่งเป็นเอนไซม์ที่ยังไม่ทำงาน จะถูกกระตุ้นด้วย HCl กลายเป็น Pepsin"
+  },
+  {
+    "id": "cs6-13",
+    "topic": "RER Examples: Stomach",
+    "lang": "en",
+    "question": "Which stomach cell secretes HCl that acidifies the stomach and activates pepsinogen?",
+    "choices": ["Chief cell", "Parietal cell", "G cell", "Mucous neck cell", "Enteroendocrine cell"],
+    "answerIndex": 1,
+    "hint": "This cell is responsible for the highly acidic environment (pH 1.5-3).",
+    "explanation": "The Parietal cell secretes HCl, which acidifies the stomach to pH 1.5-3, destroys bacteria, and activates pepsinogen into pepsin."
+  },
+  {
+    "id": "cs6-14",
+    "topic": "RER Examples: Stomach",
+    "lang": "th",
+    "question": "ฮอร์โมน Gastrin ซึ่งหลั่งจาก G cell มีผลอย่างไรต่อเซลล์อื่นในกระเพาะอาหาร?",
+    "choices": ["ยับยั้ง Parietal cell ไม่ให้หลั่ง HCl", "กระตุ้น Parietal cell หลั่ง HCl และกระตุ้น Chief cell หลั่งเอนไซม์", "กระตุ้นให้ Mucous neck cell หยุดสร้างมูก", "กระตุ้นการแบ่งเซลล์ของ G cell เอง", "ยับยั้ง Chief cell ไม่ให้หลั่งเอนไซม์"],
+    "answerIndex": 1,
+    "hint": "Gastrin เป็นฮอร์โมนกระตุ้น ไม่ใช่ยับยั้ง",
+    "explanation": "Gastrin จาก G cell กระตุ้นให้ Parietal cell หลั่ง HCl และกระตุ้น Chief cell ให้หลั่งเอนไซม์ย่อยอาหาร"
+  },
+  {
+    "id": "cs6-15",
+    "topic": "RER Examples: Stomach",
+    "lang": "en",
+    "question": "Which stomach cell type secretes mucus (mucin) to protect the stomach lining from acid?",
+    "choices": ["Chief cell", "Parietal cell", "G cell", "Mucous neck cell", "Zymogenic cell"],
+    "answerIndex": 3,
+    "hint": "Its name directly references the protective substance it makes.",
+    "explanation": "The Mucous neck cell secretes mucus (mucin), which protects the stomach lining from the highly acidic gastric environment."
+  },
+  {
+    "id": "cs6-16",
+    "topic": "RER Examples: Pancreas",
+    "lang": "th",
+    "question": "Pancreatic acinar cell สร้างเอนไซม์ชนิดใด?",
+    "choices": ["Insulin", "Trypsinogen", "Glucagon", "Pepsinogen", "Gastrin"],
+    "answerIndex": 1,
+    "hint": "เป็นเอนไซม์ย่อยโปรตีนในรูปแบบที่ยังไม่ทำงาน คล้ายกับ pepsinogen ในกระเพาะ",
+    "explanation": "Pancreatic acinar cell สร้างเอนไซม์ Trypsinogen ซึ่งเป็นเอนไซม์ย่อยโปรตีนที่ยังไม่ถูกกระตุ้น"
+  },
+  {
+    "id": "cs6-17",
+    "topic": "RER Examples: Pancreas",
+    "lang": "en",
+    "question": "Which pancreatic cell type secretes insulin?",
+    "choices": ["α-cell", "Acinar cell", "β-cell", "G cell", "Chief cell"],
+    "answerIndex": 2,
+    "hint": "This cell's Greek letter is the second in the alphabet.",
+    "explanation": "The β-cell secretes insulin, while the α-cell secretes glucagon."
+  },
+  {
+    "id": "cs6-18",
+    "topic": "RER Examples: Pancreas",
+    "lang": "th",
+    "question": "ลำดับขั้นตอนการสังเคราะห์และหลั่งฮอร์โมนเปปไทด์ ข้อใดเรียงถูกต้อง?",
+    "choices": [
+      "DNA→transcription→mRNA→translation ที่ ER→packaging ที่ Golgi→เก็บใน secretory vesicle→หลั่งเมื่อมีสิ่งกระตุ้น",
+      "mRNA→DNA→Golgi→ER→secretory vesicle→transcription",
+      "Golgi→ER→DNA→mRNA→secretory vesicle→transcription",
+      "secretory vesicle→ER→Golgi→DNA→mRNA→transcription",
+      "translation→transcription→DNA→ER→Golgi→secretory vesicle"
+    ],
+    "answerIndex": 0,
+    "hint": "เริ่มต้นที่นิวเคลียสเสมอ และจบที่การหลั่งออกนอกเซลล์",
+    "explanation": "ลำดับที่ถูกต้องคือ นิวเคลียสถอดรหัส DNA เป็น mRNA → แปลรหัสที่ ER → บรรจุที่ Golgi → เก็บในเวสิเคิลหลั่ง → หลั่งออกเมื่อมีสิ่งกระตุ้น เช่น Ca2+ หรือ cAMP เพิ่มขึ้น"
+  },
+  {
+    "id": "cs6-19",
+    "topic": "RER Example: Neuron",
+    "lang": "th",
+    "question": "RER ในเซลล์ประสาทมีชื่อเรียกเฉพาะว่าอะไร?",
+    "choices": ["Synaptic vesicle", "Nissl bodies", "Axon hillock", "Myelin sheath", "Golgi tendon organ"],
+    "answerIndex": 1,
+    "hint": "ชื่อนี้ตั้งตามนักวิทยาศาสตร์ที่ศึกษาเนื้อเยื่อประสาท",
+    "explanation": "RER ในเซลล์ประสาทถูกเรียกเฉพาะว่า Nissl bodies"
+  },
+  {
+    "id": "cs6-20",
+    "topic": "RER Example: Neuron",
+    "lang": "en",
+    "question": "Which neurotransmitter is given as an example produced via the neuron's RER (Nissl bodies)?",
+    "choices": ["Insulin", "Cortisol", "Acetylcholine", "Testosterone", "Aldosterone"],
+    "answerIndex": 2,
+    "hint": "This neurotransmitter is common at neuromuscular junctions.",
+    "explanation": "The material gives acetylcholine as an example neurotransmitter created by the neuron via Nissl bodies (RER)."
+  },
+  {
+    "id": "cs6-21",
+    "topic": "RER Example: Neuron",
+    "lang": "th",
+    "question": "ส่วนใดของเซลล์ประสาทที่ปล่อยสารสื่อประสาทเข้าสู่ synaptic cleft?",
+    "choices": ["Dendrites", "Nucleus", "Axon terminals", "Cell body", "Axon hillock"],
+    "answerIndex": 2,
+    "hint": "เป็นส่วนปลายสุดของแอกซอนที่สัมผัสกับเซลล์ถัดไป",
+    "explanation": "Axon terminals ปล่อยเวสิเคิลบรรจุสารสื่อประสาทเข้าสู่ synaptic cleft เพื่อจับกับตัวรับบนเซลล์ถัดไป"
+  },
+  {
+    "id": "cs6-22",
+    "topic": "SER Structure",
+    "lang": "th",
+    "question": "SER มีลักษณะโครงสร้างแบบใด?",
+    "choices": ["ท่อกลวงสานกันเป็นร่างแห (tubular network)", "แผ่นเรียบเรียงซ้อนกันเป็น cisternae", "ทรงกลมสองชั้นเยื่อหุ้ม", "เส้นใยไร้เยื่อหุ้ม", "ถุงเดี่ยวเยื่อหุ้มชั้นเดียวขนาดใหญ่"],
+    "answerIndex": 0,
+    "hint": "ต่างจาก RER ที่เป็นแผ่นแบน",
+    "explanation": "SER มีรูปร่างเป็นท่อกลวงที่สานกันเป็นร่างแห (tubular network) ต่างจาก RER ที่เป็นแผ่น cisternae"
+  },
+  {
+    "id": "cs6-23",
+    "topic": "SER Structure",
+    "lang": "en",
+    "question": "Why does the SER surface appear smooth under the microscope, unlike the RER?",
+    "choices": ["It has no ribosomes attached", "It has a thicker membrane", "It lacks a lumen", "It is coated with Golgi vesicles", "It has no phospholipid bilayer"],
+    "answerIndex": 0,
+    "hint": "Think about what makes RER look 'rough' — and its absence here.",
+    "explanation": "SER has no ribosomes attached to its surface, giving it a smooth appearance, in contrast to the ribosome-studded RER."
+  },
+  {
+    "id": "cs6-24",
+    "topic": "SER Function: Lipid Synthesis",
+    "lang": "th",
+    "question": "SER สร้างสารใดที่ทำหน้าที่ขนส่งไขมันเข้าสู่กระแสเลือด โดยทำงานร่วมกับ RER?",
+    "choices": ["Glycolipid", "Phospholipid", "Lipoprotein", "Triglyceride", "Glycoprotein"],
+    "answerIndex": 2,
+    "hint": "สารนี้มีทั้งส่วนไขมันและโปรตีนรวมกัน ช่วยละลายไขมันในเลือด",
+    "explanation": "SER สร้าง Lipoprotein ซึ่งทำงานร่วมกับ RER เพื่อขนส่งไขมันเข้าสู่กระแสเลือด"
+  },
+  {
+    "id": "cs6-25",
+    "topic": "SER Function: Lipid Synthesis",
+    "lang": "en",
+    "question": "Which lipid product made by the SER is described as working together with the Golgi complex?",
+    "choices": ["Triglyceride", "Lipoprotein", "Glycolipid", "Cholesterol ester", "Phospholipid for membrane repair"],
+    "answerIndex": 2,
+    "hint": "This molecule combines a carbohydrate group with a lipid.",
+    "explanation": "The SER creates Glycolipid, which works together with the Golgi complex, as part of its lipid synthesis functions."
+  },
+  {
+    "id": "cs6-26",
+    "topic": "SER Function: Lipid Synthesis",
+    "lang": "th",
+    "question": "Phospholipid ที่ SER สร้างขึ้นมีหน้าที่หลักคืออะไร?",
+    "choices": ["สร้างฮอร์โมนสเตียรอยด์", "ซ่อมแซม/เติมเต็มเยื่อหุ้มเซลล์", "เก็บสะสม Ca2+", "ย่อยสลายโปรตีนที่เสียหาย", "ขนส่ง mRNA ออกจากนิวเคลียส"],
+    "answerIndex": 1,
+    "hint": "เกี่ยวข้องกับองค์ประกอบหลักของเยื่อหุ้มเซลล์",
+    "explanation": "Phospholipid ที่ SER สร้างขึ้นทำหน้าที่ replenish หรือเติมเต็มเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs6-27",
+    "topic": "SER Examples: Testis and Ovary",
+    "lang": "th",
+    "question": "Leydig's cell ในอัณฑะสร้างฮอร์โมนใด?",
+    "choices": ["Estrogen", "Testosterone", "Progesterone", "Cortisol", "Aldosterone"],
+    "answerIndex": 1,
+    "hint": "เป็นฮอร์โมนเพศชายหลัก",
+    "explanation": "Leydig's cell สร้างฮอร์โมน Testosterone โดยอาศัย SER"
+  },
+  {
+    "id": "cs6-28",
+    "topic": "SER Examples: Testis and Ovary",
+    "lang": "en",
+    "question": "In the Hypothalamic-Pituitary-Gonadal (HPG) axis, which pituitary hormone acts on Sertoli cells to stimulate spermatogenesis?",
+    "choices": ["LH", "GnRH", "FSH", "Inhibin", "ACTH"],
+    "answerIndex": 2,
+    "hint": "The other pituitary gonadotropin acts on Leydig cells instead.",
+    "explanation": "FSH acts on Sertoli cells to stimulate spermatogenesis, while LH acts on Leydig cells to stimulate testosterone production."
+  },
+  {
+    "id": "cs6-29",
+    "topic": "SER Examples: Testis and Ovary",
+    "lang": "th",
+    "question": "Inhibin ที่หลั่งจาก Sertoli cell มีบทบาทอย่างไรในระบบ HPG axis?",
+    "choices": ["กระตุ้น hypothalamus ให้หลั่ง GnRH เพิ่มขึ้น", "ยับยั้งการหลั่งจาก pituitary (negative feedback)", "กระตุ้น Leydig cell โดยตรง", "กระตุ้นรังไข่ให้สร้าง estrogen", "ไม่มีผลต่อระบบสืบพันธุ์"],
+    "answerIndex": 1,
+    "hint": "คิดถึงกลไก feedback แบบยับยั้ง",
+    "explanation": "Inhibin จาก Sertoli cell ทำหน้าที่ยับยั้ง (feedback) การทำงานของต่อมใต้สมอง"
+  },
+  {
+    "id": "cs6-30",
+    "topic": "SER Examples: Adrenal Cortex",
+    "lang": "th",
+    "question": "เรียงลำดับโซนของต่อมหมวกไตจากภายนอกเข้าสู่ภายใน ข้อใดถูกต้อง?",
+    "choices": [
+      "Capsule → Zona glomerulosa → Zona fasciculata → Zona reticularis → Medulla",
+      "Medulla → Zona reticularis → Zona fasciculata → Zona glomerulosa → Capsule",
+      "Capsule → Zona reticularis → Zona fasciculata → Zona glomerulosa → Medulla",
+      "Zona glomerulosa → Capsule → Zona fasciculata → Medulla → Zona reticularis",
+      "Capsule → Zona fasciculata → Zona glomerulosa → Zona reticularis → Medulla"
+    ],
+    "answerIndex": 0,
+    "hint": "Capsule เป็นชั้นนอกสุดเสมอ ส่วน Medulla เป็นชั้นในสุด",
+    "explanation": "ลำดับที่ถูกต้องจากนอกเข้าในคือ Capsule → Zona glomerulosa → Zona fasciculata → Zona reticularis → Medulla"
+  },
+  {
+    "id": "cs6-31",
+    "topic": "SER Examples: Adrenal Cortex",
+    "lang": "en",
+    "question": "Which adrenal cortex zone secretes aldosterone?",
+    "choices": ["Zona fasciculata", "Zona glomerulosa", "Zona reticularis", "Medulla", "Capsule"],
+    "answerIndex": 1,
+    "hint": "It is the outermost zone of the cortex.",
+    "explanation": "The Zona glomerulosa secretes aldosterone, a mineralocorticoid."
+  },
+  {
+    "id": "cs6-32",
+    "topic": "SER Examples: Adrenal Cortex",
+    "lang": "th",
+    "question": "Zona reticularis หลั่งฮอร์โมนกลุ่มใด?",
+    "choices": ["Mineralocorticoid (aldosterone)", "Glucocorticoid (cortisol)", "Androgens (DHEA และ androstenedione)", "Epinephrine", "Estrogen"],
+    "answerIndex": 2,
+    "hint": "เป็นชั้นในสุดของ cortex ก่อนถึง medulla",
+    "explanation": "Zona reticularis หลั่งฮอร์โมนกลุ่ม Androgens ได้แก่ DHEA และ androstenedione"
+  },
+  {
+    "id": "cs6-33",
+    "topic": "SER Examples: Adrenal Cortex",
+    "lang": "th",
+    "question": "ในกระบวนการ steroidogenesis โปรตีนชนิดใดทำหน้าที่ขนส่งคอเลสเตอรอลเข้าสู่ไมโทคอนเดรีย หลังจากสัญญาณ ACTH-cAMP-PKA?",
+    "choices": ["Mannose-6-phosphate", "STAR protein", "Inhibin", "GnRH receptor", "Trypsinogen"],
+    "answerIndex": 1,
+    "hint": "ชื่อโปรตีนนี้เป็นคำย่อที่เกี่ยวข้องกับการควบคุมการสร้างสเตียรอยด์อย่างฉับพลัน",
+    "explanation": "STAR protein ทำหน้าที่ขนส่งคอเลสเตอรอลเข้าสู่ไมโทคอนเดรีย ซึ่งเป็นจุดเริ่มต้นของการสร้างคอร์ติซอลโดยความร่วมมือระหว่าง SER และไมโทคอนเดรีย"
+  },
+  {
+    "id": "cs6-34",
+    "topic": "SER Example: Muscle (SR)",
+    "lang": "th",
+    "question": "Sarcoplasmic reticulum (SR) ในเซลล์กล้ามเนื้อมีหน้าที่หลักคืออะไร?",
+    "choices": ["สังเคราะห์โปรตีนโครงสร้าง", "กักเก็บ Ca2+", "สร้างฮอร์โมนสเตียรอยด์", "ย่อยสลายของเสียในเซลล์", "สร้าง ATP"],
+    "answerIndex": 1,
+    "hint": "เกี่ยวข้องกับไอออนที่กระตุ้นการหดตัวของกล้ามเนื้อ",
+    "explanation": "SR ในเซลล์กล้ามเนื้อทำหน้าที่กักเก็บ/สะสม Ca2+ ซึ่งจำเป็นต่อการหดตัวของกล้ามเนื้อ"
+  },
+  {
+    "id": "cs6-35",
+    "topic": "SER Example: Muscle (SR)",
+    "lang": "en",
+    "question": "Together with the Sarcoplasmic Reticulum, which structure in muscle fiber forms the network involved in conducting electrical signals into the cell interior?",
+    "choices": ["Nissl bodies", "T-tubules", "Cisternae of the Golgi", "Zona fasciculata", "Leydig cells"],
+    "answerIndex": 1,
+    "hint": "This structure's name references its tube-like transverse shape.",
+    "explanation": "Muscle fiber structure includes the Sarcolemma, T-tubules, Mitochondria, Myofibril, and Sarcoplasmic Reticulum working together."
+  },
+  {
+    "id": "cs6-36",
+    "topic": "Golgi Complex Overview",
+    "lang": "th",
+    "question": "Golgi complex ถูกค้นพบโดยใคร?",
+    "choices": ["Christian de Duve", "Robert Hooke", "Camillo Golgi", "Rudolf Virchow", "Theodor Schwann"],
+    "answerIndex": 2,
+    "hint": "ชื่อออร์แกเนลล์นี้ตั้งตามผู้ค้นพบโดยตรง",
+    "explanation": "Golgi complex ถูกค้นพบโดย Camillo Golgi ซึ่งเป็นที่มาของชื่อออร์แกเนลล์นี้"
+  },
+  {
+    "id": "cs6-37",
+    "topic": "Golgi Complex Overview",
+    "lang": "en",
+    "question": "Which of the following is NOT an alternative name for the Golgi complex?",
+    "choices": ["Golgi body", "Dictyosome", "Golgi apparatus", "Sarcoplasmic reticulum", "Golgi complex"],
+    "answerIndex": 3,
+    "hint": "This term instead refers to a muscle-cell organelle that stores calcium.",
+    "explanation": "Sarcoplasmic reticulum is a form of SER found in muscle cells, not another name for the Golgi complex, which is also called Golgi body, Golgi apparatus, or Dictyosome."
+  },
+  {
+    "id": "cs6-38",
+    "topic": "Golgi Complex Structure",
+    "lang": "th",
+    "question": "ด้านของ Golgi complex ที่รับเวสิเคิลจาก ER และหันเข้าหานิวเคลียส เรียกว่าอะไร?",
+    "choices": ["Trans face (TGN)", "Medial cisternae", "Cis face (CGN)", "ER lumen side", "Nuclear envelope"],
+    "answerIndex": 2,
+    "hint": "หน้านี้อยู่ใกล้กับ ER และนิวเคลียสมากกว่า",
+    "explanation": "Cis face หรือ Cis Golgi Network (CGN) เป็นด้านที่รับเวสิเคิลจาก ER และหันเข้าหานิวเคลียส"
+  },
+  {
+    "id": "cs6-39",
+    "topic": "Golgi Complex Structure",
+    "lang": "th",
+    "question": "Trans Golgi Network (TGN) หันเข้าหาโครงสร้างใด และมีบทบาทหลักอย่างไร?",
+    "choices": ["หันเข้าหานิวเคลียส เพื่อรับเวสิเคิลจาก ER", "หันเข้าหาเยื่อหุ้มเซลล์ เพื่อเตรียม secretory vesicle", "หันเข้าหาไมโทคอนเดรีย เพื่อผลิต ATP", "หันเข้าหา ER เพื่อสร้างไรโบโซม", "หันเข้าหานิวคลีโอลัส เพื่อประกอบหน่วยย่อยไรโบโซม"],
+    "answerIndex": 1,
+    "hint": "หน้านี้เป็นจุดสุดท้ายก่อนโปรตีนออกจาก Golgi",
+    "explanation": "Trans Golgi Network หันเข้าหาเยื่อหุ้มเซลล์และเตรียม secretory vesicle เพื่อการหลั่งสารออกนอกเซลล์"
+  },
+  {
+    "id": "cs6-40",
+    "topic": "Golgi Complex Structure",
+    "lang": "th",
+    "question": "โครงสร้างของ Golgi complex ประกอบด้วยถุงแบนเรียงซ้อนกันเรียกว่าอะไร?",
+    "choices": ["Cristae", "Thylakoid", "Cisternae", "Matrix", "Lamellae"],
+    "answerIndex": 2,
+    "hint": "คำเดียวกับที่ใช้เรียกโครงสร้างแผ่นของ RER",
+    "explanation": "Golgi complex ประกอบด้วยถุงแบนเรียงซ้อนกันเรียกว่า Cisternae เช่นเดียวกับ RER"
+  },
+  {
+    "id": "cs6-41",
+    "topic": "Secretory Pathway (5 Steps)",
+    "lang": "th",
+    "question": "ในกระบวนการหลั่งโปรตีนแบบ 5 ขั้นตอน (ความร่วมมือของออร์แกเนลล์) ออร์แกเนลล์ใดทำหน้าที่ glycosylation ครั้งที่ 2?",
+    "choices": ["RER", "นิวเคลียส", "Golgi complex", "Secretory vesicle", "เยื่อหุ้มเซลล์"],
+    "answerIndex": 2,
+    "hint": "เป็นขั้นตอนถัดจาก RER ก่อนบรรจุลง secretory vesicle",
+    "explanation": "Golgi complex ทำหน้าที่ตรวจสอบและเติม glycosylation ครั้งที่ 2 ก่อนบรรจุ glycoprotein ลง secretory vesicle"
+  },
+  {
+    "id": "cs6-42",
+    "topic": "Secretory Pathway (5 Steps)",
+    "lang": "en",
+    "question": "In the 5-step cooperative pathway for protein secretion, which step directly precedes exocytosis at the plasma membrane?",
+    "choices": ["Nucleus transcribing DNA to mRNA", "RER translating and glycosylating the protein", "Golgi complex sorting and packaging", "Secretory vesicle containing the glycoprotein", "mRNA leaving the nucleus"],
+    "answerIndex": 3,
+    "hint": "This step is the vesicle that fuses directly with the cell membrane.",
+    "explanation": "The secretory vesicle, which contains the finished glycoprotein, is the step immediately before exocytosis at the plasma membrane."
+  },
+  {
+    "id": "cs6-43",
+    "topic": "Secretory Pathway (5 Steps)",
+    "lang": "th",
+    "question": "ขั้นตอนแรกสุดของกระบวนการหลั่งโปรตีนแบบ 5 ขั้นตอนคือข้อใด?",
+    "choices": ["Golgi complex ตรวจสอบและเติมน้ำตาลครั้งที่ 2", "นิวเคลียสถอดรหัสยีน DNA เป็น mRNA", "RER แปลรหัสและพับโปรตีน", "สร้าง secretory vesicle", "Exocytosis ที่เยื่อหุ้มเซลล์"],
+    "answerIndex": 1,
+    "hint": "ทุกกระบวนการเริ่มต้นจากข้อมูลพันธุกรรม",
+    "explanation": "ขั้นตอนแรกคือนิวเคลียสถอดรหัสยีนบน DNA เป็น mRNA แล้วส่งออกนอกนิวเคลียส"
+  },
+  {
+    "id": "cs6-44",
+    "topic": "Secretory Pathway (8 Steps)",
+    "lang": "th",
+    "question": "โปรตีนที่สร้างจาก free ribosome ในไซโทซอล (ไม่ใช่ RER) จะถูกนำไปใช้ที่ใด?",
+    "choices": ["ส่งออกนอกเซลล์ทันทีผ่าน exocytosis", "ใช้งานภายในเซลล์ (ปล่อยเข้าสู่ cytosol)", "เก็บไว้ใน ER lumen", "กลายเป็น primary lysosome", "ส่งตรงไปที่ Golgi cis face"],
+    "answerIndex": 1,
+    "hint": "เปรียบเทียบกับโปรตีนที่สร้างจาก RER ซึ่งมีปลายทางส่งออกเซลล์",
+    "explanation": "โปรตีนที่สร้างจาก free ribosome จะถูกปล่อยเข้าสู่ cytosol เพื่อใช้งานภายในเซลล์เอง ต่างจากโปรตีนที่สร้างจาก RER"
+  },
+  {
+    "id": "cs6-45",
+    "topic": "Secretory Pathway (8 Steps)",
+    "lang": "th",
+    "question": "เวสิเคิลขนาดเล็กที่นำโปรตีนประจำถิ่นของ Golgi กลับไปยัง cis face มีจุดประสงค์เพื่ออะไร ตามขั้นตอนการหลั่งสาร 8 ขั้นตอน?",
+    "choices": ["เพื่อให้นำโปรตีนประจำถิ่นของ Golgi กลับมาใช้ใหม่", "เพื่อสร้าง lysosome ใหม่", "เพื่อรวมตัวกับเยื่อหุ้มเซลล์โดยตรง", "เพื่อสร้าง peroxisome", "เพื่อขนส่ง mRNA กลับสู่นิวเคลียส"],
+    "answerIndex": 0,
+    "hint": "เป็นกลไกการรีไซเคิลภายในกอง Golgi เอง",
+    "explanation": "เวสิเคิลขนาดเล็กเหล่านี้นำโปรตีนประจำถิ่นของ Golgi กลับไปยัง cis face เพื่อให้นำกลับมาใช้ใหม่ แทนที่จะถูกส่งออกไปพร้อมโปรตีนที่จะส่งออก"
+  },
+  {
+    "id": "cs6-46",
+    "topic": "Secretory Pathway (8 Steps)",
+    "lang": "th",
+    "question": "จาก trans face ของ Golgi เวสิเคิลชนิดหนึ่งที่สร้างขึ้นจะพัฒนาไปเป็นออร์แกเนลล์ใดที่บรรจุเอนไซม์ย่อยสลาย?",
+    "choices": ["Peroxisome", "Mitochondrion", "Lysosome", "Chloroplast", "Nucleolus"],
+    "answerIndex": 2,
+    "hint": "ออร์แกเนลล์นี้ทำงานในสภาวะกรดและถูกกล่าวถึงในหัวข้อถัดไป",
+    "explanation": "เวสิเคิลจาก trans face หนึ่งชนิดจะกลายเป็น Lysosome ซึ่งบรรจุเอนไซม์ย่อยสลาย"
+  },
+  {
+    "id": "cs6-47",
+    "topic": "Secretory Pathway (8 Steps)",
+    "lang": "en",
+    "question": "Besides forming a lysosome, what are the two other destinations for vesicles budding from the maturing trans face of the Golgi?",
+    "choices": ["Mitochondria and chloroplasts", "Secretory vesicles (exocytosis) and membrane renewal vesicles", "Nucleus and nucleolus", "Peroxisomes and ribosomes", "Only the ER"],
+    "answerIndex": 1,
+    "hint": "One type releases contents outside the cell; the other adds new material to the membrane.",
+    "explanation": "Vesicles from the trans face also travel to the plasma membrane as secretory vesicles for exocytosis, and as membrane renewal vesicles that add new lipids/proteins to the plasma membrane."
+  },
+  {
+    "id": "cs6-48",
+    "topic": "Golgi Complex Function",
+    "lang": "th",
+    "question": "เอนไซม์ย่อยสลายที่ถูก Golgi คัดแยกไปเป็น lysosome จะถูกติดแท็กด้วยสารใด?",
+    "choices": ["Mannose-6-phosphate", "Glucose-1-phosphate", "ATP", "GTP", "Cholesterol"],
+    "answerIndex": 0,
+    "hint": "สารนี้ทำหน้าที่เหมือน 'พาสปอร์ต' บอกปลายทางของเอนไซม์",
+    "explanation": "เอนไซม์ hydrolytic ที่จะเข้าสู่ lysosome จะถูกติดแท็กด้วย Mannose-6-phosphate"
+  },
+  {
+    "id": "cs6-49",
+    "topic": "Golgi Complex Function",
+    "lang": "en",
+    "question": "When the Golgi modifies a lipid arriving from the SER by adding an oligosaccharide, what is the resulting product called?",
+    "choices": ["Glycoprotein", "Lipoprotein", "Glycolipid", "Phospholipid", "Proteoglycan"],
+    "answerIndex": 2,
+    "hint": "This term combines a carbohydrate group with a lipid molecule.",
+    "explanation": "When Golgi adds oligosaccharide to a lipid from SER, the product is called a Glycolipid, analogous to how glycoprotein forms from protein plus sugar."
+  },
+  {
+    "id": "cs6-50",
+    "topic": "Golgi Complex Function",
+    "lang": "th",
+    "question": "เวสิเคิลชนิดใดที่ Golgi สร้างขึ้นและพบที่บริเวณหัวของอสุจิ?",
+    "choices": ["Lysosome", "Peroxisome", "Acrosome", "Secretory granule", "Nematocyst"],
+    "answerIndex": 2,
+    "hint": "โครงสร้างนี้ช่วยในการเจาะเข้าสู่เซลล์ไข่ระหว่างการปฏิสนธิ",
+    "explanation": "Golgi สร้าง Acrosome ซึ่งพบที่หัวของอสุจิ"
+  },
+  {
+    "id": "cs6-51",
+    "topic": "Golgi Complex Function",
+    "lang": "th",
+    "question": "เวสิเคิลชนิดใดที่ Golgi สร้างขึ้นและบรรจุเอนไซม์ oxidative?",
+    "choices": ["Lysosome", "Peroxisome", "Acrosome", "Secretory granule", "Nematocyst"],
+    "answerIndex": 1,
+    "hint": "ชื่อออร์แกเนลล์นี้เกี่ยวข้องกับสารประกอบออกซิเจนที่ทำปฏิกิริยาได้ง่าย",
+    "explanation": "Golgi บรรจุเอนไซม์ oxidative ลงใน Peroxisome ซึ่งต่างจาก lysosome ที่บรรจุเอนไซม์ hydrolytic"
+  },
+  {
+    "id": "cs6-52",
+    "topic": "Golgi Examples: Nematocyst and Enamel",
+    "lang": "th",
+    "question": "Nematocyst (เข็มพิษ) ที่สร้างขึ้นโดย Golgi complex พบในเซลล์ชนิดใดของไฮดราและแมงกะพรุน?",
+    "choices": ["Chief cell", "Cnidocyte", "Leydig cell", "Parenchyma cell", "Acinar cell"],
+    "answerIndex": 1,
+    "hint": "ชื่อเซลล์นี้มาจากชื่อไฟลัม Cnidaria",
+    "explanation": "Nematocyst พบในเซลล์ Cnidocyte ของสัตว์ในไฟลัม Cnidarian เช่น ไฮดราและแมงกะพรุน"
+  },
+  {
+    "id": "cs6-53",
+    "topic": "Golgi Examples: Nematocyst and Enamel",
+    "lang": "en",
+    "question": "The Golgi complex is responsible for producing which tooth-coating substance?",
+    "choices": ["Mucilage", "Pectin", "Enamel", "Nematocyst", "Lignin"],
+    "answerIndex": 2,
+    "hint": "This substance forms the hard outer layer of teeth.",
+    "explanation": "The Golgi complex creates Enamel, the substance that coats teeth."
+  },
+  {
+    "id": "cs6-54",
+    "topic": "Golgi Examples: Plant Cells",
+    "lang": "th",
+    "question": "ระหว่างการแบ่งไซโทพลาซึมของเซลล์พืช Golgi complex สร้างโครงสร้างใดที่สะสม Pectin?",
+    "choices": ["Middle lamella สำเร็จรูป", "Cell plate", "Plasmodesmata", "Vacuole", "Chloroplast"],
+    "answerIndex": 1,
+    "hint": "โครงสร้างนี้จะพัฒนาต่อไปเป็นผนังเซลล์ใหม่ระหว่างเซลล์ลูกสองเซลล์",
+    "explanation": "Golgi complex สร้าง Cell plate ซึ่งสะสม Pectin ระหว่างการแบ่งไซโทพลาซึมของเซลล์พืช"
+  },
+  {
+    "id": "cs6-55",
+    "topic": "Golgi Examples: Plant Cells",
+    "lang": "en",
+    "question": "Which three non-cellulose polysaccharides does the Golgi complex add to the plant cell wall, according to the material?",
+    "choices": ["Cellulose, chitin, and pectin", "Hemicellulose, pectin, and lignin", "Glycogen, starch, and cellulose", "Mucilage, enamel, and chitin", "Pectin, chitin, and glycogen"],
+    "answerIndex": 1,
+    "hint": "One of these three also appears in the cell plate; the others give plant tissue additional structural strength.",
+    "explanation": "The Golgi complex adds Hemicellulose, Pectin, and Lignin as non-cellulose polysaccharides to the plant cell wall."
+  },
+  {
+    "id": "cs6-56",
+    "topic": "Golgi Examples: Plant Cells",
+    "lang": "th",
+    "question": "Mucilage ที่สร้างขึ้นร่วมกันโดย Golgi และ RER พบผลิตจากเซลล์ชนิดใด บริเวณใดของราก?",
+    "choices": ["Epidermal cell บริเวณ root hair", "Parenchyma cell บริเวณ root cap", "Endodermis บริเวณ vascular cylinder", "Meristematic cell บริเวณ shoot apex", "Cortex cell บริเวณ stele"],
+    "answerIndex": 1,
+    "hint": "บริเวณนี้อยู่ปลายสุดของรากที่ช่วยปกป้องขณะรากเจาะดิน",
+    "explanation": "Mucilage ผลิตจาก Parenchyma cell บริเวณ Root cap โดยอาศัยความร่วมมือระหว่าง Golgi และ RER"
+  },
+  {
+    "id": "cs6-57",
+    "topic": "Lysosome Introduction",
+    "lang": "th",
+    "question": "Lysosome ถูกค้นพบโดยใครและประมาณปีใด?",
+    "choices": ["Camillo Golgi ประมาณปี ค.ศ. 1898", "Christian de Duve ประมาณปี ค.ศ. 1950", "Robert Brown ประมาณปี ค.ศ. 1830", "Rudolf Virchow ประมาณปี ค.ศ. 1855", "Matthias Schleiden ประมาณปี ค.ศ. 1838"],
+    "answerIndex": 1,
+    "hint": "ผู้ค้นพบคนเดียวกับที่เกี่ยวข้องกับการศึกษากระบวนการ autophagy",
+    "explanation": "Lysosome ถูกค้นพบโดย Christian de Duve ประมาณปี ค.ศ. 1950"
+  },
+  {
+    "id": "cs6-58",
+    "topic": "Lysosome Introduction",
+    "lang": "th",
+    "question": "pH ภายใน lysosome โดยประมาณอยู่ในช่วงใด?",
+    "choices": ["7-8 (เป็นกลางถึงเบสอ่อน)", "9-10 (เบส)", "4-5 (กรด)", "1-2 (กรดแก่)", "6.5-7.5 (เป็นกลาง)"],
+    "answerIndex": 2,
+    "hint": "เอนไซม์ใน lysosome ถูกเรียกว่า 'acid hydrolase'",
+    "explanation": "Lysosome มี pH ภายในประมาณ 4-5 ซึ่งเหมาะสมกับการทำงานของเอนไซม์ acid hydrolase"
+  },
+  {
+    "id": "cs6-59",
+    "topic": "Lysosome Introduction",
+    "lang": "th",
+    "question": "กระบวนการที่ lysosome กำจัดออร์แกเนลล์ที่เสื่อมสภาพหรือทำงานไม่ได้ เรียกว่าอะไร?",
+    "choices": ["Autolysis", "Phagocytosis", "Autophagy", "Exocytosis", "Pinocytosis"],
+    "answerIndex": 2,
+    "hint": "คำนี้แปลตรงตัวว่า 'กินตัวเอง'",
+    "explanation": "Autophagy คือกระบวนการที่ lysosome กำจัดออร์แกเนลล์ที่เสื่อมสภาพหรือทำงานไม่ได้ในเซลล์"
+  },
+  {
+    "id": "cs6-60",
+    "topic": "Lysosome Introduction",
+    "lang": "en",
+    "question": "The process by which lysosomes destroy unwanted cells or tissue, resulting in cell death, is called:",
+    "choices": ["Autophagy", "Intracellular digestion", "Autolysis", "Endocytosis", "Residual body formation"],
+    "answerIndex": 2,
+    "hint": "This term contains 'lysis,' referencing the breakdown of the whole cell/tissue rather than just organelles.",
+    "explanation": "Autolysis is the lysosomal function that destroys unwanted cells or tissue, causing cell death."
+  },
+  {
+    "id": "cs6-61",
+    "topic": "Lysosome Pathway",
+    "lang": "th",
+    "question": "เวสิเคิลที่บรรจุเอนไซม์ acid hydrolase ในรูปแบบยังไม่ทำงานซึ่งแตกหน่อออกจาก Golgi apparatus เรียกว่าอะไร?",
+    "choices": ["Secondary lysosome", "Primary lysosome", "Early endosome", "Residual body", "Autophagic vacuole"],
+    "answerIndex": 1,
+    "hint": "คำว่า 'primary' บอกใบ้ว่าเป็นรูปแบบแรกเริ่มก่อนทำงาน",
+    "explanation": "เวสิเคิลที่บรรจุ acid hydrolase ในรูปแบบยังไม่ทำงาน ซึ่งแตกหน่อจาก Golgi เรียกว่า Primary lysosome"
+  },
+  {
+    "id": "cs6-62",
+    "topic": "Lysosome Pathway",
+    "lang": "en",
+    "question": "What is the described function of mannose-6-phosphate tagging on hydrolytic enzymes?",
+    "choices": ["It acts as a 'passport' identifying enzymes destined for the lysosome", "It provides energy for enzymatic reactions", "It neutralizes the lysosome's acidic pH", "It signals proteins for exocytosis only", "It marks proteins for proteasome degradation"],
+    "answerIndex": 0,
+    "hint": "Think of it as an address label rather than a source of energy or pH change.",
+    "explanation": "Mannose-6-phosphate serves as a 'passport' that identifies hydrolytic enzymes destined for the lysosome."
+  },
+  {
+    "id": "cs6-63",
+    "topic": "Lysosome Pathway",
+    "lang": "th",
+    "question": "Early endosome สามารถเกิดขึ้นได้จากเส้นทางใดบ้างตามเนื้อหา?",
+    "choices": ["Exocytosis และ Autophagy", "Phagocytosis และ Endocytosis", "Glycosylation และ Golgi budding", "Mitosis และ Meiosis", "Transcription และ Translation"],
+    "answerIndex": 1,
+    "hint": "ทั้งสองเส้นทางเกี่ยวข้องกับการนำสารเข้าสู่เซลล์",
+    "explanation": "Early endosome เกิดขึ้นได้ทั้งจากเส้นทาง Phagocytosis (ผ่าน phagocytic vacuole) และ Endocytosis (ผ่าน endocytic vesicle)"
+  },
+  {
+    "id": "cs6-64",
+    "topic": "Lysosome Pathway",
+    "lang": "th",
+    "question": "Residual body ในวิถีของ lysosome คืออะไร?",
+    "choices": ["Primary lysosome ก่อนรวมตัวกับเอนไซม์", "เศษวัสดุที่ย่อยไม่หมดและถูกขับออกจากเซลล์", "ส่วนที่เหลือของ cisternae ใน Golgi", "Early endosome ชนิดหนึ่ง", "ไมโทคอนเดรียที่กำลังถูก autophagy"],
+    "answerIndex": 1,
+    "hint": "เป็นสิ่งที่หลงเหลืออยู่หลังการย่อยสลายไม่สมบูรณ์",
+    "explanation": "Residual body คือเศษวัสดุที่ย่อยไม่หมดและถูกขับออกจากเซลล์ในที่สุด"
+  },
+  {
+    "id": "cs6-65",
+    "topic": "Lysosome Pathway",
+    "lang": "th",
+    "question": "ขั้นตอนใดที่ lysosome ปล่อยเอนไซม์ acid hydrolase ออกสู่ของเหลวนอกเซลล์?",
+    "choices": ["Endocytosis", "Phagocytosis", "Exocytosis", "Autophagy", "Glycosylation"],
+    "answerIndex": 2,
+    "hint": "เป็นกระบวนการตรงข้ามกับการนำสารเข้าสู่เซลล์",
+    "explanation": "Exocytosis คือกระบวนการที่ lysosome ปล่อย acid hydrolase ออกสู่ของเหลวนอกเซลล์"
+  }
+]

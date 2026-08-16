@@ -1,0 +1,462 @@
+[
+  {
+    "id": "match-01",
+    "type": "matching",
+    "topic": "Organelles and Their Primary Functions",
+    "instructions": "Match each organelle to its primary function.",
+    "pairs": [
+      {
+        "left": "Nucleus",
+        "right": "Controls cell activity and stores genetic material (DNA)"
+      },
+      {
+        "left": "Rough Endoplasmic Reticulum (RER)",
+        "right": "Synthesizes and glycosylates proteins for export"
+      },
+      {
+        "left": "Smooth Endoplasmic Reticulum (SER)",
+        "right": "Synthesizes lipids and steroids; detoxifies substances"
+      },
+      {
+        "left": "Golgi apparatus",
+        "right": "Modifies, sorts, and packages proteins/lipids into vesicles"
+      },
+      {
+        "left": "Lysosome",
+        "right": "Digests materials using acid hydrolases (intracellular digestion)"
+      },
+      {
+        "left": "Peroxisome",
+        "right": "Breaks down hydrogen peroxide into water and oxygen"
+      },
+      {
+        "left": "Mitochondrion",
+        "right": "Produces ATP via aerobic respiration"
+      },
+      {
+        "left": "Chloroplast",
+        "right": "Converts light energy into chemical energy (photosynthesis)"
+      },
+      {
+        "left": "Ribosome",
+        "right": "Synthesizes protein by translating mRNA"
+      },
+      {
+        "left": "Centriole",
+        "right": "Organizes the mitotic spindle during cell division"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-02",
+    "type": "matching",
+    "topic": "Organelle Membrane Structure Classification",
+    "instructions": "Match each organelle/structure to its membrane classification.",
+    "pairs": [
+      {
+        "left": "Mitochondrion",
+        "right": "Double-membrane organelle"
+      },
+      {
+        "left": "Chloroplast",
+        "right": "Double-membrane organelle"
+      },
+      {
+        "left": "Lysosome",
+        "right": "Single-membrane organelle"
+      },
+      {
+        "left": "Golgi apparatus",
+        "right": "Single-membrane organelle"
+      },
+      {
+        "left": "Ribosome",
+        "right": "Non-membranous organelle"
+      },
+      {
+        "left": "Microtubule",
+        "right": "Non-membranous organelle"
+      },
+      {
+        "left": "Centriole",
+        "right": "Non-membranous organelle"
+      },
+      {
+        "left": "Peroxisome",
+        "right": "Single-membrane organelle"
+      },
+      {
+        "left": "Vacuole",
+        "right": "Single-membrane organelle"
+      },
+      {
+        "left": "Nucleus",
+        "right": "Double-membrane organelle"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-03",
+    "type": "matching",
+    "topic": "Cell Wall Composition by Organism",
+    "instructions": "Match each organism group to the main substance of its cell wall.",
+    "pairs": [
+      {
+        "left": "Plant / Green algae",
+        "right": "Cellulose"
+      },
+      {
+        "left": "Fungi",
+        "right": "Chitin"
+      },
+      {
+        "left": "Bacteria / Blue-green algae",
+        "right": "Peptidoglycan"
+      },
+      {
+        "left": "Diatom",
+        "right": "Silica (SiO2)"
+      },
+      {
+        "left": "Red algae",
+        "right": "Agarose / Carrageenan"
+      },
+      {
+        "left": "Archaea",
+        "right": "Glycoprotein (no peptidoglycan)"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-04",
+    "type": "matching",
+    "topic": "Cytoskeleton Filament Types",
+    "instructions": "Match each cytoskeletal filament to its subunit protein and approximate diameter.",
+    "pairs": [
+      {
+        "left": "Microfilament (Actin filament)",
+        "right": "Polymer of actin, ~7 nm"
+      },
+      {
+        "left": "Intermediate filament",
+        "right": "Fibrous protein subunits (e.g., keratin), ~8-12 nm"
+      },
+      {
+        "left": "Microtubule",
+        "right": "Tubulin dimer, hollow tube, ~25 nm"
+      },
+      {
+        "left": "Centriole / Basal body",
+        "right": "9 triplet microtubules, no central pair (9+0=27)"
+      },
+      {
+        "left": "Motile cilium/flagellum axoneme",
+        "right": "9 doublet microtubules + central pair (9+2=20)"
+      },
+      {
+        "left": "Primary cilium axoneme",
+        "right": "9 doublet microtubules, no central pair (9+0=18)"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-05",
+    "type": "matching",
+    "topic": "Membrane Protein Types and Functions",
+    "instructions": "Match each membrane protein type to its function or example.",
+    "pairs": [
+      {
+        "left": "Channel protein",
+        "right": "Forms an open pore; does not change shape (e.g., aquaporin, ion channel)"
+      },
+      {
+        "left": "Carrier protein",
+        "right": "Changes conformation while transporting a substance (e.g., GLUT glucose transporter)"
+      },
+      {
+        "left": "Receptor protein",
+        "right": "Receives and transmits signals into the cell (e.g., insulin receptor)"
+      },
+      {
+        "left": "Enzyme protein",
+        "right": "Catalyzes a reaction (e.g., ATP synthase)"
+      },
+      {
+        "left": "Anchoring protein",
+        "right": "Attaches to the cytoskeleton and extracellular matrix"
+      },
+      {
+        "left": "Junctional protein",
+        "right": "Holds adjacent cells together (e.g., tight junction, gap junction)"
+      },
+      {
+        "left": "Glycoprotein",
+        "right": "Displays cell identity for recognition (e.g., ABO blood antigen)"
+      },
+      {
+        "left": "Integral protein",
+        "right": "Permanently embedded within the phospholipid bilayer"
+      },
+      {
+        "left": "Peripheral protein",
+        "right": "Anchored to only one side of the membrane surface"
+      }
+    ],
+    "source": "Cell Membrane"
+  },
+  {
+    "id": "match-06",
+    "type": "matching",
+    "topic": "Vacuole Types and Functions",
+    "instructions": "Match each vacuole type to its function.",
+    "pairs": [
+      {
+        "left": "Sap vacuole (Central vacuole)",
+        "right": "Stores water, pigments, toxins; maintains turgor pressure"
+      },
+      {
+        "left": "Food vacuole",
+        "right": "Holds ingested particles for digestion with lysosomes"
+      },
+      {
+        "left": "Contractile vacuole",
+        "right": "Pumps out excess water for osmoregulation in freshwater protozoa"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-07",
+    "type": "matching",
+    "topic": "Plastid Types and Their Stored Substances",
+    "instructions": "Match each plastid type to what it stores or its defining feature.",
+    "pairs": [
+      {
+        "left": "Proplastid",
+        "right": "Undifferentiated precursor found in meristematic cells"
+      },
+      {
+        "left": "Amyloplast",
+        "right": "Stores starch granules"
+      },
+      {
+        "left": "Elaioplast",
+        "right": "Stores fat/lipid"
+      },
+      {
+        "left": "Proteinoplast",
+        "right": "Stores protein"
+      },
+      {
+        "left": "Chromoplast",
+        "right": "Stores carotenoid (orange) and xanthophyll (yellow) pigments"
+      },
+      {
+        "left": "Chloroplast",
+        "right": "Contains chlorophyll; site of photosynthesis"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-08",
+    "type": "matching",
+    "topic": "RER and SER Hormone/Enzyme Producing Cells",
+    "instructions": "Match each cell type to the hormone or enzyme it produces.",
+    "pairs": [
+      {
+        "left": "Chief cell (stomach, RER)",
+        "right": "Pepsinogen"
+      },
+      {
+        "left": "Parietal cell (stomach)",
+        "right": "Hydrochloric acid (HCl)"
+      },
+      {
+        "left": "G cell (stomach, endocrine)",
+        "right": "Gastrin"
+      },
+      {
+        "left": "Pancreatic acinar cell (RER)",
+        "right": "Trypsinogen"
+      },
+      {
+        "left": "β-cell (pancreas)",
+        "right": "Insulin"
+      },
+      {
+        "left": "Leydig cell (testis, SER)",
+        "right": "Testosterone"
+      },
+      {
+        "left": "Zona glomerulosa (adrenal cortex, SER)",
+        "right": "Aldosterone"
+      },
+      {
+        "left": "Zona fasciculata (adrenal cortex, SER)",
+        "right": "Cortisol"
+      },
+      {
+        "left": "Neuron (Nissl bodies = RER)",
+        "right": "Neurotransmitter (e.g., acetylcholine)"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-09",
+    "type": "matching",
+    "topic": "Ciliary Structure and Associated Disease",
+    "instructions": "Match each ciliary structure to the disease/condition associated with its dysfunction.",
+    "pairs": [
+      {
+        "left": "Radial spoke",
+        "right": "Primary Ciliary Dyskinesia (PCD)"
+      },
+      {
+        "left": "Outer/Inner dynein arm",
+        "right": "Primary Ciliary Dyskinesia (PCD)"
+      },
+      {
+        "left": "Central pair microtubule",
+        "right": "Hydrocephalus, PCD"
+      },
+      {
+        "left": "Ciliary membrane",
+        "right": "Polycystic Kidney Disease (PKD)"
+      },
+      {
+        "left": "Basal body",
+        "right": "Oral-Facial-Digital Syndrome, Bardet-Biedl Syndrome"
+      },
+      {
+        "left": "Outer doublet",
+        "right": "Hedgehog signaling pathway defects"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-10",
+    "type": "matching",
+    "topic": "Cell Theory Scientists and Contributions",
+    "instructions": "Match each scientist to their contribution to cell theory.",
+    "pairs": [
+      {
+        "left": "Robert Hooke (1665)",
+        "right": "First observed and named 'cells' in cork tissue"
+      },
+      {
+        "left": "Anton van Leeuwenhoek (1674)",
+        "right": "First observed living cells ('animalcules') in pond water"
+      },
+      {
+        "left": "Matthias Schleiden (1838)",
+        "right": "Concluded all plants are made of cells"
+      },
+      {
+        "left": "Theodor Schwann (1839)",
+        "right": "Concluded all animals are made of cells"
+      },
+      {
+        "left": "Rudolf Virchow (1855)",
+        "right": "Proposed that new cells arise from pre-existing cells"
+      },
+      {
+        "left": "Carl Woese (1977/1990)",
+        "right": "Proposed the Three-Domain System (Bacteria, Archaea, Eukarya)"
+      },
+      {
+        "left": "Camillo Golgi",
+        "right": "Discovered the Golgi apparatus"
+      },
+      {
+        "left": "Christian de Duve (~1950)",
+        "right": "Discovered the lysosome"
+      },
+      {
+        "left": "Hans Christian Gram",
+        "right": "Developed the Gram staining technique"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-11",
+    "type": "matching",
+    "topic": "Ribosome Sedimentation Coefficients",
+    "instructions": "Match each ribosome/subunit description to its Svedberg (S) value.",
+    "pairs": [
+      {
+        "left": "Prokaryotic ribosome (whole, 30S+50S)",
+        "right": "70S"
+      },
+      {
+        "left": "Eukaryotic ribosome (whole, 40S+60S)",
+        "right": "80S"
+      },
+      {
+        "left": "Prokaryotic small subunit",
+        "right": "30S"
+      },
+      {
+        "left": "Prokaryotic large subunit",
+        "right": "50S"
+      },
+      {
+        "left": "Eukaryotic small subunit",
+        "right": "40S"
+      },
+      {
+        "left": "Eukaryotic large subunit",
+        "right": "60S"
+      },
+      {
+        "left": "Ribosomes inside mitochondria and chloroplast",
+        "right": "70S (prokaryote-type)"
+      }
+    ],
+    "source": "Cell Structure"
+  },
+  {
+    "id": "match-12",
+    "type": "matching",
+    "topic": "Membrane Transport Mechanisms",
+    "instructions": "Match each transport mechanism to its correct description.",
+    "pairs": [
+      {
+        "left": "Simple diffusion",
+        "right": "Moves directly through the phospholipid bilayer, down the concentration gradient, no protein needed"
+      },
+      {
+        "left": "Facilitated diffusion",
+        "right": "Moves down the concentration gradient with help from a transport protein"
+      },
+      {
+        "left": "Active transport",
+        "right": "Moves against the concentration gradient using ATP energy"
+      },
+      {
+        "left": "Phagocytosis",
+        "right": "Cell engulfs a large solid particle using pseudopodia"
+      },
+      {
+        "left": "Pinocytosis",
+        "right": "Cell takes in small dissolved solute molecules in fluid"
+      },
+      {
+        "left": "Receptor-mediated endocytosis",
+        "right": "Specific receptor binds solute, forming a coated pit and vesicle"
+      },
+      {
+        "left": "Exocytosis",
+        "right": "Vesicle fuses with the plasma membrane to release cargo outside the cell"
+      }
+    ],
+    "source": "Cell Membrane"
+  }
+]

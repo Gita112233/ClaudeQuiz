@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Quiz: เซลล์ &amp; Cell Membrane</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div class="app-header">
+  <h1>🧬 ติว Cell Structure &amp; Cell Membrane</h1>
+  <p>ตอบคำถาม → เฉลยทันที · มี Hint ให้ดูได้ทุกข้อ</p>
+</div>
+
+<main>
+
+  <!-- SETUP SCREEN -->
+  <section id="screen-setup" class="setup-card">
+    <h2>ตั้งค่าก่อนเริ่มทำ</h2>
+
+    <div class="stats-row" id="setup-stats">กำลังโหลดข้อมูล...</div>
+
+    <div class="field-group">
+      <label class="field-label">เนื้อหา (Source)</label>
+      <div class="chip-row" id="filter-source">
+        <button class="chip active" data-value="all">ทั้งหมด</button>
+        <button class="chip" data-value="Cell Structure">Cell Structure and Functions</button>
+        <button class="chip" data-value="Cell Membrane">Cell Membrane</button>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">รูปแบบคำถาม (Question Type)</label>
+      <div class="chip-row" id="filter-type">
+        <button class="chip active" data-value="all">ทั้งหมด</button>
+        <button class="chip" data-value="mcq">ปรนัย 5 ตัวเลือก (MCQ)</button>
+        <button class="chip" data-value="matching">จับคู่ (Matching)</button>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">ภาษา (MCQ เท่านั้น — Matching เป็นอังกฤษทั้งหมด)</label>
+      <div class="chip-row" id="filter-lang">
+        <button class="chip active" data-value="all">ทั้งหมด</button>
+        <button class="chip" data-value="th">ภาษาไทย</button>
+        <button class="chip" data-value="en">English</button>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">หัวข้อย่อย (Topic) — เลือกได้ 1 หัวข้อเพื่อฝึกเฉพาะจุด</label>
+      <select id="filter-topic">
+        <option value="all">ทุกหัวข้อ</option>
+      </select>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">โหมด</label>
+      <div class="chip-row" id="filter-shuffle">
+        <button class="chip active" data-value="shuffle">สุ่มลำดับข้อ</button>
+        <button class="chip" data-value="order">เรียงตามเนื้อหา (แนะนำสำหรับทบทวนครั้งแรก)</button>
+      </div>
+    </div>
+
+    <button class="btn btn-primary btn-block" id="btn-start">เริ่มทำ Quiz</button>
+  </section>
+
+  <!-- QUIZ SCREEN -->
+  <section id="screen-quiz" class="hidden">
+    <div class="quiz-topbar">
+      <button class="btn btn-secondary btn-small" id="btn-prev" disabled>← ก่อนหน้า</button>
+      <span id="quiz-position">ข้อ 1/1</span>
+      <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+      <span class="score-pill" id="score-pill">✔ 0 / 0</span>
+    </div>
+
+    <div class="q-card" id="q-card">
+      <!-- filled by JS -->
+    </div>
+
+    <div class="action-row">
+      <button class="btn btn-secondary" id="btn-quit">หยุดและดูผล</button>
+    </div>
+  </section>
+
+  <!-- RESULT SCREEN -->
+  <section id="screen-result" class="hidden">
+    <div class="q-card result-hero">
+      <div style="font-size:2rem;">🎉</div>
+      <div class="result-score" id="result-score">0%</div>
+      <div id="result-sub" style="color:var(--text-dim)">ตอบถูก 0 จาก 0 ข้อ</div>
+
+      <div class="topic-breakdown" id="topic-breakdown"></div>
+
+      <div class="action-row">
+        <button class="btn btn-primary" id="btn-retry-wrong">ทำเฉพาะข้อที่ผิดซ้ำ</button>
+        <button class="btn btn-secondary" id="btn-restart">ตั้งค่าใหม่</button>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<div class="footer-note">
+  Local quiz app · ข้อมูลไม่ถูกส่งออกไปที่ใด ทำงานในเบราว์เซอร์ล้วนๆ<br/>
+  ดูวิธีเพิ่มคำถามใหม่ได้ใน CLAUDE.md
+</div>
+
+<script src="data/questions.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

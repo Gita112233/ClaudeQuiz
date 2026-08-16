@@ -1,0 +1,578 @@
+[
+  {
+    "id": "cs8-01",
+    "topic": "Chloroplast Outer Membrane",
+    "lang": "th",
+    "question": "เยื่อหุ้มชั้นนอก (outer membrane) ของคลอโรพลาสต์มีลักษณะการซึมผ่านแบบใด และมีโครงสร้างใดที่คล้ายกับเยื่อหุ้มเซลล์แบคทีเรีย?",
+    "choices": [
+      "Selectively permeable และมี Porin channels คล้ายเยื่อหุ้มเซลล์แบคทีเรีย",
+      "Impermeable และไม่มีช่องโปรตีนใดๆ",
+      "Selectively permeable และมี ATP synthase เป็นหลัก",
+      "Freely permeable และมี Cytochrome complex คล้ายไมโทคอนเดรีย",
+      "Selectively permeable และมี Fatty acyl-CoA synthase เป็นเอนไซม์หลัก"
+    ],
+    "answerIndex": 0,
+    "hint": "นึกถึงคุณสมบัติที่เยื่อหุ้มชั้นนอกของทั้งคลอโรพลาสต์และไมโทคอนเดรียมีร่วมกัน",
+    "explanation": "เยื่อหุ้มชั้นนอกของคลอโรพลาสต์ selectively permeable และมี Porin channels เช่นเดียวกับเยื่อหุ้มเซลล์แบคทีเรีย ตามเนื้อหาหน้า 141"
+  },
+  {
+    "id": "cs8-02",
+    "topic": "Chloroplast Intermembrane Space",
+    "lang": "en",
+    "question": "According to the lecture material, what is notable about the chloroplast intermembrane space?",
+    "choices": [
+      "It is very wide and contains the photosystem",
+      "It is very narrow and not very functionally important",
+      "It contains circular DNA and 70S ribosomes",
+      "It is the site where water splits into H+ and O2",
+      "It accumulates large amounts of H+ used for ATP synthase"
+    ],
+    "answerIndex": 1,
+    "hint": "Compare its size and functional importance to the thylakoid lumen.",
+    "explanation": "The material states the chloroplast intermembrane space is very narrow and not very functionally important, unlike the mitochondrial intermembrane space which accumulates H+."
+  },
+  {
+    "id": "cs8-03",
+    "topic": "Chloroplast Inner Membrane",
+    "lang": "th",
+    "question": "เยื่อหุ้มชั้นในของคลอโรพลาสต์พับเข้าด้านในก่อให้เกิดระบบเยื่อภายในที่เรียกว่าอะไร?",
+    "choices": [
+      "Cristae",
+      "Lamella",
+      "Matrix",
+      "Cytochrome complex",
+      "Stroma lamella"
+    ],
+    "answerIndex": 1,
+    "hint": "โครงสร้างนี้เป็นจุดเริ่มต้นของระบบเยื่อ thylakoid",
+    "explanation": "เยื่อหุ้มชั้นในของคลอโรพลาสต์พับเข้าด้านในก่อให้เกิด Lamella ซึ่งเป็นจุดเริ่มต้นของระบบเยื่อ thylakoid ตามเนื้อหาหน้า 141"
+  },
+  {
+    "id": "cs8-04",
+    "topic": "Chloroplast Inner Membrane",
+    "lang": "th",
+    "question": "ระบบเยื่อ Lamella ที่เกิดจากเยื่อหุ้มชั้นในของคลอโรพลาสต์ เป็นจุดเริ่มต้นของระบบเยื่อใด?",
+    "choices": [
+      "ระบบเยื่อ Cristae ของไมโทคอนเดรีย",
+      "ระบบเยื่อ Thylakoid",
+      "ระบบเยื่อ Endoplasmic reticulum",
+      "ระบบเยื่อ Golgi apparatus",
+      "ระบบเยื่อ Nuclear envelope"
+    ],
+    "answerIndex": 1,
+    "hint": "ระบบเยื่อนี้เป็นที่เกิดปฏิกิริยาแสงของการสังเคราะห์ด้วยแสง",
+    "explanation": "Lamella เป็นจุดเริ่มต้น (origin) ของระบบเยื่อ thylakoid ซึ่งเป็นที่เกิดปฏิกิริยาแสง ตามหน้า 141"
+  },
+  {
+    "id": "cs8-05",
+    "topic": "Chloroplast vs Mitochondria Outer Membrane",
+    "lang": "en",
+    "question": "Both chloroplast and mitochondria outer membranes share which common feature described in the material?",
+    "choices": [
+      "Both contain Cytochrome oxidase complex",
+      "Both contain Porin channels similar to bacterial membranes",
+      "Both are the site of the Calvin cycle",
+      "Both accumulate large amounts of H+ for chemiosmosis",
+      "Both contain circular DNA and 70S ribosomes"
+    ],
+    "answerIndex": 1,
+    "hint": "Think about the channel protein mentioned for both organelles' outer membranes.",
+    "explanation": "Both outer membranes are selectively permeable and contain Porin channels, similar to bacterial cell membranes, as stated for both chloroplast (p.141) and mitochondria (p.144)."
+  },
+  {
+    "id": "cs8-06",
+    "topic": "Granum and Grana Structure",
+    "lang": "th",
+    "question": "เมื่อ thylakoid หลายอันเรียงซ้อนกันเป็นกอง จะเรียกโครงสร้างนี้ (เอกพจน์) ว่าอะไร?",
+    "choices": [
+      "Stroma",
+      "Lamella",
+      "Granum",
+      "Lumen",
+      "Cristae"
+    ],
+    "answerIndex": 2,
+    "hint": "คำพหูพจน์ของโครงสร้างนี้คือ Grana",
+    "explanation": "Thylakoid ที่เรียงซ้อนกันเป็นกองเรียกว่า Granum (เอกพจน์) หลายกองเรียก Grana (พหูพจน์) ตามหน้า 142"
+  },
+  {
+    "id": "cs8-07",
+    "topic": "Stroma Lamella",
+    "lang": "en",
+    "question": "What connects separate grana to one another within a chloroplast?",
+    "choices": [
+      "Outer membrane",
+      "Intermembrane space",
+      "Stroma lamella",
+      "Cristae",
+      "Porin channels"
+    ],
+    "answerIndex": 2,
+    "hint": "This structure is a type of thylakoid membrane, but between grana rather than within one.",
+    "explanation": "Stroma lamella are thylakoid membranes that connect separate grana together, as stated on page 142."
+  },
+  {
+    "id": "cs8-08",
+    "topic": "Stroma Contents",
+    "lang": "th",
+    "question": "บริเวณ Stroma ของคลอโรพลาสต์มีองค์ประกอบใดต่อไปนี้อยู่?",
+    "choices": [
+      "Ribosome 70S, circular DNA/RNA, และเอนไซม์ เช่น RubisCO",
+      "Ribosome 80S และ DNA เชิงเส้นเท่านั้น",
+      "Cytochrome complex และ ATP synthase เท่านั้น",
+      "Porin channels และ Fatty acyl-CoA synthase",
+      "Photosystem I และ Photosystem II เท่านั้น"
+    ],
+    "answerIndex": 0,
+    "hint": "Stroma มีสภาพคล้ายไซโทพลาสซึมของแบคทีเรีย สามารถแบ่งตัวเองได้",
+    "explanation": "Stroma มี circular DNA+RNA ที่แบ่งตัวเองได้, Ribosome 70S, และเอนไซม์ต่างๆ เช่น RubisCO, DNA polymerase, RNA polymerase ตามหน้า 142"
+  },
+  {
+    "id": "cs8-09",
+    "topic": "Thylakoid Lumen Proton Accumulation",
+    "lang": "th",
+    "question": "โปรตอน (H+) ที่เกิดจากการสลายน้ำและถูกลำเลียงผ่านห่วงโซ่ถ่ายทอดอิเล็กตรอนในคลอโรพลาสต์ จะสะสมอยู่บริเวณใด?",
+    "choices": [
+      "Stroma",
+      "Intermembrane space",
+      "Thylakoid lumen",
+      "Outer membrane",
+      "Matrix"
+    ],
+    "answerIndex": 2,
+    "hint": "บริเวณนี้อยู่ภายในสุดของ thylakoid ซึ่งเกี่ยวข้องกับ chemiosmosis",
+    "explanation": "โปรตอน H+ สะสมอยู่ภายใน thylakoid lumen ซึ่งเกี่ยวข้องกับกระบวนการ chemiosmosis เพื่อสร้าง ATP ตามหน้า 142"
+  },
+  {
+    "id": "cs8-10",
+    "topic": "Photosystem II Water Splitting",
+    "lang": "en",
+    "question": "At which structure does the reaction 2H2O → 4H+ + O2 occur, triggered by sunlight hitting Photosystem II?",
+    "choices": [
+      "Stroma",
+      "Thylakoid membrane",
+      "Outer membrane",
+      "Intermembrane space",
+      "Mitochondrial matrix"
+    ],
+    "answerIndex": 1,
+    "hint": "This is where both photosystems (I and II) are embedded.",
+    "explanation": "Water splitting at Photosystem II occurs at the thylakoid membrane, where sunlight energizes PSII and PSI, per page 141."
+  },
+  {
+    "id": "cs8-11",
+    "topic": "Light Reaction Products",
+    "lang": "th",
+    "question": "ปฏิกิริยาแสง (Light reaction) ซึ่งเกิดที่ thylakoid ให้ผลผลิตใดที่จะถูกนำไปใช้ใน Calvin cycle?",
+    "choices": [
+      "CO2 และ O2",
+      "ATP และ NADPH",
+      "กลูโคสและแป้ง",
+      "Pyruvate และ Acetyl CoA",
+      "NADH และ FADH2"
+    ],
+    "answerIndex": 1,
+    "hint": "ผลผลิตทั้งสองนี้เกิดจาก Photophosphorylation และระบบถ่ายทอดอิเล็กตรอน",
+    "explanation": "ปฏิกิริยาแสงผลิต ATP ผ่าน Photophosphorylation และ NADPH ผ่านระบบถ่ายทอดอิเล็กตรอน ซึ่งทั้งสองถูกนำไปใช้ใน Calvin cycle ที่ stroma ตามหน้า 143"
+  },
+  {
+    "id": "cs8-12",
+    "topic": "Calvin Cycle Location",
+    "lang": "en",
+    "question": "Where does the Calvin cycle take place in the chloroplast, and what does it use as inputs from the light reaction?",
+    "choices": [
+      "Thylakoid membrane; uses O2 and H2O",
+      "Intermembrane space; uses CO2 only",
+      "Stroma; uses ATP and NADPH",
+      "Outer membrane; uses NADH and FADH2",
+      "Thylakoid lumen; uses ATP only"
+    ],
+    "answerIndex": 2,
+    "hint": "Think of the fluid-filled compartment where RubisCO is located.",
+    "explanation": "The Calvin cycle occurs in the stroma and uses ATP and NADPH produced by the light reaction to convert CO2 into organic compounds (sugar)."
+  },
+  {
+    "id": "cs8-13",
+    "topic": "Photorespiration Cooperation",
+    "lang": "th",
+    "question": "กระบวนการ Photorespiration ในพืชเกิดจากความร่วมมือของออร์แกเนลล์ใดต่อไปนี้?",
+    "choices": [
+      "คลอโรพลาสต์ + ไมโทคอนเดรีย + Peroxisome",
+      "คลอโรพลาสต์ + Golgi apparatus + Lysosome",
+      "ไมโทคอนเดรีย + Nucleus + ER",
+      "คลอโรพลาสต์ + Ribosome + Vacuole",
+      "Peroxisome + Golgi apparatus + Nucleus"
+    ],
+    "answerIndex": 0,
+    "hint": "มีออร์แกเนลล์ที่ผลิตพลังงานจากแสงและออร์แกเนลล์ที่ผลิตพลังงานจากการหายใจร่วมด้วย",
+    "explanation": "Chloroplast ทำงานร่วมกับ Mitochondria และ Peroxisome ในกระบวนการ Photorespiration ของพืช ตามหน้า 143"
+  },
+  {
+    "id": "cs8-14",
+    "topic": "Chloroplast Overall Input Output",
+    "lang": "th",
+    "question": "จากแผนภาพกระบวนการสังเคราะห์ด้วยแสงโดยรวม สารตั้งต้น (input) ใดที่ป้อนเข้าสู่คลอโรพลาสต์?",
+    "choices": [
+      "O2, ATP, NADPH",
+      "Light, H2O, CO2",
+      "Glucose, O2, H2O",
+      "CO2, ATP, O2",
+      "NADP+, ADP, Light"
+    ],
+    "answerIndex": 1,
+    "hint": "สารตั้งต้นเหล่านี้มาจากสิ่งแวดล้อมภายนอกและใช้ในทั้งปฏิกิริยาแสงและ Calvin cycle",
+    "explanation": "Input ของกระบวนการสังเคราะห์แสงโดยรวมคือ แสง (Light), น้ำ (H2O), และคาร์บอนไดออกไซด์ (CO2) ซึ่งให้ output เป็น O2 และน้ำตาล ตามหน้า 143"
+  },
+  {
+    "id": "cs8-15",
+    "topic": "Chloroplast Distribution in Algae",
+    "lang": "th",
+    "question": "กลุ่มโพรทิสต์ (Protist algae) กลุ่มใดที่ \"ไม่มี\" คลอโรพลาสต์แบบมีเยื่อหุ้ม เนื่องจากเป็นสิ่งมีชีวิตโพรคาริโอต?",
+    "choices": [
+      "Euglena",
+      "สาหร่ายสีเขียว (Green algae)",
+      "สาหร่ายสีเขียวแกมน้ำเงิน (Blue-green algae / Cyanobacteria)",
+      "สาหร่ายสีน้ำตาล (Brown algae)",
+      "Diatom"
+    ],
+    "answerIndex": 2,
+    "hint": "สิ่งมีชีวิตกลุ่มนี้จริงๆ แล้วคือแบคทีเรียชนิดหนึ่ง ไม่มีออร์แกเนลล์ที่มีเยื่อหุ้ม",
+    "explanation": "สาหร่ายสีเขียวแกมน้ำเงิน (cyanobacteria) เป็นโพรคาริโอต จึงไม่มีพลาสติดที่มีเยื่อหุ้มเช่นคลอโรพลาสต์ ตามหน้า 143"
+  },
+  {
+    "id": "cs8-16",
+    "topic": "Chloroplast Distribution Example Organism",
+    "lang": "en",
+    "question": "Which organism is given in the material as an example containing chloroplasts?",
+    "choices": [
+      "E. coli",
+      "Cyanobacteria",
+      "Euglena",
+      "Amoeba",
+      "Yeast"
+    ],
+    "answerIndex": 2,
+    "hint": "This organism is a protist commonly used as a classic example in photosynthesis discussions.",
+    "explanation": "Euglena is cited as an example organism containing chloroplasts, per page 143."
+  },
+  {
+    "id": "cs8-17",
+    "topic": "Chloroplast Distribution in Plants",
+    "lang": "th",
+    "question": "คลอโรพลาสต์มักพบในส่วนใดของพืชตามเนื้อหาที่กำหนด?",
+    "choices": [
+      "เฉพาะรากเท่านั้น",
+      "ส่วนที่มีสีเขียวหรือสีม่วงของพืช",
+      "เฉพาะเมล็ดเท่านั้น",
+      "เฉพาะดอกสีขาว",
+      "เฉพาะเนื้อเยื่อเจริญ (meristem) เท่านั้น"
+    ],
+    "answerIndex": 1,
+    "hint": "สีเหล่านี้บ่งบอกถึงการมีรงควัตถุสังเคราะห์แสง",
+    "explanation": "คลอโรพลาสต์พบในส่วนสีเขียวหรือสีม่วงของพืช ตามหน้า 143"
+  },
+  {
+    "id": "cs8-18",
+    "topic": "Mitochondria Outer Membrane",
+    "lang": "th",
+    "question": "เยื่อหุ้มชั้นนอกของไมโทคอนเดรียมี Porin channels และเอนไซม์ใดที่กล่าวถึงในเนื้อหา?",
+    "choices": [
+      "RubisCO",
+      "Fatty acyl-CoA synthase",
+      "Cytochrome oxidase",
+      "ATP synthase",
+      "DNA polymerase"
+    ],
+    "answerIndex": 1,
+    "hint": "เอนไซม์นี้เกี่ยวข้องกับกรดไขมัน",
+    "explanation": "เยื่อหุ้มชั้นนอกของไมโทคอนเดรียมี Porin channels และเอนไซม์ Fatty acyl-CoA synthase ตามหน้า 144"
+  },
+  {
+    "id": "cs8-19",
+    "topic": "Mitochondria Intermembrane Space",
+    "lang": "en",
+    "question": "What accumulates in the mitochondrial intermembrane space due to electron transfer?",
+    "choices": [
+      "Circular DNA",
+      "Increased H+ (protons)",
+      "RubisCO enzyme",
+      "Chlorophyll pigment",
+      "Ribosome 70S"
+    ],
+    "answerIndex": 1,
+    "hint": "This accumulation drives ATP synthase, similar in principle to the thylakoid lumen in chloroplasts.",
+    "explanation": "The mitochondrial intermembrane space accumulates increased H+ from electron transfer, which drives ATP synthesis via chemiosmosis, per page 144."
+  },
+  {
+    "id": "cs8-20",
+    "topic": "Mitochondria Inner Membrane Cristae",
+    "lang": "th",
+    "question": "เยื่อหุ้มชั้นในของไมโทคอนเดรียพับเข้าด้านในอย่างมากมาย ก่อให้เกิดโครงสร้างที่เรียกว่าอะไร?",
+    "choices": [
+      "Lamella",
+      "Grana",
+      "Cristae",
+      "Stroma lamella",
+      "Thylakoid"
+    ],
+    "answerIndex": 2,
+    "hint": "โครงสร้างนี้เพิ่มพื้นที่ผิวสำหรับ cytochrome complex และ ATP synthase",
+    "explanation": "เยื่อหุ้มชั้นในของไมโทคอนเดรียพับเข้าด้านในอย่างมากมายก่อให้เกิด Cristae ตามหน้า 144"
+  },
+  {
+    "id": "cs8-21",
+    "topic": "Mitochondria Inner Membrane Components",
+    "lang": "th",
+    "question": "บนเยื่อหุ้มชั้นใน (inner membrane) ของไมโทคอนเดรียมีโปรตีนใดต่อไปนี้อยู่?",
+    "choices": [
+      "Porin channels เท่านั้น",
+      "Cytochrome complex และ ATP synthase",
+      "RubisCO และ Carotenoid",
+      "Photosystem I และ Photosystem II",
+      "Fatty acyl-CoA synthase เท่านั้น"
+    ],
+    "answerIndex": 1,
+    "hint": "โปรตีนกลุ่มนี้เกี่ยวข้องกับการถ่ายทอดอิเล็กตรอนและการผลิต ATP",
+    "explanation": "เยื่อหุ้มชั้นในของไมโทคอนเดรียมี Cytochrome complex สำหรับถ่ายทอดอิเล็กตรอน และ ATP synthase สำหรับผลิต ATP ตามหน้า 144"
+  },
+  {
+    "id": "cs8-22",
+    "topic": "Mitochondria Matrix Contents",
+    "lang": "en",
+    "question": "Which of the following is found in the mitochondrial matrix?",
+    "choices": [
+      "Photosystem II and chlorophyll",
+      "Circular DNA/RNA, 70S ribosomes, and Krebs cycle enzymes",
+      "Porin channels and cytochrome complex",
+      "Grana and stroma lamellae",
+      "Cellulose and lignin"
+    ],
+    "answerIndex": 1,
+    "hint": "This compartment is self-replicating and resembles the chloroplast stroma in genetic content.",
+    "explanation": "The mitochondrial matrix contains circular self-replicating DNA/RNA, 70S ribosomes, and enzymes such as pyruvate oxidase, Krebs cycle enzymes, and β-oxidation enzymes, per page 144."
+  },
+  {
+    "id": "cs8-23",
+    "topic": "Acetyl CoA Formation Location",
+    "lang": "th",
+    "question": "กระบวนการสร้าง Acetyl CoA เกิดขึ้นที่บริเวณใดของไมโทคอนเดรีย?",
+    "choices": [
+      "Outer membrane",
+      "Intermembrane space",
+      "Matrix",
+      "Inner membrane",
+      "Cristae เท่านั้นโดยไม่เกี่ยวกับ matrix"
+    ],
+    "answerIndex": 2,
+    "hint": "บริเวณนี้เดียวกับที่ Krebs cycle เกิดขึ้น",
+    "explanation": "การสร้าง Acetyl CoA เกิดขึ้นที่ Matrix ของไมโทคอนเดรีย ตามหน้า 145"
+  },
+  {
+    "id": "cs8-24",
+    "topic": "Krebs Cycle Location",
+    "lang": "en",
+    "question": "Where does the Krebs cycle (citric acid cycle) occur within the mitochondrion?",
+    "choices": [
+      "Outer membrane",
+      "Intermembrane space",
+      "Matrix",
+      "Cristae membrane surface only",
+      "Inner membrane"
+    ],
+    "answerIndex": 2,
+    "hint": "Same location where Acetyl CoA is formed.",
+    "explanation": "The Krebs cycle occurs in the mitochondrial matrix, per page 145."
+  },
+  {
+    "id": "cs8-25",
+    "topic": "Electron Transport Chain Location",
+    "lang": "th",
+    "question": "กระบวนการ Electron transport chain และ Chemiosmosis ในไมโทคอนเดรียเกิดขึ้นที่บริเวณใด?",
+    "choices": [
+      "Matrix",
+      "Outer membrane",
+      "Inner membrane",
+      "Intermembrane space เท่านั้นโดยไม่เกี่ยวกับเยื่อ",
+      "Stroma"
+    ],
+    "answerIndex": 2,
+    "hint": "บริเวณนี้มี Cytochrome complex และ ATP synthase ฝังอยู่",
+    "explanation": "Electron transport chain และ Chemiosmosis เกิดขึ้นที่ inner membrane ซึ่งมี cytochrome complex และ ATP synthase ตามหน้า 145"
+  },
+  {
+    "id": "cs8-26",
+    "topic": "Mitochondria SER Cooperation",
+    "lang": "th",
+    "question": "ไมโทคอนเดรียทำงานร่วมกับ Smooth ER (SER) เพื่อผลิตสารใดและทำหน้าที่ใด?",
+    "choices": [
+      "ผลิต Lipid, HMG CoA, Steroid และการกำจัดสารพิษ (Detoxification)",
+      "ผลิต Chlorophyll และ Carotenoid",
+      "ผลิต RubisCO และเอนไซม์ Calvin cycle",
+      "ผลิต DNA polymerase และ RNA polymerase เท่านั้น",
+      "ผลิตเฉพาะ ATP เท่านั้น"
+    ],
+    "answerIndex": 0,
+    "hint": "SER มีบทบาทสำคัญในกระบวนการสร้างไขมันและกำจัดสารพิษในร่างกาย",
+    "explanation": "ไมโทคอนเดรียทำงานร่วมกับ SER เพื่อผลิต Lipid, HMG CoA, Steroid และทำหน้าที่ Detoxification ตามหน้า 145"
+  },
+  {
+    "id": "cs8-27",
+    "topic": "Mitochondria Peroxisome Cooperation",
+    "lang": "en",
+    "question": "Mitochondria cooperate with Peroxisome to carry out which process?",
+    "choices": [
+      "Photosynthesis",
+      "β-oxidation",
+      "Protein synthesis",
+      "DNA replication",
+      "Photorespiration alone without other organelles"
+    ],
+    "answerIndex": 1,
+    "hint": "This process breaks down fatty acids.",
+    "explanation": "Mitochondria work together with Peroxisome for β-oxidation, per page 145."
+  },
+  {
+    "id": "cs8-28",
+    "topic": "Oxidative Metabolism Electron Acceptor",
+    "lang": "th",
+    "question": "ในกระบวนการ Oxidative metabolism อิเล็กตรอนพลังงานสูงที่ถูกลำเลียงผ่านตัวพาบนเยื่อหุ้มชั้นในของไมโทคอนเดรีย สุดท้ายจะถูกถ่ายทอดให้กับสารใด?",
+    "choices": [
+      "CO2",
+      "H2O ที่เกิดจากการสลายในคลอโรพลาสต์",
+      "O2",
+      "NADP+",
+      "Pyruvate"
+    ],
+    "answerIndex": 2,
+    "hint": "สารนี้เป็นตัวรับอิเล็กตรอนตัวสุดท้ายในห่วงโซ่การถ่ายทอดอิเล็กตรอนแบบใช้ออกซิเจน",
+    "explanation": "อิเล็กตรอนพลังงานสูงถูกถ่ายทอดผ่านตัวพาบนเยื่อหุ้มชั้นในไปยัง O2 ซึ่งเป็นตัวรับอิเล็กตรอนสุดท้าย พร้อมสร้าง proton gradient ตามหน้า 145"
+  },
+  {
+    "id": "cs8-29",
+    "topic": "Mitochondria Abundant Cell Types",
+    "lang": "th",
+    "question": "เซลล์ชนิดใดต่อไปนี้ที่มีไมโทคอนเดรียอยู่เป็นจำนวนมาก เนื่องจากต้องการพลังงานสูง?",
+    "choices": [
+      "เซลล์กล้ามเนื้อหัวใจ (Cardiac muscle)",
+      "เซลล์เม็ดเลือดแดงที่เจริญเต็มที่",
+      "เซลล์ผิวหนังชั้นนอก",
+      "เซลล์คอร์ก (Cork cell)",
+      "เซลล์ในเนื้อไม้ที่ตายแล้ว"
+    ],
+    "answerIndex": 0,
+    "hint": "เซลล์นี้ต้องเต้นตลอดเวลาไม่มีหยุดพัก จึงต้องการพลังงานมหาศาล",
+    "explanation": "เซลล์กล้ามเนื้อหัวใจถูกระบุเป็นตัวอย่างเซลล์ที่มีไมโทคอนเดรียมากเนื่องจากต้องการพลังงานสูง ตามหน้า 146"
+  },
+  {
+    "id": "cs8-30",
+    "topic": "Mitochondria Abundant Cell Types",
+    "lang": "en",
+    "question": "Which of the following is NOT listed in the material as a cell type with abundant mitochondria due to high energy demand?",
+    "choices": [
+      "Sea urchin egg cells",
+      "Kidney cells",
+      "Sperm cells",
+      "Nerve cells",
+      "Mature xylem vessel cells"
+    ],
+    "answerIndex": 4,
+    "hint": "Four of these are explicitly listed; one is a dead, hollow, water-conducting plant cell type not mentioned.",
+    "explanation": "The material lists sea urchin egg cells, cardiac muscle, kidney, liver, sperm cells, nerve cells, and plant meristematic cells as high-mitochondria cells; mature xylem vessel cells are not mentioned."
+  },
+  {
+    "id": "cs8-31",
+    "topic": "Mitochondria in Plant Tissue",
+    "lang": "th",
+    "question": "ในพืช เนื้อเยื่อชนิดใดที่มีไมโทคอนเดรียอยู่มากเนื่องจากต้องการพลังงานสูงสำหรับการเจริญเติบโต?",
+    "choices": [
+      "เนื้อเยื่อเจริญ (Meristematic tissue)",
+      "เนื้อเยื่อคอร์ก (Cork tissue)",
+      "เนื้อเยื่อไซเล็มที่ตายแล้ว",
+      "เนื้อเยื่อเปลือกไม้ชั้นนอก",
+      "เมล็ดที่อยู่ในระยะพักตัว"
+    ],
+    "answerIndex": 0,
+    "hint": "เนื้อเยื่อนี้เป็นบริเวณที่เซลล์แบ่งตัวและเจริญเติบโตอย่างต่อเนื่อง",
+    "explanation": "เนื้อเยื่อเจริญ (meristematic/growth tissue) ของพืชมีไมโทคอนเดรียมากเนื่องจากต้องการพลังงานสูงในการแบ่งเซลล์ ตามหน้า 146"
+  },
+  {
+    "id": "cs8-32",
+    "topic": "Cyanide Target Complex",
+    "lang": "th",
+    "question": "ไซยาไนด์ (Cyanide) ยับยั้งการทำงานของไมโทคอนเดรียโดยการปิดกั้นโปรตีนคอมเพล็กซ์ใด?",
+    "choices": [
+      "Complex I",
+      "Complex II",
+      "Complex III",
+      "Complex IV / Cytochrome oxidase complex",
+      "ATP synthase (Complex V)"
+    ],
+    "answerIndex": 3,
+    "hint": "คอมเพล็กซ์นี้เป็นตัวสุดท้ายในห่วงโซ่ถ่ายทอดอิเล็กตรอนก่อนถึงออกซิเจน",
+    "explanation": "Cyanide ปิดกั้น Protein complex IV (Cytochrome oxidase complex) ของห่วงโซ่ถ่ายทอดอิเล็กตรอน ตามหน้า 146"
+  },
+  {
+    "id": "cs8-33",
+    "topic": "Cyanide Effect on ATP Production",
+    "lang": "en",
+    "question": "What is the direct consequence when cyanide blocks Complex IV of the electron transport chain?",
+    "choices": [
+      "ATP production increases dramatically",
+      "Electron transfer is prevented, resulting in no ATP production",
+      "The Calvin cycle stops in the chloroplast",
+      "Krebs cycle enzymes are destroyed permanently",
+      "Oxygen delivery by red blood cells increases"
+    ],
+    "answerIndex": 1,
+    "hint": "Think about what happens downstream when the final electron transfer step is blocked.",
+    "explanation": "Blocking Complex IV prevents electron transfer, resulting in no ATP production, per page 146."
+  },
+  {
+    "id": "cs8-34",
+    "topic": "Normal Oxygen Delivery Pathway",
+    "lang": "th",
+    "question": "ในสภาวะปกติ (ไม่มีไซยาไนด์) เม็ดเลือดแดงลำเลียงออกซิเจนไปให้เซลล์ และออกซิเจนจะถูกรับโดยโปรตีนคอมเพล็กซ์ใดในไมโทคอนเดรีย?",
+    "choices": [
+      "ATP synthase",
+      "RubisCO",
+      "Cytochrome oxidase complex",
+      "Porin channel",
+      "Fatty acyl-CoA synthase"
+    ],
+    "answerIndex": 2,
+    "hint": "คอมเพล็กซ์เดียวกันนี้คือเป้าหมายที่ไซยาไนด์เข้าไปปิดกั้น",
+    "explanation": "ในสภาวะปกติ Cytochrome oxidase complex ในไมโทคอนเดรียรับออกซิเจนที่เม็ดเลือดแดงนำมาส่งได้ตามปกติ ตามหน้า 146"
+  },
+  {
+    "id": "cs8-35",
+    "topic": "Cyanide Poisoning Mechanism",
+    "lang": "th",
+    "question": "กลไกการเป็นพิษของไซยาไนด์ต่อเซลล์คือข้อใด?",
+    "choices": [
+      "ไซยาไนด์ทำลาย DNA ในนิวเคลียสโดยตรง",
+      "ไซยาไนด์จับกับ/ปิดกั้น Cytochrome oxidase complex ทำให้เซลล์ใช้ออกซิเจนตามปกติไม่ได้",
+      "ไซยาไนด์ทำลายเยื่อหุ้มเซลล์ทั้งหมด",
+      "ไซยาไนด์เพิ่มการสร้าง ATP อย่างรวดเร็ว",
+      "ไซยาไนด์ยับยั้งการสร้าง Chlorophyll ในคลอโรพลาสต์"
+    ],
+    "answerIndex": 1,
+    "hint": "ผลกระทบเกิดที่คอมเพล็กซ์ตัวสุดท้ายของห่วงโซ่ถ่ายทอดอิเล็กตรอนในไมโทคอนเดรีย",
+    "explanation": "ไซยาไนด์จับกับ/ปิดกั้น Cytochrome oxidase complex ทำให้เซลล์ไม่สามารถใช้ออกซิเจนได้ตามปกติ ตามหน้า 146"
+  },
+  {
+    "id": "cs8-36",
+    "topic": "Cytochrome Oxidase Location",
+    "lang": "en",
+    "question": "On which mitochondrial structure is the Cytochrome oxidase complex (Complex IV), the target of cyanide, located?",
+    "choices": [
+      "Outer membrane",
+      "Intermembrane space (free-floating)",
+      "Inner membrane (cristae)",
+      "Matrix",
+      "Stroma"
+    ],
+    "answerIndex": 2,
+    "hint": "This is the same membrane that also houses ATP synthase.",
+    "explanation": "The cytochrome complex, including Complex IV, is located on the mitochondrial inner membrane (cristae), alongside ATP synthase, per pages 144 and 146."
+  }
+]

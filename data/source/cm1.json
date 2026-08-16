@@ -1,0 +1,738 @@
+[
+  {
+    "id": "cm1-01",
+    "topic": "Fluid Mosaic Model Overview",
+    "lang": "th",
+    "question": "เยื่อหุ้มเซลล์ (Plasmalemma) มีโครงสร้างตามแบบจำลองใด และประกอบด้วยสารหลักชนิดใดเป็นหลัก",
+    "choices": [
+      "Fluid Mosaic Model; ประกอบด้วย Lipid และ Protein เป็นหลัก",
+      "Solid Mosaic Model; ประกอบด้วย Carbohydrate และ Protein เป็นหลัก",
+      "Fluid Mosaic Model; ประกอบด้วย Carbohydrate และ Nucleic acid เป็นหลัก",
+      "Rigid Lattice Model; ประกอบด้วย Protein เพียงอย่างเดียว",
+      "Fluid Mosaic Model; ประกอบด้วย Cellulose และ Lipid เป็นหลัก"
+    ],
+    "answerIndex": 0,
+    "hint": "นึกถึงชื่อแบบจำลองที่เน้นความ \"ไหลได้\" ของเยื่อหุ้มเซลล์",
+    "explanation": "เยื่อหุ้มเซลล์มีโครงสร้างแบบ Fluid Mosaic Model ประกอบด้วย Lipid และ Protein เป็นองค์ประกอบหลัก"
+  },
+  {
+    "id": "cm1-02",
+    "topic": "Fluid Mosaic Model Overview",
+    "lang": "th",
+    "question": "เยื่อหุ้มเซลล์ตามแบบจำลอง Fluid Mosaic Model ประกอบด้วยองค์ประกอบหลัก 4 ชนิด ข้อใดถูกต้องครบถ้วน",
+    "choices": [
+      "Phospholipid bilayer, DNA, Steroid, Cellulose",
+      "Phospholipid bilayer, Membrane protein, Steroid, Oligosaccharide chain",
+      "Triglyceride, Membrane protein, RNA, Glycogen",
+      "Phospholipid bilayer, Membrane protein, Nucleic acid, Starch",
+      "Cellulose, Membrane protein, Steroid, Chitin"
+    ],
+    "answerIndex": 1,
+    "hint": "หนึ่งในองค์ประกอบคือกลุ่มคาร์โบไฮเดรตสายสั้นที่อยู่บนผิวเซลล์",
+    "explanation": "องค์ประกอบหลัก 4 อย่างคือ Phospholipid bilayer, Membrane protein, Steroid และ Carbohydrate chain (Oligosaccharide)"
+  },
+  {
+    "id": "cm1-03",
+    "topic": "Fluid Mosaic Model Overview",
+    "lang": "en",
+    "question": "In the fluid mosaic model, where is the oligosaccharide chain group typically located?",
+    "choices": [
+      "Embedded entirely within the hydrophobic core of the bilayer",
+      "Exclusively in the cytosolic leaflet",
+      "On the extracellular surface, attached to proteins or lipids",
+      "Freely floating in the cytosol",
+      "Spanning both leaflets of the membrane"
+    ],
+    "answerIndex": 2,
+    "hint": "Think about which side faces \"outside\" the cell where cell recognition occurs.",
+    "explanation": "Oligosaccharide chains are found only on the extracellular (outer) surface, forming glycoproteins and glycolipids for cell recognition."
+  },
+  {
+    "id": "cm1-04",
+    "topic": "Membrane Permeability And Selectivity",
+    "lang": "th",
+    "question": "เพราะเหตุใดเยื่อหุ้มเซลล์จึงถูกเรียกว่า semipermeable membrane หรือ selective permeable membrane",
+    "choices": [
+      "เพราะยอมให้สารทุกชนิดผ่านได้อย่างอิสระโดยไม่มีข้อจำกัด",
+      "เพราะเยื่อหุ้มเซลล์ไม่ยอมให้สารใดๆผ่านเข้าออกเลย",
+      "เพราะเยื่อหุ้มเซลล์ประกอบด้วยโปรตีนเท่านั้นซึ่งปิดกั้นทุกสาร",
+      "เพราะสารขนาดเล็กผ่านเยื่อหุ้มเซลล์ได้โดยตรงหรือผ่านโปรตีนขนส่ง แต่สารขนาดใหญ่ผ่านไม่ได้",
+      "เพราะสารที่มีประจุผ่านได้ดีกว่าสารไม่มีประจุเสมอ"
+    ],
+    "answerIndex": 3,
+    "hint": "นึกถึงคำว่า \"เลือกผ่าน\" - ไม่ใช่ทุกอย่างผ่านได้ ไม่ใช่ทุกอย่างผ่านไม่ได้",
+    "explanation": "เยื่อหุ้มเซลล์เลือกให้สารบางชนิดผ่านได้ (โมเลกุลเล็ก หรือผ่านโปรตีนขนส่ง) ส่วนโมเลกุลใหญ่เกินไปจะผ่านไม่ได้"
+  },
+  {
+    "id": "cm1-05",
+    "topic": "Membrane Permeability And Selectivity",
+    "lang": "th",
+    "question": "ข้อใดกล่าวถึงบทบาทของเยื่อหุ้มเซลล์ต่อสมดุลออสโมติก (osmotic balance) ของเซลล์ได้ถูกต้อง",
+    "choices": [
+      "เยื่อหุ้มเซลล์ไม่มีผลใดๆต่อสมดุลน้ำภายในเซลล์",
+      "หากไม่มีเยื่อหุ้มเซลล์ เซลล์จะไม่สามารถแตกหรือเหี่ยวได้เลย",
+      "สมดุลออสโมติกของเซลล์ขึ้นกับปริมาณ DNA ภายในนิวเคลียสเท่านั้น",
+      "เยื่อหุ้มเซลล์ทำหน้าที่เพิ่มปริมาตรเซลล์เพียงอย่างเดียว",
+      "เยื่อหุ้มเซลล์เป็นตัวบ่งชี้สมดุลออสโมติกของเซลล์ หากไม่มีเยื่อหุ้มเซลล์ เซลล์จะเหี่ยว บวม หรือแตกได้"
+    ],
+    "answerIndex": 4,
+    "hint": "คิดถึงสิ่งที่จะเกิดขึ้นกับเซลล์เม็ดเลือดแดงถ้าไม่มีเยื่อหุ้มเซลล์ควบคุมน้ำเข้าออก",
+    "explanation": "เยื่อหุ้มเซลล์ควบคุมการเข้าออกของน้ำ ทำให้เซลล์รักษาสมดุลได้ ถ้าไม่มีเยื่อหุ้มเซลล์ เซลล์จะเหี่ยว บวม หรือแตก"
+  },
+  {
+    "id": "cm1-06",
+    "topic": "Membrane Permeability And Selectivity",
+    "lang": "en",
+    "question": "Which pair correctly describes molecule behavior at the cell membrane?",
+    "choices": [
+      "Lipid-soluble (non-polar) molecules cross the bilayer directly; polar/charged molecules cannot cross directly",
+      "Water-soluble (polar/charged) molecules cross the bilayer directly with ease",
+      "Both polar and non-polar molecules cross the bilayer directly with equal ease",
+      "Only charged molecules can cross the phospholipid bilayer directly",
+      "Lipid-soluble molecules require a channel protein to cross the membrane"
+    ],
+    "answerIndex": 0,
+    "hint": "Think about which type of molecule is chemically similar to the hydrophobic tails.",
+    "explanation": "Lipid-soluble, non-polar, uncharged molecules pass directly through the bilayer, while water-soluble polar/charged molecules cannot and need transport proteins."
+  },
+  {
+    "id": "cm1-07",
+    "topic": "Membrane Permeability And Selectivity",
+    "lang": "th",
+    "question": "สมดุลของเซลล์ (cell balance) ที่กล่าวถึงในเนื้อหานี้ ขึ้นอยู่กับอัตราส่วนใดเป็นสำคัญ",
+    "choices": [
+      "อัตราส่วนระหว่างจำนวนโปรตีนต่อจำนวนไขมัน",
+      "อัตราส่วนพื้นที่ผิวต่อปริมาตร (surface area : volume ratio)",
+      "อัตราส่วนระหว่าง saturated ต่อ unsaturated fatty acid เท่านั้น",
+      "อัตราส่วนระหว่าง cholesterol ต่อ phospholipid เท่านั้น",
+      "อัตราส่วนระหว่างนิวเคลียสต่อไซโทพลาซึม"
+    ],
+    "answerIndex": 1,
+    "hint": "เกี่ยวข้องกับรูปร่างและขนาดของเซลล์โดยตรง",
+    "explanation": "เนื้อหาระบุว่าสมดุลของเซลล์ขึ้นกับอัตราส่วนพื้นที่ผิวต่อปริมาตร (surface area : volume ratio)"
+  },
+  {
+    "id": "cm1-08",
+    "topic": "Lipid Chemistry Basics",
+    "lang": "th",
+    "question": "Lipid คือสารประกอบอินทรีย์ที่มีสมบัติใด และประกอบขึ้นจากอะไร",
+    "choices": [
+      "ละลายน้ำได้ดี ประกอบด้วย Amino acid",
+      "ละลายน้ำได้ดี ประกอบด้วย Monosaccharide",
+      "ไม่ละลายน้ำ ประกอบด้วย Alcohol และ Fatty acid",
+      "ไม่ละลายน้ำ ประกอบด้วย Nucleotide",
+      "ละลายน้ำได้ดี ประกอบด้วย Glycerol และ Phosphate เท่านั้น"
+    ],
+    "answerIndex": 2,
+    "hint": "ธาตุหลักคือ C และ H และไม่ชอบน้ำ",
+    "explanation": "Lipid เป็นสารประกอบอินทรีย์ ไม่ละลายน้ำ ประกอบด้วย Alcohol และ Fatty acid โดยมี C, H เป็นธาตุหลัก"
+  },
+  {
+    "id": "cm1-09",
+    "topic": "Lipid Chemistry Basics",
+    "lang": "th",
+    "question": "Simple lipid (เช่น Triglyceride/Triacylglycerol) เกิดจากการรวมตัวของสารใด",
+    "choices": [
+      "Glycerol + Fatty acid 2 โมเลกุล",
+      "Glycerol + Phosphate group",
+      "Fatty acid 2 โมเลกุล + Phosphate group",
+      "Glycerol + Fatty acid 3 โมเลกุล",
+      "Glycerol + Amino acid"
+    ],
+    "answerIndex": 3,
+    "hint": "\"Tri-\" ในชื่อ Triglyceride บอกจำนวนของกรดไขมันที่เกาะอยู่",
+    "explanation": "Triglyceride (Simple lipid) เกิดจาก Glycerol 1 โมเลกุลรวมกับ Fatty acid 3 โมเลกุล ตามคำนำหน้า \"Tri-\""
+  },
+  {
+    "id": "cm1-10",
+    "topic": "Lipid Chemistry Basics",
+    "lang": "en",
+    "question": "A compound lipid such as phospholipid is formed from which combination?",
+    "choices": [
+      "1 Glycerol + 3 Fatty acids only",
+      "2 Glycerol + 1 Fatty acid + phosphate group",
+      "1 Glycerol + 1 Fatty acid + 2 phosphate groups",
+      "3 Fatty acids + phosphate group only, without glycerol",
+      "1 Glycerol + 2 Fatty acids + an extra group such as a phosphate group"
+    ],
+    "answerIndex": 4,
+    "hint": "Compare to a triglyceride, but one fatty acid position is replaced by another chemical group.",
+    "explanation": "Phospholipid = 1 Glycerol + 2 Fatty acids + an extra \"X\" group (e.g., phosphate, PO4^3-), distinguishing it from a triglyceride which has 3 fatty acids."
+  },
+  {
+    "id": "cm1-11",
+    "topic": "Fatty Acid Saturation Chemistry",
+    "lang": "th",
+    "question": "กรดไขมันชนิด Unsaturated fatty acid มีลักษณะโครงสร้างอย่างไร",
+    "choices": [
+      "มีพันธะคู่ C=C อย่างน้อย 1 ตำแหน่ง ทำให้สายโค้งงอ",
+      "มีพันธะเดี่ยว C-C ทั้งหมด สายตรง",
+      "ไม่มีคาร์บอนในโครงสร้างเลย",
+      "มี H เกาะเต็มทุกตำแหน่งของคาร์บอน",
+      "เป็นสายตรงและอิ่มตัวด้วย H เต็มที่"
+    ],
+    "answerIndex": 0,
+    "hint": "คำว่า \"Unsaturated\" หมายถึงยังไม่อิ่มตัวด้วยไฮโดรเจน เพราะมีพันธะชนิดพิเศษ",
+    "explanation": "Unsaturated fatty acid มีพันธะคู่ (C=C) อย่างน้อยหนึ่งตำแหน่ง ทำให้สายโซ่โค้งงอ ต่างจาก Saturated fatty acid ที่เป็นสายตรง"
+  },
+  {
+    "id": "cm1-12",
+    "topic": "Fatty Acid Saturation Chemistry",
+    "lang": "th",
+    "question": "Saturated fatty acid มีลักษณะอย่างไร",
+    "choices": [
+      "มีพันธะคู่ C=C หลายตำแหน่ง สายโค้งงอ",
+      "มีเฉพาะพันธะเดี่ยว C-C สายตรง อิ่มตัวด้วย H เต็มที่",
+      "ไม่มี C และ H ในโครงสร้าง",
+      "มี Phosphate group เกาะอยู่เสมอ",
+      "ละลายน้ำได้ดีกว่ากรดไขมันชนิดอื่น"
+    ],
+    "answerIndex": 1,
+    "hint": "ตรงข้ามกับกรดไขมันที่มีพันธะคู่และสายโค้งงอ",
+    "explanation": "Saturated fatty acid มีพันธะเดี่ยว C-C ทั้งหมด ทำให้สายตรงและอิ่มตัวด้วยไฮโดรเจนเต็มที่"
+  },
+  {
+    "id": "cm1-13",
+    "topic": "Fatty Acid Saturation Chemistry",
+    "lang": "en",
+    "question": "What is the main structural consequence of a C=C double bond in an unsaturated fatty acid chain?",
+    "choices": [
+      "It makes the chain fully saturated with hydrogen",
+      "It removes the carbon backbone entirely",
+      "It creates a kink/bend in the fatty acid chain",
+      "It converts the fatty acid into a phosphate group",
+      "It has no effect on chain shape"
+    ],
+    "answerIndex": 2,
+    "hint": "Think about why unsaturated fats tend to pack more loosely than saturated fats.",
+    "explanation": "The C=C double bond introduces a kink in the chain, preventing tight, straight packing seen in saturated fatty acids."
+  },
+  {
+    "id": "cm1-14",
+    "topic": "Phospholipid Bilayer Structure",
+    "lang": "th",
+    "question": "ส่วน \"หัว\" (head) ของ Phospholipid มีสมบัติและองค์ประกอบใด",
+    "choices": [
+      "Hydrophobic, ไม่มีขั้ว, ประกอบด้วย Fatty acid 2 สาย",
+      "Hydrophobic, ละลายในไขมันได้ดี ประกอบด้วย Cholesterol",
+      "Hydrophilic, ไม่มีขั้ว ประกอบด้วย Fatty acid 3 สาย",
+      "Hydrophilic, มีขั้ว/มีประจุ, ประกอบด้วย Glycerol + Phosphate group + side chain",
+      "Hydrophobic, มีประจุ ประกอบด้วย Oligosaccharide"
+    ],
+    "answerIndex": 3,
+    "hint": "ส่วนนี้หันออกสัมผัสน้ำทั้งสองด้านของเยื่อหุ้มเซลล์",
+    "explanation": "หัวของ Phospholipid เป็น hydrophilic มีขั้ว/มีประจุ ประกอบด้วย Glycerol, Phosphate group และ side chain เช่น choline ละลายน้ำได้"
+  },
+  {
+    "id": "cm1-15",
+    "topic": "Phospholipid Bilayer Structure",
+    "lang": "th",
+    "question": "เพราะเหตุใด Phospholipid จึงถูกจัดเป็นโมเลกุลชนิด amphipathic",
+    "choices": [
+      "เพราะละลายน้ำได้ดีทั้งโมเลกุล",
+      "เพราะไม่ละลายน้ำเลยทั้งโมเลกุล",
+      "เพราะมีประจุบวกและประจุลบเท่ากันทุกตำแหน่ง",
+      "เพราะประกอบด้วยโปรตีนและคาร์โบไฮเดรตเท่านั้น",
+      "เพราะมีทั้งส่วนที่ชอบน้ำ (hydrophilic head) และส่วนที่ไม่ชอบน้ำ (hydrophobic tail) อยู่ในโมเลกุลเดียวกัน"
+    ],
+    "answerIndex": 4,
+    "hint": "\"Amphi-\" แปลว่า ทั้งสองด้าน",
+    "explanation": "Phospholipid มีทั้งส่วนหัวที่ชอบน้ำ (hydrophilic) และหางที่ไม่ชอบน้ำ (hydrophobic) ในโมเลกุลเดียวกัน จึงเรียกว่า amphipathic"
+  },
+  {
+    "id": "cm1-16",
+    "topic": "Phospholipid Bilayer Structure",
+    "lang": "en",
+    "question": "In the phospholipid bilayer, how are the hydrophobic tails and hydrophilic heads arranged relative to the surrounding water?",
+    "choices": [
+      "Hydrophobic tails face inward, away from water; hydrophilic heads face outward toward water on both sides",
+      "Hydrophilic heads face inward toward each other; hydrophobic tails face outward toward water",
+      "Both heads and tails face outward toward water",
+      "Both heads and tails face inward, away from water",
+      "Heads and tails are randomly distributed with no consistent orientation"
+    ],
+    "answerIndex": 0,
+    "hint": "Think about which part avoids water and which part is comfortable in water.",
+    "explanation": "The hydrophobic tails point inward away from water, while the hydrophilic heads face outward toward the aqueous extracellular fluid and cytosol on both sides."
+  },
+  {
+    "id": "cm1-17",
+    "topic": "Membrane Fluidity Factors",
+    "lang": "th",
+    "question": "หากเยื่อหุ้มเซลล์มีสัดส่วนของ Saturated fatty acid มากขึ้น จะส่งผลต่อความไหลลื่น (fluidity) ของเยื่อหุ้มเซลล์อย่างไร",
+    "choices": [
+      "Fluidity เพิ่มขึ้น เยื่อหุ้มเซลล์ไหลลื่นมากขึ้น",
+      "Fluidity ลดลง เยื่อหุ้มเซลล์แข็งตัวมากขึ้น",
+      "ไม่มีผลใดๆต่อ fluidity",
+      "เยื่อหุ้มเซลล์จะละลายหายไปทันที",
+      "Fluidity เพิ่มขึ้นเป็นสองเท่าเสมอ"
+    ],
+    "answerIndex": 1,
+    "hint": "กรดไขมันชนิดนี้มีสายตรง เรียงตัวชิดกันได้ดี",
+    "explanation": "Saturated fatty acid มีสายตรง เรียงตัวชิดกันแน่น ทำให้ fluidity ลดลง เยื่อหุ้มเซลล์แข็งตัวมากขึ้น"
+  },
+  {
+    "id": "cm1-18",
+    "topic": "Membrane Fluidity Factors",
+    "lang": "th",
+    "question": "ปัจจัยใดต่อไปนี้ทำให้เยื่อหุ้มเซลล์มี fluidity เพิ่มขึ้น",
+    "choices": [
+      "สัดส่วน Saturated fatty acid เพิ่มขึ้น",
+      "การกำจัด Phospholipid ออกจากเยื่อหุ้มเซลล์ทั้งหมด",
+      "สัดส่วน Unsaturated fatty acid เพิ่มขึ้น",
+      "การเพิ่มจำนวน Nucleic acid ในเยื่อหุ้มเซลล์",
+      "การลดจำนวน Fatty acid ทั้งหมดจนเป็นศูนย์"
+    ],
+    "answerIndex": 2,
+    "hint": "กรดไขมันที่มีพันธะคู่ทำให้สายโซ่โค้งงอ เรียงตัวไม่แน่น",
+    "explanation": "Unsaturated fatty acid มีพันธะคู่ทำให้สายโค้งงอ เรียงตัวไม่แน่น ส่งผลให้ fluidity เพิ่มขึ้น"
+  },
+  {
+    "id": "cm1-19",
+    "topic": "Membrane Fluidity Factors",
+    "lang": "en",
+    "question": "What determines the fluidity of the cell membrane most directly, according to the material?",
+    "choices": [
+      "The amount of oligosaccharide chains on the surface",
+      "The number of glycoproteins present",
+      "The concentration of extracellular fluid",
+      "The type/composition of fatty acid tails (saturated vs unsaturated) in the phospholipid",
+      "The number of peripheral proteins only"
+    ],
+    "answerIndex": 3,
+    "hint": "This relates to the hydrophobic tail portion of the phospholipid.",
+    "explanation": "The tail (fatty acid composition) of the phospholipid determines membrane fluidity — more unsaturated fatty acid increases fluidity, more saturated decreases it."
+  },
+  {
+    "id": "cm1-20",
+    "topic": "Membrane Protein Types",
+    "lang": "th",
+    "question": "Integral protein มีลักษณะการจัดเรียงตัวในเยื่อหุ้มเซลล์อย่างไร",
+    "choices": [
+      "อยู่บนผิวเยื่อหุ้มเซลล์เท่านั้น ไม่แทรกเข้าไปใน bilayer",
+      "ลอยอยู่อิสระในของเหลวนอกเซลล์",
+      "อยู่ภายในนิวเคลียสเท่านั้น",
+      "เกาะอยู่กับ cytoskeleton ภายนอกเยื่อหุ้มเซลล์เท่านั้นโดยไม่สัมผัสเยื่อหุ้มเซลล์",
+      "แทรก/ฝังตัวเข้าไปในชั้น phospholipid bilayer"
+    ],
+    "answerIndex": 4,
+    "hint": "ชื่อ \"Integral\" สื่อถึงการเป็นส่วนหนึ่งที่ฝังลึกเข้าไปในโครงสร้าง",
+    "explanation": "Integral protein แทรก/ฝังตัวเข้าไปในชั้น phospholipid bilayer ต่างจาก Peripheral protein ที่อยู่บนผิวเท่านั้น"
+  },
+  {
+    "id": "cm1-21",
+    "topic": "Membrane Protein Types",
+    "lang": "th",
+    "question": "Peripheral protein แตกต่างจาก Integral protein อย่างไร",
+    "choices": [
+      "Peripheral protein อยู่บนผิวเยื่อหุ้มเซลล์ ไม่แทรกทะลุ bilayer ในขณะที่ Integral protein ฝังตัว/แทรกเข้าไปใน bilayer",
+      "Peripheral protein แทรกทะลุผ่าน bilayer ทั้งสองด้าน แต่ Integral protein อยู่บนผิวเท่านั้น",
+      "ทั้งสองชนิดมีตำแหน่งและหน้าที่เหมือนกันทุกประการ",
+      "Peripheral protein พบเฉพาะในไซโทซอลเท่านั้น ไม่เกี่ยวข้องกับเยื่อหุ้มเซลล์",
+      "Integral protein ไม่สามารถพบ Oligosaccharide เกาะได้เลย"
+    ],
+    "answerIndex": 0,
+    "hint": "หนึ่งชนิด \"อยู่ผิว\" อีกชนิด \"ฝังลึก\"",
+    "explanation": "Peripheral protein อยู่บนผิวเยื่อหุ้มเซลล์ ไม่แทรกทะลุ bilayer ส่วน Integral protein ฝัง/แทรกเข้าไปในชั้น phospholipid bilayer"
+  },
+  {
+    "id": "cm1-22",
+    "topic": "Membrane Protein Types",
+    "lang": "en",
+    "question": "A membrane protein that carries an attached oligosaccharide chain is classified as which type of molecule?",
+    "choices": [
+      "Glycolipid",
+      "Glycoprotein",
+      "Triglyceride",
+      "Phospholipid",
+      "Steroid"
+    ],
+    "answerIndex": 1,
+    "hint": "The combination of \"protein\" + attached sugar chain gives this molecule its name.",
+    "explanation": "When a membrane protein carries an oligosaccharide chain, it is called a glycoprotein."
+  },
+  {
+    "id": "cm1-23",
+    "topic": "Membrane Protein Functions",
+    "lang": "th",
+    "question": "หน้าที่ของ Transport protein ในเยื่อหุ้มเซลล์คืออะไร",
+    "choices": [
+      "เร่งปฏิกิริยาเคมีภายในเซลล์เท่านั้น",
+      "ยึดเซลล์ให้ติดกับ extracellular matrix เท่านั้น",
+      "ขนส่งสารที่ผ่านชั้นไขมันได้ยาก เช่น สารมีขั้ว/มีประจุ ให้เข้า-ออกเซลล์",
+      "แสดงเอกลักษณ์ของเซลล์เพื่อการจดจำระหว่างเซลล์",
+      "รับสัญญาณฮอร์โมนจากภายนอกเซลล์เท่านั้น"
+    ],
+    "answerIndex": 2,
+    "hint": "หน้าที่นี้เกี่ยวข้องโดยตรงกับการเคลื่อนย้ายสารที่ผ่าน bilayer โดยตรงไม่ได้",
+    "explanation": "Transport protein ทำหน้าที่ขนส่งสารที่ไม่สามารถผ่าน lipid bilayer ได้โดยตรง เช่น สารที่มีขั้วหรือมีประจุ"
+  },
+  {
+    "id": "cm1-24",
+    "topic": "Membrane Protein Functions",
+    "lang": "th",
+    "question": "Receptor protein เช่น Insulin receptor มีหน้าที่หลักอย่างไร",
+    "choices": [
+      "เร่งปฏิกิริยาเคมีให้เกิดเร็วขึ้น",
+      "ขนส่งสารอาหารผ่านเยื่อหุ้มเซลล์โดยตรงเท่านั้น",
+      "ยึดเซลล์ให้ติดกับเซลล์ข้างเคียงแบบถาวร",
+      "รับและส่งสัญญาณเข้าสู่ภายในเซลล์",
+      "สร้าง ATP ให้กับเซลล์"
+    ],
+    "answerIndex": 3,
+    "hint": "ฮอร์โมนอินซูลินต้อง \"จับ\" กับสิ่งนี้ก่อนจึงจะส่งสัญญาณต่อได้",
+    "explanation": "Receptor protein ทำหน้าที่รับสัญญาณจากภายนอก (เช่น ฮอร์โมน) แล้วส่งสัญญาณเข้าสู่ภายในเซลล์"
+  },
+  {
+    "id": "cm1-25",
+    "topic": "Membrane Protein Functions",
+    "lang": "en",
+    "question": "ATP synthase found on the mitochondrial membrane is an example of which membrane protein function?",
+    "choices": [
+      "Junctional protein",
+      "Anchoring protein",
+      "Receptor protein",
+      "Glycoprotein for cell recognition",
+      "Enzyme protein"
+    ],
+    "answerIndex": 4,
+    "hint": "This protein catalyzes a chemical reaction — energy production.",
+    "explanation": "ATP synthase catalyzes a reaction (ATP production), making it an example of an enzyme protein."
+  },
+  {
+    "id": "cm1-26",
+    "topic": "Membrane Protein Functions",
+    "lang": "th",
+    "question": "Anchoring protein ทำหน้าที่อะไร",
+    "choices": [
+      "ยึดโครงสร้างภายในเซลล์กับ cytoskeleton และยึดภายนอกเซลล์กับ extracellular matrix เช่น Collagen",
+      "เร่งปฏิกิริยาเคมีในไมโทคอนเดรีย",
+      "รับสัญญาณฮอร์โมนจากภายนอกเซลล์",
+      "ขนส่งกลูโคสผ่านเยื่อหุ้มเซลล์",
+      "แสดงหมู่เลือด ABO บนผิวเซลล์เม็ดเลือดแดง"
+    ],
+    "answerIndex": 0,
+    "hint": "ชื่อ \"Anchoring\" บอกใบ้ถึงการ \"ยึดติด\"",
+    "explanation": "Anchoring protein ยึดโครงสร้างภายในเซลล์กับ cytoskeleton และภายนอกเซลล์กับ extracellular matrix เช่น การจับกับ Collagen"
+  },
+  {
+    "id": "cm1-27",
+    "topic": "Membrane Protein Functions",
+    "lang": "th",
+    "question": "โปรตีนชนิดใดทำหน้าที่ยึดเซลล์ให้ติดกันในรูปแบบ tight junction หรือ gap junction",
+    "choices": [
+      "Enzyme protein",
+      "Junctional protein",
+      "Receptor protein",
+      "Anchoring protein เท่านั้น",
+      "Transport protein ชนิด carrier"
+    ],
+    "answerIndex": 1,
+    "hint": "ชื่อของโปรตีนนี้ตรงกับชื่อของ \"รอยต่อ\" ระหว่างเซลล์",
+    "explanation": "Junctional protein ยึดเซลล์ต่อเซลล์ให้ติดกัน เช่น tight junction และ gap junction"
+  },
+  {
+    "id": "cm1-28",
+    "topic": "Membrane Protein Functions",
+    "lang": "en",
+    "question": "The ABO blood group antigen on red blood cells is an example of which membrane protein function?",
+    "choices": [
+      "Enzyme protein",
+      "Junctional protein",
+      "Glycoprotein displaying cell identity for recognition",
+      "Anchoring protein",
+      "Carrier protein"
+    ],
+    "answerIndex": 2,
+    "hint": "This function relates to identity markers used for cell-to-cell recognition.",
+    "explanation": "Glycoproteins display cell identity/antigens for recognition, such as the ABO blood group antigens on red blood cells."
+  },
+  {
+    "id": "cm1-29",
+    "topic": "Channel Vs Carrier Protein",
+    "lang": "th",
+    "question": "ข้อใดอธิบายความแตกต่างระหว่าง Channel protein กับ Carrier protein ได้ถูกต้อง",
+    "choices": [
+      "Channel protein เปลี่ยนรูปร่างขณะขนส่งสาร ส่วน Carrier protein ไม่เปลี่ยนรูปร่าง",
+      "ทั้งสองชนิดเปลี่ยนรูปร่างขณะขนส่งสารเหมือนกันทุกประการ",
+      "ทั้งสองชนิดไม่เปลี่ยนรูปร่างเลยขณะขนส่งสาร",
+      "Channel protein เป็นรูเปิดทะลุทั้งสองด้านโดยไม่เปลี่ยนรูปร่าง ส่วน Carrier protein เปลี่ยนรูปร่าง (conformation change) ขณะขนส่งสาร",
+      "Channel protein ใช้สำหรับขนส่งกลูโคสเท่านั้น ส่วน Carrier protein ใช้สำหรับขนส่งไอออนเท่านั้น"
+    ],
+    "answerIndex": 3,
+    "hint": "หนึ่งชนิดเป็นเหมือน \"ท่อเปิดคงที่\" อีกชนิดต้อง \"งอตัว\" เพื่อส่งสาร",
+    "explanation": "Channel protein เป็นรูเปิดทะลุทั้งสองด้านโดยไม่เปลี่ยนรูปร่าง (เช่น ion channel, Aquaporin) ส่วน Carrier protein เปลี่ยนรูปร่างขณะขนส่งสาร (เช่น GLUT)"
+  },
+  {
+    "id": "cm1-30",
+    "topic": "Channel Vs Carrier Protein",
+    "lang": "en",
+    "question": "Which of the following is an example of a carrier protein, based on this material?",
+    "choices": [
+      "Aquaporin (AQP)",
+      "Acetylcholine receptor channel",
+      "Ion channel for potassium",
+      "GABA receptor channel",
+      "Glucose transporter (GLUT)"
+    ],
+    "answerIndex": 4,
+    "hint": "This protein must change its conformation to move glucose across the membrane.",
+    "explanation": "GLUT (glucose transporter) is a carrier protein that changes shape/conformation during transport, unlike channel proteins such as Aquaporin or ion channels."
+  },
+  {
+    "id": "cm1-31",
+    "topic": "Steroid Hormone Permeability",
+    "lang": "th",
+    "question": "ฮอร์โมน Estrogen ซึ่งเป็น steroid hormone สามารถเข้าสู่เยื่อหุ้มเซลล์ไข่ (ovum) ได้ด้วยวิธีใด",
+    "choices": [
+      "Simple diffusion ผ่าน phospholipid bilayer โดยตรง โดยไม่ใช้ ATP",
+      "Active transport โดยใช้ ATP ผ่าน carrier protein",
+      "Facilitated diffusion ผ่าน channel protein",
+      "Endocytosis โดยการห่อหุ้มด้วยเยื่อหุ้มเซลล์",
+      "Exocytosis จากภายในเซลล์ออกสู่ภายนอก"
+    ],
+    "answerIndex": 0,
+    "hint": "Estrogen เป็นสาร lipid-soluble ขนาดเล็ก ไม่มีขั้ว จึงผ่านได้โดยไม่ต้องพึ่งโปรตีนขนส่ง",
+    "explanation": "Estrogen เป็น steroid hormone ที่ละลายในไขมันได้ ขนาดเล็ก ไม่มีขั้ว จึงผ่านเยื่อหุ้มเซลล์โดยวิธี simple diffusion โดยตรงผ่าน phospholipid bilayer โดยไม่ใช้ ATP"
+  },
+  {
+    "id": "cm1-32",
+    "topic": "Steroid Hormone Permeability",
+    "lang": "th",
+    "question": "เหตุใด steroid hormone เช่น Estrogen และ Androgen (เช่น Testosterone) จึงสามารถผ่านเยื่อหุ้มเซลล์โดยตรงได้โดยไม่ต้องอาศัยโปรตีนขนส่ง",
+    "choices": [
+      "เพราะมีขนาดใหญ่มากและมีประจุสูง",
+      "เพราะละลายในไขมันได้ ขนาดเล็ก ไม่มีขั้วและไม่มีประจุ",
+      "เพราะมีโครงสร้างเป็นคาร์โบไฮเดรตสายยาว",
+      "เพราะจับกับ Oligosaccharide บนผิวเซลล์ก่อนเสมอ",
+      "เพราะต้องอาศัย ATP synthase ในการขนส่งเสมอ"
+    ],
+    "answerIndex": 1,
+    "hint": "คุณสมบัติเดียวกับที่ทำให้สารผ่าน phospholipid bilayer ได้โดยตรงตามหลักการทั่วไป",
+    "explanation": "Steroid hormone ละลายในไขมัน ขนาดเล็ก ไม่มีขั้ว ไม่มีประจุ จึงผ่าน phospholipid bilayer ได้โดยตรงแบบ simple diffusion"
+  },
+  {
+    "id": "cm1-33",
+    "topic": "Acetylcholine Receptor",
+    "lang": "th",
+    "question": "Acetylcholine receptor ที่พบในเยื่อหุ้มเซลล์กล้ามเนื้อลาย (skeletal muscle) และเซลล์ประสาท จัดเป็นโปรตีนชนิดใด",
+    "choices": [
+      "Enzyme protein เพียงอย่างเดียว",
+      "Junctional protein เพียงอย่างเดียว",
+      "Glycoprotein ที่ทำหน้าที่เป็น receptor protein",
+      "Anchoring protein เพียงอย่างเดียว",
+      "Carrier protein เพียงอย่างเดียว"
+    ],
+    "answerIndex": 2,
+    "hint": "โปรตีนนี้ทั้งรับสัญญาณและมี oligosaccharide เกาะอยู่",
+    "explanation": "Acetylcholine receptor เป็นชนิด glycoprotein ที่ทำหน้าที่เป็น receptor protein พบในเยื่อหุ้มเซลล์กล้ามเนื้อลายและเซลล์ประสาท"
+  },
+  {
+    "id": "cm1-34",
+    "topic": "Acetylcholine Receptor",
+    "lang": "en",
+    "question": "What is the functional consequence of acetylcholine binding to its receptor on skeletal muscle cell membranes?",
+    "choices": [
+      "It has no physiological effect",
+      "It only catalyzes ATP synthesis",
+      "It permanently destroys the membrane protein",
+      "It causes muscle contraction/relaxation and helps regulate heartbeat",
+      "It converts the receptor into a glycolipid"
+    ],
+    "answerIndex": 3,
+    "hint": "This receptor's activity connects to muscle movement and heart rhythm.",
+    "explanation": "Acetylcholine receptor activation causes muscle contraction/relaxation and helps regulate heartbeat."
+  },
+  {
+    "id": "cm1-35",
+    "topic": "Cholesterol And Membrane Integrity",
+    "lang": "th",
+    "question": "ตามแบบจำลอง Fluid Mosaic Model ความคงตัวของโครงสร้างเยื่อหุ้มเซลล์ (integrity) ขึ้นอยู่กับสารใดเป็นหลัก",
+    "choices": [
+      "Protein เพียงอย่างเดียว",
+      "Phospholipid เพียงอย่างเดียว",
+      "Glycoprotein เพียงอย่างเดียว",
+      "Oligosaccharide เพียงอย่างเดียว",
+      "Cholesterol ซึ่งเป็น steroid ชนิดหนึ่ง"
+    ],
+    "answerIndex": 4,
+    "hint": "สารนี้แทรกอยู่ในชั้นหางไม่ชอบน้ำและช่วยรักษาความมั่นคงของเยื่อหุ้มเซลล์",
+    "explanation": "ความคงตัว (integrity) ของเยื่อหุ้มเซลล์ขึ้นอยู่กับ Cholesterol ซึ่งเป็น steroid เป็นหลัก ไม่ใช่โปรตีนหรือฟอสโฟลิพิดเพียงอย่างเดียว"
+  },
+  {
+    "id": "cm1-36",
+    "topic": "Cholesterol And Membrane Integrity",
+    "lang": "th",
+    "question": "ข้อใดจับคู่โครงสร้างกับหน้าที่ของเยื่อหุ้มเซลล์ได้ถูกต้องทั้งหมด",
+    "choices": [
+      "Protein → mosaic (transport/enzyme/receptor), Phospholipid → fluidity, Cholesterol → integrity, Glycoprotein → antigen/cell recognition",
+      "Protein → integrity, Phospholipid → mosaic, Cholesterol → fluidity, Glycoprotein → fluidity",
+      "Protein → antigen, Phospholipid → integrity, Cholesterol → mosaic, Glycoprotein → fluidity",
+      "Protein → fluidity, Phospholipid → antigen, Cholesterol → mosaic, Glycoprotein → integrity",
+      "Protein → mosaic, Phospholipid → antigen, Cholesterol → fluidity เท่านั้น, Glycoprotein → mosaic"
+    ],
+    "answerIndex": 0,
+    "hint": "จำคำสำคัญ 4 คำ: mosaic, fluidity, integrity, antigen ที่ตรงกับแต่ละองค์ประกอบ",
+    "explanation": "Protein สัมพันธ์กับ mosaic (บทบาทขนส่ง/เอนไซม์/ตัวรับ), Phospholipid กับ fluidity, Cholesterol กับ integrity, และ Glycoprotein กับ antigen/การจดจำเซลล์"
+  },
+  {
+    "id": "cm1-37",
+    "topic": "Oligosaccharide Glycoprotein Glycolipid",
+    "lang": "th",
+    "question": "Oligosaccharide ที่จับกับ Lipid เรียกว่าอะไร และพบที่ตำแหน่งใดของเยื่อหุ้มเซลล์",
+    "choices": [
+      "Glycoprotein พบทั้งสองด้านของเยื่อหุ้มเซลล์เท่าๆกัน",
+      "Glycolipid พบเฉพาะด้านนอกเซลล์ (extracellular side) เท่านั้น",
+      "Glycolipid พบเฉพาะด้าน cytosol เท่านั้น",
+      "Glycoprotein พบเฉพาะภายในนิวเคลียส",
+      "Steroid พบเฉพาะด้านนอกเซลล์เท่านั้น"
+    ],
+    "answerIndex": 1,
+    "hint": "สารกลุ่มนี้มีบทบาทด้านการจดจำเซลล์ ซึ่งต้องอยู่ด้านที่สัมผัสสิ่งแวดล้อมภายนอก",
+    "explanation": "Oligosaccharide ที่จับกับ Lipid เรียกว่า Glycolipid พบเฉพาะด้านนอกเซลล์ (extracellular side) เท่านั้น"
+  },
+  {
+    "id": "cm1-38",
+    "topic": "Oligosaccharide Glycoprotein Glycolipid",
+    "lang": "th",
+    "question": "หน้าที่หลักของ Glycoprotein และ Glycolipid บนผิวเซลล์คืออะไร",
+    "choices": [
+      "เร่งปฏิกิริยาเคมีภายในไมโทคอนเดรีย",
+      "รักษาความคงตัวของโครงสร้างเยื่อหุ้มเซลล์เพียงอย่างเดียว",
+      "แสดงเอกลักษณ์ของเซลล์เพื่อการจดจำระหว่างเซลล์ (เป็น cell antigen)",
+      "ควบคุมความไหลลื่นของเยื่อหุ้มเซลล์เพียงอย่างเดียว",
+      "ขนส่งไอออนโซเดียมและโพแทสเซียม"
+    ],
+    "answerIndex": 2,
+    "hint": "ตัวอย่างที่ยกในเนื้อหาคือหมู่เลือด ABO",
+    "explanation": "Glycoprotein และ Glycolipid แสดงเอกลักษณ์ของเซลล์เพื่อการจดจำระหว่างเซลล์ เป็น cell antigen เช่น หมู่เลือด ABO บนเซลล์เม็ดเลือดแดง"
+  },
+  {
+    "id": "cm1-39",
+    "topic": "Oligosaccharide Glycoprotein Glycolipid",
+    "lang": "en",
+    "question": "Glycolipid, as mentioned in the material, may be a component of which type of cell membrane?",
+    "choices": [
+      "Muscle cell membrane only",
+      "Red blood cell membrane exclusively, never elsewhere",
+      "Bacterial cell membrane only",
+      "Nerve cell membrane",
+      "Plant cell wall only"
+    ],
+    "answerIndex": 3,
+    "hint": "This relates to a cell type specialized for signal transmission.",
+    "explanation": "The material states that glycolipid may be a component of nerve cell membranes."
+  },
+  {
+    "id": "cm1-40",
+    "topic": "Steroid Cholesterol Structure Function",
+    "lang": "th",
+    "question": "โครงสร้างของ Steroid มีลักษณะอย่างไร และอยู่ตำแหน่งใดในเยื่อหุ้มเซลล์",
+    "choices": [
+      "เป็นสายคาร์โบไฮเดรตยาว อยู่บริเวณหัว (head) ของ phospholipid",
+      "เป็นโปรตีนที่ฝังอยู่ในชั้น bilayer",
+      "เป็นสารมีขั้วสูง ละลายน้ำได้ดี อยู่บริเวณผิวนอกเซลล์เท่านั้น",
+      "เป็น nucleic acid ที่พบเฉพาะในนิวเคลียส",
+      "เป็นไขมันที่มีวงแหวนสเตียรอยด์ (steroid ring) ไม่มีขั้ว/ไม่ละลายน้ำ แทรกอยู่ในชั้นหางที่ไม่ชอบน้ำ"
+    ],
+    "answerIndex": 4,
+    "hint": "สารนี้ไม่ชอบน้ำเหมือนหางของ phospholipid จึงแทรกอยู่บริเวณเดียวกัน",
+    "explanation": "Steroid เป็นไขมันที่มีวงแหวนสเตียรอยด์ ไม่มีขั้ว ไม่ละลายน้ำ จึงแทรกอยู่ในชั้นหางที่ไม่ชอบน้ำของเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cm1-41",
+    "topic": "Steroid Cholesterol Structure Function",
+    "lang": "en",
+    "question": "How does cholesterol (a steroid) help maintain membrane fluidity when temperature increases?",
+    "choices": [
+      "It blocks phospholipid movement, decreasing fluidity so the membrane is not too fluid",
+      "It has no effect on fluidity regardless of temperature",
+      "It inserts further into phospholipid layers, increasing fluidity",
+      "It dissolves the phospholipid bilayer entirely",
+      "It converts phospholipids into glycolipids"
+    ],
+    "answerIndex": 0,
+    "hint": "Think about temperature going UP — the membrane needs to be prevented from becoming too loose.",
+    "explanation": "When temperature increases, steroid (cholesterol) blocks phospholipid movement, decreasing fluidity so the membrane does not become too fluid."
+  },
+  {
+    "id": "cm1-42",
+    "topic": "Steroid Distribution Across Kingdoms",
+    "lang": "th",
+    "question": "กลุ่มสิ่งมีชีวิตใดที่ \"ไม่พบ\" Steroid ในเยื่อหุ้มเซลล์เลยตามเนื้อหานี้",
+    "choices": [
+      "Animal",
+      "Bacteria",
+      "Fungi",
+      "Plant",
+      "Protist"
+    ],
+    "answerIndex": 1,
+    "hint": "กลุ่มนี้เป็นสิ่งมีชีวิตเซลล์เดียวแบบโพรคาริโอต",
+    "explanation": "ตามเนื้อหา Bacteria ไม่พบ Steroid ในเยื่อหุ้มเซลล์เลย ต่างจาก Protist, Fungi, Plant และ Animal ที่อาจพบ steroid ชนิดต่างๆ"
+  },
+  {
+    "id": "cm1-43",
+    "topic": "Steroid Distribution Across Kingdoms",
+    "lang": "th",
+    "question": "จับคู่กลุ่มสิ่งมีชีวิตกับชนิดของ Steroid ที่อาจพบในเยื่อหุ้มเซลล์ให้ถูกต้อง",
+    "choices": [
+      "Fungi - Cholesterol, Animal - Ergosterol",
+      "Plant - Cholesterol, Animal - Phytosterol",
+      "Fungi - Ergosterol, Plant - Phytosterol, Animal - Cholesterol",
+      "Bacteria - Cholesterol, Fungi - Phytosterol",
+      "Protist - Ergosterol, Animal - Phytosterol"
+    ],
+    "answerIndex": 2,
+    "hint": "จำคำที่ลงท้ายด้วย -sterol ที่ต่างกันสำหรับแต่ละอาณาจักร",
+    "explanation": "Fungi อาจพบ Ergosterol, Plant อาจพบ Phytosterol, และ Animal พบ Cholesterol ตามเนื้อหา"
+  },
+  {
+    "id": "cm1-44",
+    "topic": "Steroid Distribution Across Kingdoms",
+    "lang": "en",
+    "question": "Which sterol may be found in the cell membrane of a Protist, according to this material?",
+    "choices": [
+      "Ergosterol",
+      "Phytosterol",
+      "None — protists never contain sterols",
+      "Cholesterol",
+      "Testosterone"
+    ],
+    "answerIndex": 3,
+    "hint": "Protists share this sterol type with animal cells, based on the material.",
+    "explanation": "The material states that Protist cell membranes may contain Cholesterol."
+  },
+  {
+    "id": "cm1-45",
+    "topic": "Steroid Function Summary",
+    "lang": "th",
+    "question": "หน้าที่ของ Steroid ในเยื่อหุ้มเซลล์ตามเนื้อหานี้คือข้อใด",
+    "choices": [
+      "เพิ่มความสามารถในการละลายน้ำของเยื่อหุ้มเซลล์",
+      "ทำหน้าที่ขนส่งกลูโคสเข้าสู่เซลล์โดยตรง",
+      "เป็นแหล่งพลังงานหลักของเซลล์แทน ATP",
+      "เร่งปฏิกิริยาเคมีทุกชนิดในเซลล์",
+      "เสริมความแข็งแรง/ความคงตัว (stability/integrity) ของเยื่อหุ้มเซลล์ และช่วยปรับความไหลลื่นตามอุณหภูมิ"
+    ],
+    "answerIndex": 4,
+    "hint": "หน้าที่นี้ตรงกับคำตอบในตัวอย่างข้อสอบเรื่อง integrity ของเยื่อหุ้มเซลล์",
+    "explanation": "Steroid เสริมความแข็งแรง/ความคงตัวของเยื่อหุ้มเซลล์ และช่วยปรับความไหลลื่นให้เหมาะสมกับอุณหภูมิที่เปลี่ยนแปลง"
+  },
+  {
+    "id": "cm1-46",
+    "topic": "Steroid Function Summary",
+    "lang": "en",
+    "question": "When temperature decreases, how does steroid help maintain appropriate membrane fluidity?",
+    "choices": [
+      "It inserts into the phospholipid layer, increasing fluidity so the membrane is not too rigid",
+      "It leaves the membrane entirely, having no further effect",
+      "It blocks phospholipid movement, decreasing fluidity further",
+      "It converts phospholipids into triglycerides",
+      "It causes the membrane to become fully solid and non-functional"
+    ],
+    "answerIndex": 0,
+    "hint": "Think about temperature going DOWN — the membrane risks becoming too stiff without help.",
+    "explanation": "When temperature decreases, steroid inserts into the phospholipid layer, increasing fluidity so the membrane does not become too rigid."
+  }
+]

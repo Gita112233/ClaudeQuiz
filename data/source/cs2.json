@@ -1,0 +1,532 @@
+[
+  {
+    "id": "cs2-01",
+    "topic": "Cell Wall Composition By Organism",
+    "lang": "th",
+    "question": "ผนังเซลล์ของพืชและสาหร่ายสีเขียว (Green Algae) ประกอบด้วยคาร์โบไฮเดรตชนิดใดเป็นหลัก โดยมีเพกทิน ลิกนิน และซูเบอรินปะปนอยู่ด้วย",
+    "choices": ["เซลลูโลส (Cellulose)", "ไคติน (Chitin)", "เพปทิโดไกลแคน (Peptidoglycan)", "ซิลิกา (Silica)", "ไกลโคเจน (Glycogen)"],
+    "answerIndex": 0,
+    "hint": "เป็นพอลิเมอร์ของกลูโคสที่มนุษย์ย่อยไม่ได้",
+    "explanation": "ผนังเซลล์พืชและสาหร่ายสีเขียวเป็นคาร์โบไฮเดรต ส่วนใหญ่เป็นเซลลูโลสผสมกับเพกทิน ลิกนิน และซูเบอริน"
+  },
+  {
+    "id": "cs2-02",
+    "topic": "Cell Wall Composition By Organism",
+    "lang": "en",
+    "question": "What is the main structural component of a fungal cell wall?",
+    "choices": ["Cellulose", "Chitin", "Peptidoglycan", "Silica", "Pectin"],
+    "answerIndex": 1,
+    "hint": "It is a polymer of N-acetylglucosamine, the same substance found in insect exoskeletons.",
+    "explanation": "Fungal cell walls are composed of chitin, a carbohydrate polymer of N-acetylglucosamine."
+  },
+  {
+    "id": "cs2-03",
+    "topic": "Cell Wall Composition By Organism",
+    "lang": "th",
+    "question": "ผนังเซลล์ของแบคทีเรียและสาหร่ายสีเขียวแกมน้ำเงิน (Blue-green Algae) ประกอบด้วยสารใด",
+    "choices": ["เพปทิโดไกลแคน (Peptidoglycan)", "ไคติน (Chitin)", "เซลลูโลส (Cellulose)", "ซิลิกา (Silica)", "ลิกนิน (Lignin)"],
+    "answerIndex": 0,
+    "hint": "สารนี้เป็นเป้าหมายของยาปฏิชีวนะกลุ่มเพนิซิลลิน และถูกย่อยด้วยไลโซไซม์",
+    "explanation": "แบคทีเรียและสาหร่ายสีเขียวแกมน้ำเงินมีผนังเซลล์เป็นเพปทิโดไกลแคน"
+  },
+  {
+    "id": "cs2-04",
+    "topic": "Cell Wall Composition By Organism",
+    "lang": "th",
+    "question": "ผนังเซลล์ของไดอะตอม (Diatom) ประกอบด้วยสารใดเป็นหลัก",
+    "choices": ["เซลลูโลส (Cellulose)", "ไคติน (Chitin)", "เพปทิโดไกลแคน (Peptidoglycan)", "ซิลิกา (Silica, SiO2)", "อะกาโรส (Agarose)"],
+    "answerIndex": 3,
+    "hint": "แร่ธาตุชนิดนี้ทำให้ไดอะตอมมีเปลือกคล้ายกระจกที่มีลวดลายสวยงาม",
+    "explanation": "จากตารางองค์ประกอบผนังเซลล์ ไดอะตอมมีผนังเซลล์เป็นซิลิกา (SiO2)"
+  },
+  {
+    "id": "cs2-05",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "มอโนลิกนอล (monolignol) ชนิดใดต่อไปนี้เป็นหน่วยย่อยที่ประกอบกันเป็นลิกนิน (lignin) ในผนังเซลล์พืช",
+    "choices": ["Coniferyl alcohol", "Glucose", "Galacturonic acid", "Xylose", "N-acetylglucosamine"],
+    "answerIndex": 0,
+    "hint": "เป็นแอลกอฮอล์ ไม่ใช่น้ำตาล และมีอีก 2 ชนิดคือ p-coumaryl กับ sinapyl alcohol",
+    "explanation": "ลิกนินประกอบจากมอโนลิกนอล 3 ชนิด ได้แก่ p-coumaryl, coniferyl และ sinapyl alcohol ส่วนตัวเลือกอื่นเป็นน้ำตาลที่พบในพอลิเมอร์อื่น"
+  },
+  {
+    "id": "cs2-06",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "en",
+    "question": "Cellulose is a chain of glucose units linked together to form the repeating unit cellobiose. What type of glycosidic bond joins these glucose units?",
+    "choices": ["α 1→4", "β 1→4", "α 1→6", "β 1→6", "β 1→3"],
+    "answerIndex": 1,
+    "hint": "It is the same bond category used in chitin and peptidoglycan backbones, but here it links glucose monomers.",
+    "explanation": "Cellulose glucose units are linked by β 1→4 glycosidic bonds, forming the repeat unit cellobiose."
+  },
+  {
+    "id": "cs2-07",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "เอนไซม์ในกลุ่มใดต่อไปนี้ทำหน้าที่ย่อยสลายเซลลูโลส",
+    "choices": ["Cellobiohydrolase", "Ligninase", "Pectinase", "Chitinase", "Lysozyme"],
+    "answerIndex": 0,
+    "hint": "เอนไซม์นี้ทำงานร่วมกับ endo/exo-glucanase และ β-glucosidase",
+    "explanation": "เซลลูโลสถูกย่อยด้วยกลุ่มเอนไซม์ endo/exo-glucanase, cellobiohydrolase และ β-glucosidase"
+  },
+  {
+    "id": "cs2-08",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "เฮมิเซลลูโลสชนิด arabinoxylan มีสายหลัก (backbone) ที่เชื่อมด้วยพันธะ β1→4 ทำจากน้ำตาลชนิดใด โดยมีอะราบิโนสเป็นกิ่งข้าง",
+    "choices": ["กลูโคส (Glucose)", "กรดกาแล็กทูโรนิก (Galacturonic acid)", "ไซโลส (Xylose)", "N-acetylmuramic acid", "ฟรุกโทส (Fructose)"],
+    "answerIndex": 2,
+    "hint": "ชื่อของน้ำตาลนี้เป็นพยางค์แรกของชื่อพอลิเมอร์ arabinoxylan",
+    "explanation": "Arabinoxylan มีสายหลักเป็นไซโลสเชื่อมกันด้วยพันธะ β1→4 และมีอะราบิโนสเป็นกิ่งข้าง"
+  },
+  {
+    "id": "cs2-09",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "เพกทิน (pectin) เช่น homogalacturonan ประกอบด้วยหน่วยย่อยชนิดใดเชื่อมกันด้วยพันธะ α1→4",
+    "choices": ["กรดกาแล็กทูโรนิก (Galacturonic acid)", "กลูโคส (Glucose)", "ไซโลส (Xylose)", "NAG", "กรดกลูตามิก (Glutamic acid)"],
+    "answerIndex": 0,
+    "hint": "หน่วยย่อยนี้เป็นน้ำตาลกรดที่ให้ชื่อกับพอลิเมอร์ homogalacturonan",
+    "explanation": "Homogalacturonan เป็นสายโซ่ของกรดกาแล็กทูโรนิกที่เชื่อมกันด้วยพันธะ α1→4"
+  },
+  {
+    "id": "cs2-10",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "สายเพปไทด์ข้าง (peptide side chain) ของเพปทิโดไกลแคนมีลำดับกรดอะมิโนใดถูกต้อง",
+    "choices": ["L-Ala–D-Glu–L-Lys–D-Ala", "D-Ala–L-Glu–D-Lys–L-Ala", "L-Lys–D-Glu–L-Ala–D-Ala", "D-Glu–L-Ala–D-Ala–L-Lys", "L-Ala–D-Ala–L-Glu–D-Lys"],
+    "answerIndex": 0,
+    "hint": "สายนี้สลับรูปแบบ L และ D โดยเริ่มต้นและลงท้ายด้วยอะลานีน",
+    "explanation": "สายเพปไทด์ข้างของเพปทิโดไกลแคนมีลำดับคือ L-Ala-D-Glu-L-Lys-D-Ala"
+  },
+  {
+    "id": "cs2-11",
+    "topic": "Cell Wall Molecular Composition",
+    "lang": "th",
+    "question": "ความแตกต่างของการเชื่อมขวาง (cross-link) สายเพปไทด์ใน peptidoglycan ระหว่างแบคทีเรียแกรมบวกและแกรมลบคืออะไร",
+    "choices": ["แกรมบวกเชื่อมผ่านสะพาน (Gly)5 ส่วนแกรมลบเชื่อมโดยตรง", "แกรมลบเชื่อมผ่านสะพาน (Gly)5 ส่วนแกรมบวกเชื่อมโดยตรง", "ทั้งสองชนิดเชื่อมผ่านสะพาน (Gly)5 เหมือนกัน", "ทั้งสองชนิดเชื่อมโดยตรงเหมือนกัน", "แกรมบวกไม่มีการเชื่อมขวางเลย"],
+    "answerIndex": 0,
+    "hint": "แบคทีเรียแกรมบวกมีผนัง peptidoglycan หนากว่าและมีโครงสร้างเสริมพิเศษ",
+    "explanation": "ในแบคทีเรียแกรมบวก การเชื่อมขวางเกิดผ่านสะพานไกลซีน (Gly)5 ส่วนแกรมลบเชื่อมขวางโดยตรงโดยไม่มีสะพาน"
+  },
+  {
+    "id": "cs2-12",
+    "topic": "Plant Cell Wall Functions And Cell Plate",
+    "lang": "th",
+    "question": "หน้าที่ของผนังเซลล์พืชที่ช่วยไม่ให้เซลล์แตกเนื่องจากน้ำไหลเข้าเซลล์มากเกินไปเรียกว่าอะไร",
+    "choices": ["รักษาความดันเต่ง (Turgor pressure)", "สังเคราะห์แสง", "สร้างพลังงาน ATP", "จำลอง DNA", "สังเคราะห์โปรตีน"],
+    "answerIndex": 0,
+    "hint": "เกี่ยวข้องกับแรงดันน้ำภายในเซลล์ที่ดันผนังเซลล์",
+    "explanation": "ผนังเซลล์พืชช่วยรักษาความดันเต่ง (turgor pressure) เพื่อไม่ให้เซลล์แตก"
+  },
+  {
+    "id": "cs2-13",
+    "topic": "Plant Cell Wall Functions And Cell Plate",
+    "lang": "en",
+    "question": "During cytokinesis in plant cells, small structures gather at the midplane and fuse into larger ones to eventually form the cell plate. What are these structures called?",
+    "choices": ["Vesicles", "Ribosomes", "Mitochondria", "Lysosomes", "Chloroplasts"],
+    "answerIndex": 0,
+    "hint": "They are membrane-bound sacs that later become the new cell wall material.",
+    "explanation": "During cell plate formation, vesicles gather at the midplane, fuse into larger vesicles, and their contents form the new cell walls."
+  },
+  {
+    "id": "cs2-14",
+    "topic": "Plant Cell Wall Layers Overview",
+    "lang": "th",
+    "question": "เรียงลำดับชั้นของผนังเซลล์พืชจากด้านนอกสุดไปยังด้านในสุดอย่างถูกต้อง",
+    "choices": ["Middle lamella → Primary cell wall → Secondary cell wall", "Primary cell wall → Middle lamella → Secondary cell wall", "Secondary cell wall → Primary cell wall → Middle lamella", "Primary cell wall → Secondary cell wall → Middle lamella", "Middle lamella → Secondary cell wall → Primary cell wall"],
+    "answerIndex": 0,
+    "hint": "ชั้นที่เกิดก่อนสุดทำหน้าที่เป็นกาวเชื่อมเซลล์ จึงอยู่นอกสุด",
+    "explanation": "ผนังเซลล์พืชมี 3 ชั้นเรียงจากนอกสุดเข้าใน คือ Middle lamella, Primary cell wall และ Secondary cell wall"
+  },
+  {
+    "id": "cs2-15",
+    "topic": "Plant Cell Wall Layers Overview",
+    "lang": "en",
+    "question": "Which layer of the plant cell wall is located closest to the plasma membrane (innermost)?",
+    "choices": ["Middle lamella", "Primary cell wall", "Secondary cell wall", "Cell plate", "Plasmodesmata"],
+    "answerIndex": 2,
+    "hint": "This layer forms later, only in cells that need extra strength.",
+    "explanation": "The secondary cell wall forms last and lies innermost, closest to the plasma membrane."
+  },
+  {
+    "id": "cs2-16",
+    "topic": "Middle Lamella",
+    "lang": "th",
+    "question": "มิดเดิลลาเมลลา (Middle lamella) มีองค์ประกอบหลักคือสารใด",
+    "choices": ["เพกทิน (แคลเซียมเพกเทต)", "เซลลูโลส", "ลิกนิน", "ไคติน", "เฮมิเซลลูโลส"],
+    "answerIndex": 0,
+    "hint": "สารนี้เดียวกับที่ใช้ทำให้แยมข้น และในผนังเซลล์อยู่ในรูปแคลเซียมเพกเทต",
+    "explanation": "Middle lamella ประกอบด้วยเพกทินในรูปแคลเซียมเพกเทต ทำหน้าที่เป็นกาวยึดเซลล์พืชเข้าด้วยกัน"
+  },
+  {
+    "id": "cs2-17",
+    "topic": "Middle Lamella",
+    "lang": "en",
+    "question": "The middle lamella forms first and is transformed from which structure during cytokinesis?",
+    "choices": ["Cell plate", "Secondary cell wall", "Vesicle membrane alone", "Plasmodesmata", "Nuclear envelope"],
+    "answerIndex": 0,
+    "hint": "This structure forms at the midplane during cytokinesis before becoming the outermost wall layer.",
+    "explanation": "The middle lamella is transformed from the cell plate formed during cytokinesis, and is the first layer to form, located outermost."
+  },
+  {
+    "id": "cs2-18",
+    "topic": "Primary Cell Wall",
+    "lang": "th",
+    "question": "ผนังเซลล์ปฐมภูมิ (Primary cell wall) พบในเซลล์พืชแทบทุกชนิด ยกเว้นเซลล์ใด",
+    "choices": ["เซลล์อสุจิและเซลล์ไข่", "เซลล์ราก", "เซลล์คุม (Guard cell)", "เซลล์ท่อลำเลียงไซเลม", "เซลล์ผิว (Epidermis)"],
+    "answerIndex": 0,
+    "hint": "เซลล์เหล่านี้เกี่ยวข้องกับการสืบพันธุ์แบบอาศัยเพศ",
+    "explanation": "Primary cell wall พบในทุกเซลล์พืช ยกเว้นเซลล์สืบพันธุ์คือเซลล์อสุจิและเซลล์ไข่"
+  },
+  {
+    "id": "cs2-19",
+    "topic": "Primary Cell Wall",
+    "lang": "en",
+    "question": "The primary cell wall is composed of which combination of substances?",
+    "choices": ["Cellulose, hemicellulose, pectin", "Cellulose, hemicellulose, lignin", "Chitin, mannoprotein, β-glucan", "Peptidoglycan, teichoic acid", "Cellulose, lignin, suberin"],
+    "answerIndex": 0,
+    "hint": "It forms before the secondary wall and does not yet contain lignin.",
+    "explanation": "The primary cell wall is composed of cellulose, hemicellulose, and pectin, unlike the secondary wall which contains lignin instead of pectin."
+  },
+  {
+    "id": "cs2-20",
+    "topic": "Plasmodesmata",
+    "lang": "th",
+    "question": "พลาสโมเดสมาตา (Plasmodesmata) ทำหน้าที่ใดเป็นหลัก",
+    "choices": ["ลำเลียง/ถ่ายเทสารระหว่างเซลล์พืชที่อยู่ติดกัน", "สังเคราะห์เพกทิน", "ย่อยสลายลิกนิน", "สร้างพลังงานให้เซลล์", "ป้องกันเชื้อโรคเข้าสู่เซลล์"],
+    "answerIndex": 0,
+    "hint": "เป็นช่องเล็ก ๆ ที่เชื่อมไซโทพลาซึมของเซลล์ข้างเคียง",
+    "explanation": "Plasmodesmata เป็นรูเล็ก ๆ ที่เชื่อมผนังเซลล์ ทำให้ไซโทพลาซึมของเซลล์ข้างเคียงเชื่อมถึงกัน ใช้ถ่ายเทสารระหว่างเซลล์"
+  },
+  {
+    "id": "cs2-21",
+    "topic": "Plasmodesmata",
+    "lang": "en",
+    "question": "What best describes plasmodesmata?",
+    "choices": ["Small pores/gaps in the cell wall connecting cytoplasm of adjacent plant cells", "A thick outer membrane layer found only in Gram-negative bacteria", "Protein channels embedded only in the secondary cell wall", "Calcium pectate deposits between cells", "Vesicles that fuse to form the cell plate"],
+    "answerIndex": 0,
+    "hint": "Think of them as tiny cytoplasmic bridges between neighboring plant cells.",
+    "explanation": "Plasmodesmata are small pores/gaps where cell walls connect, allowing cytoplasm to flow between adjacent cells."
+  },
+  {
+    "id": "cs2-22",
+    "topic": "Secondary Cell Wall",
+    "lang": "th",
+    "question": "ผนังเซลล์ทุติยภูมิ (Secondary cell wall) ประกอบด้วยสารใดบ้าง",
+    "choices": ["เซลลูโลส เฮมิเซลลูโลส และลิกนิน", "เซลลูโลส เฮมิเซลลูโลส และเพกทิน", "ไคติน แมนโนโปรตีน และเบตากลูแคน", "เพปทิโดไกลแคนและเทโคอิกแอซิด", "ซิลิกาและลิกนิน"],
+    "answerIndex": 0,
+    "hint": "ต่างจากผนังปฐมภูมิตรงที่มีสารที่ทำให้เนื้อไม้แข็งแรงแทนที่เพกทิน",
+    "explanation": "ผนังเซลล์ทุติยภูมิประกอบด้วยเซลลูโลส เฮมิเซลลูโลส และลิกนิน ทำให้ผนังแข็งแรงขึ้น"
+  },
+  {
+    "id": "cs2-23",
+    "topic": "Secondary Cell Wall",
+    "lang": "en",
+    "question": "Which stain is used to detect lignin in the secondary cell wall, producing a red/pink color?",
+    "choices": ["Safranin O", "Crystal violet", "Iodine solution", "Methylene blue", "Eosin"],
+    "answerIndex": 0,
+    "hint": "The same dye is also used as the pink counterstain in Gram staining.",
+    "explanation": "Lignin in the secondary cell wall stains red/pink with Safranin O."
+  },
+  {
+    "id": "cs2-24",
+    "topic": "Secondary Cell Wall",
+    "lang": "th",
+    "question": "เซลล์พืชชนิดใดต่อไปนี้มีผนังเซลล์ทุติยภูมิ (secondary cell wall)",
+    "choices": ["เซลล์ท่อลำเลียงไซเลม (Vessel/Tracheid)", "เซลล์คุม (Guard cell)", "เซลล์อสุจิ", "เซลล์ไข่", "เซลล์เนื้อเยื่อเจริญ (Meristem)"],
+    "answerIndex": 0,
+    "hint": "เซลล์เหล่านี้ต้องการความแข็งแรงเป็นพิเศษเพื่อลำเลียงน้ำ",
+    "explanation": "ผนังเซลล์ทุติยภูมิพบในเซลล์บางชนิดที่ต้องการความแข็งแรงพิเศษ เช่น fiber, sclereid, tracheid และ vessel ซึ่งเป็นเซลล์ในไซเลม"
+  },
+  {
+    "id": "cs2-25",
+    "topic": "Bacterial Cell Wall And Gram Staining Steps",
+    "lang": "th",
+    "question": "แบคทีเรียชนิดใดต่อไปนี้ไม่มีผนังเซลล์ (cell wall)",
+    "choices": ["Mycoplasma", "Escherichia coli", "Micrococcus luteus", "Bacillus", "Streptococcus"],
+    "answerIndex": 0,
+    "hint": "แบคทีเรียกลุ่มนี้มีขนาดเล็กมากและไม่สามารถย้อมติดสีแกรมได้ตามปกติ",
+    "explanation": "Mycoplasma เป็นข้อยกเว้นของแบคทีเรียที่ไม่มีผนังเซลล์เพปทิโดไกลแคน"
+  },
+  {
+    "id": "cs2-26",
+    "topic": "Bacterial Cell Wall And Gram Staining Steps",
+    "lang": "en",
+    "question": "Who developed the Gram staining technique used to classify bacteria?",
+    "choices": ["Hans Christian Gram", "Louis Pasteur", "Robert Koch", "Alexander Fleming", "Anton van Leeuwenhoek"],
+    "answerIndex": 0,
+    "hint": "The technique is named directly after its inventor.",
+    "explanation": "Hans Christian Gram developed the Gram staining technique."
+  },
+  {
+    "id": "cs2-27",
+    "topic": "Bacterial Cell Wall And Gram Staining Steps",
+    "lang": "th",
+    "question": "ขั้นตอนการย้อมสีแกรม (Gram staining) เรียงลำดับที่ถูกต้องคือข้อใด",
+    "choices": ["Crystal violet → Iodine → ล้างด้วยแอลกอฮอล์ → Safranin", "Iodine → Crystal violet → Safranin → ล้างด้วยแอลกอฮอล์", "Safranin → Crystal violet → Iodine → ล้างด้วยแอลกอฮอล์", "Crystal violet → Safranin → Iodine → ล้างด้วยแอลกอฮอล์", "ล้างด้วยแอลกอฮอล์ → Crystal violet → Iodine → Safranin"],
+    "answerIndex": 0,
+    "hint": "สีย้อมเริ่มต้นเป็นสีม่วง ตามด้วยสารช่วยยึดสี ก่อนล้างและย้อมสีที่สอง",
+    "explanation": "การย้อมแกรมมี 4 ขั้นตอนตามลำดับ คือ crystal violet, iodine (mordant), ล้างด้วยแอลกอฮอล์ (decolorization) และ safranin (counterstain)"
+  },
+  {
+    "id": "cs2-28",
+    "topic": "Gram Positive Vs Negative Characteristics",
+    "lang": "th",
+    "question": "แบคทีเรียแกรมบวก (Gram-positive) หลังการย้อมสีแกรมจะติดสีใด และมีลักษณะผนังเพปทิโดไกลแคนอย่างไร",
+    "choices": ["ติดสีม่วง เนื่องจากมีชั้นเพปทิโดไกลแคนหนา", "ติดสีชมพู/แดง เนื่องจากมีชั้นเพปทิโดไกลแคนบาง", "ติดสีม่วง เนื่องจากมีชั้นเพปทิโดไกลแคนบาง", "ติดสีชมพู/แดง เนื่องจากมีชั้นเพปทิโดไกลแคนหนา", "ไม่ติดสีใดเลย"],
+    "answerIndex": 0,
+    "hint": "แบคทีเรียกลุ่มนี้กักเก็บสี crystal violet ไว้ได้เพราะผนังหนา",
+    "explanation": "แบคทีเรียแกรมบวกมีชั้นเพปทิโดไกลแคนหนา จึงกักเก็บ crystal violet ไว้ได้และติดสีม่วง"
+  },
+  {
+    "id": "cs2-29",
+    "topic": "Gram Positive Vs Negative Characteristics",
+    "lang": "th",
+    "question": "แบคทีเรียชนิดใดต่อไปนี้เป็นตัวอย่างของแบคทีเรียแกรมบวก",
+    "choices": ["Micrococcus luteus", "Escherichia coli", "Salmonella", "Cyanobacteria", "Mycoplasma"],
+    "answerIndex": 0,
+    "hint": "แบคทีเรียตัวอย่างนี้มี lipoteichoic acid ฝังอยู่ในผนังเพปทิโดไกลแคนที่หนา",
+    "explanation": "Micrococcus luteus เป็นตัวอย่างแบคทีเรียแกรมบวกที่มีชั้นเพปทิโดไกลแคนหนาและมี lipoteichoic acid"
+  },
+  {
+    "id": "cs2-30",
+    "topic": "Gram Positive Vs Negative Characteristics",
+    "lang": "th",
+    "question": "แบคทีเรียแกรมลบ (Gram-negative) มีลักษณะพิเศษที่แตกต่างจากแกรมบวกอย่างไร",
+    "choices": ["มีเยื่อหุ้มชั้นนอก (outer membrane) เพิ่มเติมและเพปทิโดไกลแคนบาง", "มีเพปทิโดไกลแคนหนาและไม่มีเยื่อหุ้มชั้นนอก", "ไม่มีผนังเซลล์เลย", "มีผนังเซลล์เป็นไคติน", "มีผนังเซลล์เป็นซิลิกา"],
+    "answerIndex": 0,
+    "hint": "โครงสร้างเพิ่มเติมนี้มีไลโปโปรตีน พอริน และฟอสโฟลิพิด",
+    "explanation": "แบคทีเรียแกรมลบมีชั้นเพปทิโดไกลแคนบาง แต่มีเยื่อหุ้มชั้นนอกเพิ่มเติมที่ประกอบด้วย lipid protein, porin, polysaccharide และ phospholipid"
+  },
+  {
+    "id": "cs2-31",
+    "topic": "Gram Bacteria Membrane Layers And Examples",
+    "lang": "en",
+    "question": "How many layers does the cell membrane have in Gram-positive bacteria, compared to Gram-negative bacteria?",
+    "choices": ["Gram-positive has 1 layer; Gram-negative has 2 layers", "Gram-positive has 2 layers; Gram-negative has 1 layer", "Both have 1 layer", "Both have 2 layers", "Gram-positive has 3 layers; Gram-negative has 1 layer"],
+    "answerIndex": 0,
+    "hint": "The bacterium with the extra outer membrane has more layers.",
+    "explanation": "Gram-positive bacteria have a cell membrane with 1 layer and thick peptidoglycan, while Gram-negative bacteria have 2 layers and thin peptidoglycan."
+  },
+  {
+    "id": "cs2-32",
+    "topic": "Gram Bacteria Membrane Layers And Examples",
+    "lang": "th",
+    "question": "ข้อใดเป็นตัวอย่างแบคทีเรียแกรมลบทั้งหมด",
+    "choices": ["Cyanobacteria, Salmonella, Escherichia", "Bacillus, Streptococcus, Clostridium", "Micrococcus, Bacillus, Salmonella", "Escherichia, Clostridium, Streptococcus", "Mycoplasma, Bacillus, Cyanobacteria"],
+    "answerIndex": 0,
+    "hint": "หนึ่งในนี้เป็นสาหร่ายสีเขียวแกมน้ำเงินซึ่งจัดเป็นแบคทีเรียแกรมลบด้วย",
+    "explanation": "ตัวอย่างแบคทีเรียแกรมลบ ได้แก่ cyanobacteria, salmonella และ escherichia ส่วน bacillus, streptococcus, clostridium เป็นตัวอย่างแกรมบวก"
+  },
+  {
+    "id": "cs2-33",
+    "topic": "Protist And Algae Cell Walls",
+    "lang": "th",
+    "question": "ผนังเซลล์ของสาหร่ายสีเขียว (Green algae) เช่น สกุล Ulva (สาหร่ายผักกาดทะเล) ประกอบด้วยสารใด",
+    "choices": ["เซลลูโลส", "อะกาโรส (Agarose)", "ซิลิกา", "ไคติน", "เพปทิโดไกลแคน"],
+    "answerIndex": 0,
+    "hint": "สารชนิดเดียวกับที่พบในผนังเซลล์พืช",
+    "explanation": "สาหร่ายสีเขียวมีผนังเซลล์เป็นเซลลูโลสเช่นเดียวกับพืช ตัวอย่างเช่นสกุล Ulva"
+  },
+  {
+    "id": "cs2-34",
+    "topic": "Protist And Algae Cell Walls",
+    "lang": "en",
+    "question": "Red algae (e.g., Bonnemaisonia hamifera, Dulse) have cell walls composed of which substances?",
+    "choices": ["Agarose, carrageenan, porphyrin, furcellaran, funoran", "Cellulose only", "Chitin and β-glucan", "Silica (SiO2)", "Peptidoglycan"],
+    "answerIndex": 0,
+    "hint": "These are gel-forming polysaccharides commonly extracted for food and lab use.",
+    "explanation": "Red algae cell walls contain agarose, carrageenan, porphyrin, furcellaran, and funoran."
+  },
+  {
+    "id": "cs2-35",
+    "topic": "Protist And Algae Cell Walls",
+    "lang": "th",
+    "question": "Triceratium morlandii เป็นตัวอย่างของสิ่งมีชีวิตกลุ่มใด และมีผนังเซลล์ทำจากอะไร",
+    "choices": ["Diatom ผนังเซลล์เป็นซิลิกา", "Green algae ผนังเซลล์เป็นเซลลูโลส", "Red algae ผนังเซลล์เป็นอะกาโรส", "Fungi ผนังเซลล์เป็นไคติน", "Bacteria ผนังเซลล์เป็นเพปทิโดไกลแคน"],
+    "answerIndex": 0,
+    "hint": "สิ่งมีชีวิตนี้เป็นเซลล์เดี่ยวมีผนังคล้ายกระจกที่มีลวดลายสวยงาม",
+    "explanation": "Triceratium morlandii เป็นตัวอย่างของ diatom ซึ่งมีผนังเซลล์เป็นซิลิกา (SiO2)"
+  },
+  {
+    "id": "cs2-36",
+    "topic": "Protist And Algae Cell Walls",
+    "lang": "th",
+    "question": "สิ่งมีชีวิตกลุ่มใดที่มีตัวอย่างคือสกุล Ulva (สาหร่ายผักกาดทะเล)",
+    "choices": ["สาหร่ายสีเขียว (Green algae)", "สาหร่ายสีแดง (Red algae)", "ไดอะตอม (Diatom)", "เชื้อรา (Fungi)", "แบคทีเรีย (Bacteria)"],
+    "answerIndex": 0,
+    "hint": "กลุ่มนี้มีผนังเซลล์เป็นเซลลูโลสเช่นเดียวกับพืช",
+    "explanation": "Ulva หรือสาหร่ายผักกาดทะเล เป็นตัวอย่างของสาหร่ายสีเขียวซึ่งมีผนังเซลล์เป็นเซลลูโลส"
+  },
+  {
+    "id": "cs2-37",
+    "topic": "Fungal Cell Wall",
+    "lang": "th",
+    "question": "ผนังเซลล์ของเชื้อรา (Fungi) ทำจากพอลิเมอร์ของสารใด",
+    "choices": ["N-Acetyl Glucosamine (Chitin)", "กลูโคส (Cellulose)", "กรดกาแล็กทูโรนิก (Pectin)", "ซิลิกา", "เพปทิโดไกลแคน"],
+    "answerIndex": 0,
+    "hint": "สารนี้เหมือนกับที่พบในเปลือกกุ้ง/แมลง",
+    "explanation": "ผนังเซลล์เชื้อราทำจากไคติน ซึ่งเป็นพอลิเมอร์ของ N-Acetyl Glucosamine"
+  },
+  {
+    "id": "cs2-38",
+    "topic": "Fungal Cell Wall",
+    "lang": "en",
+    "question": "Arranged from outside to inside, what is the correct order of layers in the fungal cell wall?",
+    "choices": ["Mannoprotein → β-glucan → Chitin → Lipoprotein → Plasma membrane", "Chitin → β-glucan → Mannoprotein → Lipoprotein → Plasma membrane", "Plasma membrane → Lipoprotein → Chitin → β-glucan → Mannoprotein", "Lipoprotein → Chitin → Mannoprotein → β-glucan → Plasma membrane", "β-glucan → Mannoprotein → Chitin → Plasma membrane → Lipoprotein"],
+    "answerIndex": 0,
+    "hint": "The outermost layer is a protein-carbohydrate complex, and chitin sits just outside the lipoprotein layer near the plasma membrane.",
+    "explanation": "The fungal cell wall layers from outside to inside are: Mannoprotein, β-glucan, Chitin, Lipoprotein, Plasma membrane."
+  },
+  {
+    "id": "cs2-39",
+    "topic": "Fungal Cell Wall",
+    "lang": "th",
+    "question": "โครงสร้างใดของเห็ดที่เป็นกลุ่มของเส้นใย (hyphae) รวมตัวกัน",
+    "choices": ["Mycelium", "Fruiting body", "Spore", "Chitin layer", "Plasma membrane"],
+    "answerIndex": 0,
+    "hint": "โครงสร้างนี้อยู่ใต้ดินหรือในวัสดุที่เห็ดเจริญ เป็นเครือข่ายของเส้นใย",
+    "explanation": "Mycelium คือกลุ่มของเส้นใย (hyphae) ที่รวมตัวกันในโครงสร้างของเห็ด"
+  },
+  {
+    "id": "cs2-40",
+    "topic": "Cell Envelope Introduction",
+    "lang": "th",
+    "question": "ในภาพตัดขวางของเยื่อหุ้มเซลล์ (cell envelope) สายโซ่คาร์โบไฮเดรตที่ยื่นออกไปด้านนอกเซลล์ ยึดติดกับโปรตีนเรียกว่าอะไร",
+    "choices": ["Glycoprotein", "Phospholipid", "Integral protein", "Peripheral protein", "Cellulose fiber"],
+    "answerIndex": 0,
+    "hint": "คำนี้ผสมคำว่าน้ำตาล (glyco-) กับโปรตีน",
+    "explanation": "สายโซ่คาร์โบไฮเดรตที่ยื่นออกด้านนอกเซลล์ยึดกับโปรตีน เรียกว่าไกลโคโปรตีน (glycoprotein)"
+  },
+  {
+    "id": "cs2-41",
+    "topic": "Cell Envelope Introduction",
+    "lang": "en",
+    "question": "In the artistic rendering of the cell envelope, what is found on the intracellular (inner) surface of the membrane, connecting to the cell's internal framework?",
+    "choices": ["Cytoskeletal/ECM fibers", "Glycolipid chains", "Extracellular carbohydrate chains", "Silica plates", "Middle lamella"],
+    "answerIndex": 0,
+    "hint": "This structure is on the inside, unlike the sugar chains which project outward.",
+    "explanation": "The intracellular surface of the membrane shows cytoskeletal/ECM fibers, while glycoprotein/glycolipid chains project outward on the extracellular surface."
+  },
+  {
+    "id": "cs2-42",
+    "topic": "Fluid Mosaic Model",
+    "lang": "th",
+    "question": "แบบจำลอง Fluid-Mosaic Model ของเยื่อหุ้มเซลล์ (Plasmalemma) อธิบายว่าเยื่อหุ้มเซลล์มีลักษณะอย่างไร",
+    "choices": ["มีสภาพเป็นของไหล (Fluid) และมีโปรตีนฝังอยู่แบบโมเสก (Mosaic)", "แข็งตัวและคงที่ตลอดเวลา ไม่มีการเคลื่อนไหว", "เป็นผลึกแข็งเหมือนซิลิกา", "ประกอบด้วยเพปทิโดไกลแคนเป็นหลัก", "มีเฉพาะโปรตีนไม่มีไขมัน"],
+    "answerIndex": 0,
+    "hint": "ชื่อโมเดลบอกลักษณะสองอย่างของเยื่อหุ้มเซลล์ในตัวเอง",
+    "explanation": "Fluid-Mosaic Model อธิบายว่าเยื่อหุ้มเซลล์เป็นของไหล (ฟอสโฟลิพิดเคลื่อนที่ได้) และมีโปรตีนฝังอยู่แบบโมเสก"
+  },
+  {
+    "id": "cs2-43",
+    "topic": "Fluid Mosaic Model",
+    "lang": "en",
+    "question": "According to the Fluid-Mosaic Model, approximately what proportion of the cell membrane is protein versus lipid?",
+    "choices": ["About 60% protein, 40% lipid", "About 40% protein, 60% lipid", "About 90% protein, 10% lipid", "About 10% protein, 90% lipid", "Exactly 50% protein, 50% lipid"],
+    "answerIndex": 0,
+    "hint": "Protein makes up the larger share of the two main components.",
+    "explanation": "The cell membrane composition is approximately 60% protein and 40% lipid."
+  },
+  {
+    "id": "cs2-44",
+    "topic": "Fluid Mosaic Model",
+    "lang": "th",
+    "question": "ฟอสโฟลิพิดที่ประกอบเป็นเยื่อหุ้มเซลล์มีคุณสมบัติแบบใด ทำให้เรียกว่า amphipathic",
+    "choices": ["มีทั้งส่วนที่ชอบน้ำและไม่ชอบน้ำในโมเลกุลเดียวกัน", "ชอบน้ำอย่างเดียวทั้งโมเลกุล", "ไม่ชอบน้ำอย่างเดียวทั้งโมเลกุล", "เป็นกลางทางไฟฟ้าไม่มีขั้ว", "ละลายในไขมันได้อย่างเดียว"],
+    "answerIndex": 0,
+    "hint": "คำนี้มาจากรากศัพท์ที่แปลว่า 'ทั้งสองด้าน'",
+    "explanation": "ฟอสโฟลิพิดเป็น amphipathic คือมีทั้งส่วนที่ชอบน้ำ (hydrophilic) และไม่ชอบน้ำ (hydrophobic) อยู่ในโมเลกุลเดียวกัน"
+  },
+  {
+    "id": "cs2-45",
+    "topic": "Cell Membrane Components",
+    "lang": "th",
+    "question": "องค์ประกอบหลัก 4 อย่างของเยื่อหุ้มเซลล์ตามแบบจำลอง Fluid mosaic model มีอะไรบ้าง",
+    "choices": ["Phospholipid bilayer, Membrane protein, Steroid, Carbohydrate chain", "Cellulose, Hemicellulose, Pectin, Lignin", "Chitin, Mannoprotein, β-glucan, Lipoprotein", "Peptidoglycan, Teichoic acid, Porin, Lipopolysaccharide", "NAG, NAM, Glycine bridge, Lysozyme"],
+    "answerIndex": 0,
+    "hint": "องค์ประกอบเหล่านี้รวมถึงไขมัน 2 ชั้น โปรตีน สเตียรอยด์ และสายคาร์โบไฮเดรต",
+    "explanation": "เยื่อหุ้มเซลล์มี 4 องค์ประกอบหลัก คือ phospholipid bilayer, membrane protein, steroid และ carbohydrate chain"
+  },
+  {
+    "id": "cs2-46",
+    "topic": "Cell Membrane Components",
+    "lang": "en",
+    "question": "The cell membrane surrounds every living cell and is primarily composed of which two classes of substances?",
+    "choices": ["Lipid and protein", "Cellulose and pectin", "Chitin and glucan", "Peptidoglycan and teichoic acid", "Silica and carbohydrate"],
+    "answerIndex": 0,
+    "hint": "These two substances also make up most of the fluid-mosaic structure.",
+    "explanation": "The cell membrane is composed mainly of lipid and protein, structured as the fluid mosaic model."
+  },
+  {
+    "id": "cs2-47",
+    "topic": "Phospholipid Structure",
+    "lang": "th",
+    "question": "ในโครงสร้างฟอสโฟลิพิด ส่วนหัวที่ชอบน้ำ (hydrophilic head) หันไปทางทิศทางใดเมื่อจัดเรียงเป็นเยื่อหุ้มเซลล์สองชั้น (bilayer)",
+    "choices": ["หันออกด้านนอกทั้งสองด้าน (ทางน้ำ)", "หันเข้าด้านในตรงกลาง", "หันไปทางเดียวกันหมดด้านเดียว", "ไม่มีทิศทางที่แน่นอน", "หันออกเฉพาะด้านนอกเซลล์เท่านั้น"],
+    "answerIndex": 0,
+    "hint": "ส่วนนี้ต้องสัมผัสกับน้ำทั้งภายในและภายนอกเซลล์",
+    "explanation": "ในเยื่อหุ้มเซลล์สองชั้น ส่วนหัวที่ชอบน้ำหันออกด้านนอกทั้งสองด้าน (ทางน้ำ) ส่วนหางที่ไม่ชอบน้ำหันเข้าด้านใน"
+  },
+  {
+    "id": "cs2-48",
+    "topic": "Phospholipid Structure",
+    "lang": "th",
+    "question": "ส่วนใดของโมเลกุลฟอสโฟลิพิดที่ไม่ชอบน้ำ (hydrophobic) และหันเข้าด้านในของเยื่อหุ้มเซลล์",
+    "choices": ["สายกรดไขมัน (Fatty acid tails)", "หมู่ฟอสเฟต (Phosphate group)", "กลีเซอรอลเพียงอย่างเดียว", "ส่วนหัวที่มีขั้ว (Polar head group)", "สายคาร์โบไฮเดรต"],
+    "answerIndex": 0,
+    "hint": "ส่วนนี้อาจเป็นสายอิ่มตัวหรือไม่อิ่มตัวก็ได้",
+    "explanation": "สายกรดไขมันเป็นส่วนที่ไม่มีขั้วและไม่ชอบน้ำของฟอสโฟลิพิด จึงหันเข้าด้านในของเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs2-49",
+    "topic": "Phospholipid Structure",
+    "lang": "th",
+    "question": "โครงสร้างของฟอสโฟลิพิดประกอบด้วยส่วนใดบ้าง",
+    "choices": ["หมู่ฟอสเฟต กลีเซอรอล และสายกรดไขมัน", "กรดกาแล็กทูโรนิกและกลีเซอรอล", "ไคตินและหมู่ฟอสเฟตเท่านั้น", "เพปทิโดไกลแคนและกรดไขมัน", "ซิลิกาและกลีเซอรอล"],
+    "answerIndex": 0,
+    "hint": "ส่วนหัวมีธาตุฟอสฟอรัสเป็นองค์ประกอบ ส่วนหางเป็นสายไฮโดรคาร์บอนยาว",
+    "explanation": "ฟอสโฟลิพิดประกอบด้วยหมู่ฟอสเฟต กลีเซอรอล และสายกรดไขมัน (อิ่มตัว/ไม่อิ่มตัว)"
+  },
+  {
+    "id": "cs2-50",
+    "topic": "Integral Membrane Protein",
+    "lang": "th",
+    "question": "โปรตีนเยื่อหุ้มเซลล์ชนิดใดที่ฝังตัวอยู่ถาวรภายในชั้นไขมันสองชั้น (embedded within the lipid bilayer)",
+    "choices": ["Integral protein", "Peripheral protein", "Glycolipid", "Steroid", "Cytoskeletal fiber"],
+    "answerIndex": 0,
+    "hint": "โปรตีนชนิดนี้มีส่วนไม่มีขั้วอยู่ภายในและส่วนมีขั้วยื่นออกมา",
+    "explanation": "Integral protein คือโปรตีนที่ฝังตัวถาวรอยู่ภายในชั้นไขมันของเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs2-51",
+    "topic": "Integral Membrane Protein",
+    "lang": "en",
+    "question": "Integral membrane proteins often act as carrier proteins with what function?",
+    "choices": ["Allowing water, ions, or large molecules to enter the cell", "Anchoring the membrane to the extracellular matrix only", "Producing lignin for the cell wall", "Forming the cell plate during cytokinesis", "Catalyzing Gram staining reactions"],
+    "answerIndex": 0,
+    "hint": "Their non-polar part sits inside the membrane while the polar part protrudes to interact with substances crossing the membrane.",
+    "explanation": "Integral proteins act as carrier proteins, allowing water, ions, or large molecules to enter the cell."
+  },
+  {
+    "id": "cs2-52",
+    "topic": "Peripheral Membrane Protein",
+    "lang": "th",
+    "question": "Peripheral protein มีตำแหน่งอยู่ที่ใดของเยื่อหุ้มเซลล์",
+    "choices": ["อยู่นอกชั้นไขมัน ส่วนใหญ่อยู่ด้านไซโทพลาซึม", "ฝังตัวถาวรอยู่กลางชั้นไขมันสองชั้น", "อยู่นอกเซลล์เท่านั้น ไม่เคยอยู่ด้านในเซลล์", "แทรกอยู่ระหว่างชั้นไขมันสองชั้นพอดี", "อยู่ในนิวเคลียสของเซลล์"],
+    "answerIndex": 0,
+    "hint": "โปรตีนชนิดนี้ยึดติดอยู่เพียงด้านเดียวของเยื่อหุ้มเซลล์เท่านั้น",
+    "explanation": "Peripheral protein อยู่นอกชั้นไขมัน ส่วนใหญ่อยู่ด้านไซโทพลาซึม และยึดติดอยู่เพียงด้านเดียวของเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs2-53",
+    "topic": "Peripheral Membrane Protein",
+    "lang": "th",
+    "question": "ข้อใดต่อไปนี้ไม่ใช่หน้าที่ของ Peripheral protein",
+    "choices": ["ทำหน้าที่เป็นโปรตีนพาหะ (carrier) ลำเลียงน้ำและไอออนผ่านชั้นไขมันสองชั้น", "เป็นตัวรับ (Receptor protein)", "เกี่ยวข้องกับการเชื่อมต่อระหว่างเซลล์ (Intercellular junctions)", "เกี่ยวข้องกับการจดจำระหว่างเซลล์ (Cell-cell recognition)", "ยึดเกาะกับโครงร่างเซลล์และเมทริกซ์นอกเซลล์ (Cytoskeleton/ECM)"],
+    "answerIndex": 0,
+    "hint": "การลำเลียงน้ำ/ไอออนผ่านชั้นไขมันเป็นหน้าที่ของโปรตีนอีกชนิดที่ฝังอยู่ในเยื่อหุ้มเซลล์",
+    "explanation": "การลำเลียงน้ำ/ไอออนแบบพาหะเป็นหน้าที่ของ integral protein ไม่ใช่ peripheral protein ซึ่งทำหน้าที่เป็นตัวรับ จุดเชื่อมต่อระหว่างเซลล์ การจดจำเซลล์ และยึดเกาะโครงร่างเซลล์/ECM"
+  }
+]

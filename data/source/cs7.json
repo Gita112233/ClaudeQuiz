@@ -1,0 +1,654 @@
+[
+  {
+    "id": "cs7-01",
+    "topic": "Lysosome Formation",
+    "lang": "th",
+    "question": "อวัยวะเซลล์ใดทำหน้าที่สร้างเอนไซม์ไฮโดรไลติกที่ภายหลังจะถูกบรรจุลงใน Lysosome?",
+    "choices": ["RER", "Golgi complex", "Peroxisome", "Mitochondria", "Free ribosome เดี่ยว ๆ"],
+    "answerIndex": 0,
+    "hint": "คิดถึงออร์แกเนลล์ที่มีไรโบโซมเกาะและสร้างโปรตีน/เอนไซม์เพื่อส่งออก",
+    "explanation": "RER สร้างเอนไซม์ ส่วน Golgi complex สร้างเวสิเคิลบรรจุเอนไซม์แล้วรวมกับ Endosome กลายเป็น Lysosome"
+  },
+  {
+    "id": "cs7-02",
+    "topic": "Lysosome Formation",
+    "lang": "th",
+    "question": "โมเลกุลใดทำหน้าที่เป็นป้ายกำกับ (tag) บ่งบอกว่าเอนไซม์นั้นจะถูกส่งไปยัง Lysosome?",
+    "choices": ["Mannose-6-phosphate", "Glucose-1-phosphate", "Ubiquitin", "Signal peptide", "Clathrin"],
+    "answerIndex": 0,
+    "hint": "ชื่อของน้ำตาลที่ถูกฟอสโฟรีเลตในตำแหน่งที่ 6",
+    "explanation": "Mannose-6-phosphate คือแท็กที่ติดบนเอนไซม์เพื่อบ่งบอกปลายทางว่าจะถูกส่งเข้า Lysosome"
+  },
+  {
+    "id": "cs7-03",
+    "topic": "Lysosome Formation",
+    "lang": "en",
+    "question": "Which two autophagy pathways both result in the formation of an Autophagosome?",
+    "choices": ["Macroautophagy and Microautophagy", "Macroautophagy and CMA", "Microautophagy and CMA", "Autolysis and Macroautophagy", "Endocytosis and CMA"],
+    "answerIndex": 0,
+    "hint": "CMA stands apart and does not form the same double-membrane structure as the other two.",
+    "explanation": "Macroautophagy and Microautophagy both form an Autophagosome, unlike Chaperone-Mediated Autophagy (CMA) which works differently."
+  },
+  {
+    "id": "cs7-04",
+    "topic": "Lysosome Formation",
+    "lang": "th",
+    "question": "หลัง Lysosome ทำหน้าที่ย่อยสลายเสร็จสิ้น จะเปลี่ยนสภาพเป็นสิ่งใดก่อนถูกขับออกทางเยื่อหุ้มเซลล์?",
+    "choices": ["Residual body", "Autophagosome", "Peroxisome", "Endosome", "Phagophore"],
+    "answerIndex": 0,
+    "hint": "เป็นสิ่งที่ \"เหลืออยู่\" หลังการย่อยสลาย ก่อนถูกขับทิ้ง",
+    "explanation": "ตามลำดับ Lysosome → Residual body → ขับออกทางเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs7-05",
+    "topic": "Lysosome Formation via Endocytosis",
+    "lang": "th",
+    "question": "หลังจากเวสิเคิลเอนโดไซโทซิสรวมกับ Early endosome แล้ว Early endosome จะพัฒนาต่อไปเป็นสิ่งใด?",
+    "choices": ["Late endosome", "Recycling endosome", "Autophagosome", "Phagosome", "Golgi complex"],
+    "answerIndex": 0,
+    "hint": "เป็นขั้นที่มาก่อนการรวมตัวกับเวสิเคิลจาก trans-Golgi และกลายเป็น Lysosome",
+    "explanation": "Early endosome จะเจริญเติบโต (mature) กลายเป็น Late endosome ก่อนรวมกับเวสิเคิลจาก trans-Golgi เพื่อกลายเป็น Lysosome"
+  },
+  {
+    "id": "cs7-06",
+    "topic": "Lysosome Formation via Endocytosis",
+    "lang": "en",
+    "question": "According to the endocytosis pathway, what happens to membrane receptors after early endosome formation?",
+    "choices": ["They are recycled back to the plasma membrane via recycling endosomes", "They are degraded immediately by hydrolytic enzymes", "They fuse directly with peroxisomes", "They are exported via exocytosis as waste", "They become part of the nucleoid crystal"],
+    "answerIndex": 0,
+    "hint": "The receptors are not wasted — they return to where they came from.",
+    "explanation": "Membrane receptors are recycled back to the plasma membrane through recycling endosomes, rather than being degraded."
+  },
+  {
+    "id": "cs7-07",
+    "topic": "Lysosome Formation via Endocytosis",
+    "lang": "th",
+    "question": "เวสิเคิลขนส่งจาก trans-Golgi network ที่บรรจุ acid hydrolases จะจับกับตัวรับชนิดใดก่อนรวมกับ Late endosome?",
+    "choices": ["Mannose-6-phosphate receptor", "Clathrin receptor", "LDL receptor", "Insulin receptor", "Toll-like receptor"],
+    "answerIndex": 0,
+    "hint": "ตัวรับนี้จับคู่กับแท็กชนิดเดียวกับที่ติดบนเอนไซม์ไลโซโซม",
+    "explanation": "เวสิเคิลที่บรรจุ acid hydrolases จับกับ Mannose-6-phosphate receptor ก่อนรวมกับ Late endosome และพัฒนาเป็น Lysosome"
+  },
+  {
+    "id": "cs7-08",
+    "topic": "Lysosome Function - Phagocytosis",
+    "lang": "th",
+    "question": "ข้อใดเรียงลำดับขั้นตอน phagocytosis ที่เกี่ยวข้องกับ lysosome ได้ถูกต้อง?",
+    "choices": [
+      "Lysosome มีเอนไซม์ไฮโดรไลติก → รวมกับ food vacuole → ย่อยอาหาร",
+      "ย่อยอาหาร → รวมกับ food vacuole → Lysosome มีเอนไซม์",
+      "รวมกับ food vacuole → Lysosome มีเอนไซม์ → ย่อยอาหาร",
+      "Lysosome มีเอนไซม์ → ย่อยอาหาร → รวมกับ food vacuole",
+      "Exocytosis → รวมกับ food vacuole → ย่อยอาหาร"
+    ],
+    "answerIndex": 0,
+    "hint": "เอนไซม์ต้องพร้อมอยู่ก่อน แล้วจึงเข้าไปรวมตัวกับสิ่งที่จะถูกย่อย",
+    "explanation": "ลำดับที่ถูกต้องคือ Lysosome มีเอนไซม์ไฮโดรไลติกอยู่แล้ว → รวมกับ food vacuole → เอนไซม์ย่อยอาหาร"
+  },
+  {
+    "id": "cs7-09",
+    "topic": "Lysosome Function - Phagocytosis",
+    "lang": "en",
+    "question": "The material gives which organism as an example of using lysosomes for intracellular digestion (in the lysosome-function section)?",
+    "choices": ["Protozoa", "Hydra", "Sponge", "Human liver cells", "Amoeba's contractile vacuole"],
+    "answerIndex": 0,
+    "hint": "It is a single-celled organism named directly alongside phagocyte cells in that section.",
+    "explanation": "The material states lysosome function includes intracellular digestion in Protozoa, and digestion of antigens in phagocyte cells."
+  },
+  {
+    "id": "cs7-10",
+    "topic": "Lysosome Function - Phagocytosis",
+    "lang": "th",
+    "question": "หลังจากการย่อยอาหารภายใน digestive vacuole เสร็จสิ้น ของเสียจะถูกขับออกจากเซลล์ด้วยกระบวนการใด?",
+    "choices": ["Exocytosis", "Endocytosis", "Pinocytosis", "Osmoregulation", "Autolysis"],
+    "answerIndex": 0,
+    "hint": "เป็นกระบวนการตรงข้ามกับการนำสารเข้าสู่เซลล์",
+    "explanation": "หลังย่อยอาหารเสร็จ ของเสียจะถูกขับออกจากเซลล์ทาง Exocytosis"
+  },
+  {
+    "id": "cs7-11",
+    "topic": "Autophagy Vs Autolysis",
+    "lang": "th",
+    "question": "กระบวนการใดคือการที่ Lysosome แตกออกและปล่อยเอนไซม์ออกมาทำลายเซลล์หรือเนื้อเยื่อที่ไม่ต้องการ จนทำให้เซลล์ตาย?",
+    "choices": ["Autolysis", "Autophagy", "Apoptosis", "Phagocytosis", "Chaperone-mediated autophagy"],
+    "answerIndex": 0,
+    "hint": "คำนี้เน้นการ \"แตกสลาย\" ของตัว lysosome เอง ไม่ใช่การกำจัดออร์แกเนลล์ทีละส่วน",
+    "explanation": "Autolysis คือ lysosome แตก ปล่อยเอนไซม์ทำลายเซลล์/เนื้อเยื่อ ทำให้เซลล์ตาย ซึ่งเนื้อหาระบุชัดว่าไม่เหมือนกับ Apoptosis"
+  },
+  {
+    "id": "cs7-12",
+    "topic": "Autophagy Vs Autolysis",
+    "lang": "en",
+    "question": "Which of the following is given as an example of Autolysis in the material?",
+    "choices": ["Tadpole shedding its tail during metamorphosis", "Digestion of food in a food vacuole", "Beta-oxidation of fatty acids", "Osmoregulation in Amoeba", "Formation of autophagosome around mitochondria"],
+    "answerIndex": 0,
+    "hint": "Think of a developmental change that removes a whole body part no longer needed.",
+    "explanation": "The tadpole shedding its tail during metamorphosis is listed as an autolysis example, along with aged blood cells, lizard tail loss, and finger groove formation."
+  },
+  {
+    "id": "cs7-13",
+    "topic": "Autophagy Vs Autolysis",
+    "lang": "th",
+    "question": "ข้อใดคือความหมายของ Autophagy ตามเนื้อหา?",
+    "choices": [
+      "การกำจัดออร์แกเนลล์ที่เสื่อมสภาพหรือหมดอายุการใช้งาน",
+      "การที่ lysosome แตกทำลายเซลล์ทั้งเซลล์",
+      "กระบวนการตายแบบเป็นโปรแกรม (programmed cell death)",
+      "การขับน้ำส่วนเกินออกจากเซลล์",
+      "การสร้างเม็ดสีในกลีบดอกไม้"
+    ],
+    "answerIndex": 0,
+    "hint": "คำนี้เกี่ยวกับการ \"กินตัวเอง\" อย่างเป็นระบบ เพื่อกำจัดของเสื่อมภายในเซลล์",
+    "explanation": "Autophagy คือการกำจัดออร์แกเนลล์ที่เสื่อมสภาพหรือหมดอายุการใช้งาน ต่างจาก Autolysis ที่ทำลายทั้งเซลล์"
+  },
+  {
+    "id": "cs7-14",
+    "topic": "Autophagy Vs Autolysis",
+    "lang": "th",
+    "question": "ข้อใด \"ไม่ใช่\" ตัวอย่างของ Autolysis ที่กล่าวถึงในเนื้อหา?",
+    "choices": [
+      "การสลายหางลูกอ๊อดขณะเปลี่ยนรูปร่าง (metamorphosis)",
+      "การหลุดของหางจิ้งจก",
+      "การสลายพังผืดระหว่างนิ้วมือขณะเป็นตัวอ่อน",
+      "เซลล์เม็ดเลือดที่หมดอายุ",
+      "การสร้าง Autophagosome ล้อมรอบไมโทคอนเดรีย"
+    ],
+    "answerIndex": 4,
+    "hint": "ข้อนี้เกี่ยวข้องกับการกำจัดออร์แกเนลล์เดี่ยว ๆ ไม่ใช่การทำลายเซลล์/เนื้อเยื่อทั้งหมด",
+    "explanation": "การสร้าง Autophagosome ล้อมรอบไมโทคอนเดรียเป็นขั้นตอนของ Autophagy ไม่ใช่ Autolysis ซึ่งตัวอย่างอื่นทั้งหมดเป็น Autolysis"
+  },
+  {
+    "id": "cs7-15",
+    "topic": "Autophagy Pathway",
+    "lang": "th",
+    "question": "เยื่อหุ้มที่ห่อหุ้มออร์แกเนลล์ (เช่น ไมโทคอนเดรีย) เพื่อสร้าง Autophagosome มีต้นกำเนิดมาจากเยื่อใด?",
+    "choices": ["ER (Endoplasmic reticulum)", "Golgi complex", "Nuclear envelope", "Peroxisome membrane", "Tonoplast"],
+    "answerIndex": 0,
+    "hint": "เยื่อนี้เป็นแหล่งเดียวกับที่สร้างเอนไซม์ในไลโซโซม",
+    "explanation": "ตามเนื้อหา เยื่อที่ห่อหุ้มไมโทคอนเดรียเพื่อสร้าง autophagosome มีต้นกำเนิดจาก ER"
+  },
+  {
+    "id": "cs7-16",
+    "topic": "Autophagy Pathway",
+    "lang": "en",
+    "question": "What is the correct order of steps in the autophagy pathway described in the material?",
+    "choices": [
+      "Phagophore formation → Autophagosome formation → Fusion with lysosome → Autophagolysosome formation and degradation",
+      "Autophagosome formation → Phagophore formation → Autophagolysosome → Fusion with lysosome",
+      "Fusion with lysosome → Phagophore formation → Autophagosome → Degradation",
+      "Autophagolysosome formation → Phagophore → Fusion with lysosome → Autophagosome",
+      "Degradation → Autophagosome → Phagophore → Fusion with lysosome"
+    ],
+    "answerIndex": 0,
+    "hint": "The membrane must first wrap around the cargo before a lysosome can join in.",
+    "explanation": "The correct sequence is Phagophore formation (engulfing cargo) → Autophagosome formation → Fusion with lysosome → Autophagolysosome formation and cargo degradation."
+  },
+  {
+    "id": "cs7-17",
+    "topic": "Autophagy Pathway",
+    "lang": "th",
+    "question": "เมื่อ Autophagosome รวมตัวกับ Lysosome จะเกิดโครงสร้างใดที่ทำหน้าที่ย่อยสลายส่วนประกอบภายใน?",
+    "choices": ["Phagolysosome (Autophagolysosome)", "Residual body", "Endosome", "Peroxisome", "Glyoxysome"],
+    "answerIndex": 0,
+    "hint": "ชื่อโครงสร้างนี้รวมคำว่า Autophago- กับ -lysosome เข้าด้วยกัน",
+    "explanation": "Autophagosome + Lysosome รวมกันเป็น Autolysosome (Phagolysosome) ซึ่งย่อยสลายส่วนประกอบภายใน แล้วปล่อยผลผลิตกลับสู่ไซโทพลาซึม"
+  },
+  {
+    "id": "cs7-18",
+    "topic": "Peroxisome Structure And Function",
+    "lang": "th",
+    "question": "หน้าที่หลักของ Peroxisome คือการสลายสารพิษชนิดใด?",
+    "choices": ["Hydrogen peroxide (H2O2)", "Carbon dioxide (CO2)", "Ammonia (NH3)", "Lactic acid", "Urea"],
+    "answerIndex": 0,
+    "hint": "สารพิษนี้มีสูตรเคมีคล้ายน้ำแต่มีออกซิเจนเพิ่มมาหนึ่งอะตอม",
+    "explanation": "Peroxisome ทำหน้าที่สลาย Hydrogen peroxide (H2O2) ซึ่งเป็นสารพิษต่อเซลล์"
+  },
+  {
+    "id": "cs7-19",
+    "topic": "Peroxisome Structure And Function",
+    "lang": "en",
+    "question": "Peroxisomes break down hydrogen peroxide into which two products?",
+    "choices": ["Oxygen and water", "Carbon dioxide and water", "Oxygen and glucose", "Nitrogen and water", "Ammonia and oxygen"],
+    "answerIndex": 0,
+    "hint": "One product is a gas we breathe, the other is essential for life and simple.",
+    "explanation": "Peroxisomes convert toxic H2O2 into harmless oxygen and water."
+  },
+  {
+    "id": "cs7-20",
+    "topic": "Peroxisome Structure And Function",
+    "lang": "th",
+    "question": "แกนกลาง (core) ของ Peroxisome ที่เป็นผลึกของเอนไซม์ urate oxidase และย้อมติดสีเข้ม เรียกว่าอะไร?",
+    "choices": ["Nucleoid crystal (Enzyme core)", "Plastoglobule", "Thylakoid", "Cell sap", "Autolysosome"],
+    "answerIndex": 0,
+    "hint": "ชื่อนี้บ่งบอกถึงแกนกลางที่มีลักษณะเป็นผลึก",
+    "explanation": "แกนกลางของ Peroxisome ที่เป็นผลึก urate oxidase เรียกว่า Nucleoid crystal หรือ Enzyme core"
+  },
+  {
+    "id": "cs7-21",
+    "topic": "Peroxisome Structure And Function",
+    "lang": "th",
+    "question": "Peroxisome ที่พบในเมล็ดพืชมักถูกเรียกด้วยชื่อเฉพาะว่าอะไร?",
+    "choices": ["Glyoxysome", "Amyloplast", "Chromoplast", "Proplastid", "Elaioplast"],
+    "answerIndex": 0,
+    "hint": "ชื่อนี้มาจากวัฏจักรทางชีวเคมีที่เกี่ยวข้องกับการสลายไขมันในเมล็ด",
+    "explanation": "ในเมล็ดพืช Peroxisome มักถูกเรียกว่า Glyoxysome"
+  },
+  {
+    "id": "cs7-22",
+    "topic": "Peroxisome Additional Functions",
+    "lang": "th",
+    "question": "กระบวนการ β-oxidation ที่สลายกรดไขมันเป็น acetyl-CoA เกิดจาก Peroxisome ทำงานร่วมกับออร์แกเนลล์ใด?",
+    "choices": ["Mitochondria", "Golgi complex", "ER", "Nucleus", "Chloroplast"],
+    "answerIndex": 0,
+    "hint": "ออร์แกเนลล์นี้เป็นแหล่งหายใจระดับเซลล์ที่รับ Acetyl-CoA ไปใช้ต่อ",
+    "explanation": "Peroxisome ทำงานร่วมกับ Mitochondria ในกระบวนการ β-oxidation เพื่อสลายกรดไขมันเป็น acetyl-CoA สำหรับการหายใจระดับเซลล์"
+  },
+  {
+    "id": "cs7-23",
+    "topic": "Peroxisome Additional Functions",
+    "lang": "en",
+    "question": "Which detoxification example is attributed to peroxisome function in the material?",
+    "choices": ["Oxidizing alcohol to acetaldehyde", "Breaking down starch to glucose", "Producing chlorophyll pigment", "Storing oxalate crystals", "Pumping excess water out of the cell"],
+    "answerIndex": 0,
+    "hint": "This is a reaction relevant to how the liver processes drinks containing ethanol.",
+    "explanation": "Peroxisomes in liver cells detoxify by oxidizing alcohol into acetaldehyde and producing bile acids."
+  },
+  {
+    "id": "cs7-24",
+    "topic": "Peroxisome Additional Functions",
+    "lang": "th",
+    "question": "ผลิตภัณฑ์ acetyl-CoA ที่ได้จาก β-oxidation จะถูกส่งเข้าสู่วัฏจักรใดต่อไป?",
+    "choices": ["Krebs cycle (วัฏจักรเครบส์)", "Calvin cycle", "Glycolysis", "Photosystem II", "Urea cycle"],
+    "answerIndex": 0,
+    "hint": "วัฏจักรนี้เกิดในไมโทคอนเดรียและเป็นส่วนหนึ่งของการหายใจระดับเซลล์",
+    "explanation": "Acetyl-CoA จาก β-oxidation จะเข้าสู่ Krebs cycle ส่วน FADH2/NADH จะเข้าสู่ electron transport chain"
+  },
+  {
+    "id": "cs7-25",
+    "topic": "Sap Vacuole (Central Vacuole)",
+    "lang": "th",
+    "question": "เยื่อหุ้ม Sap vacuole ที่มีความยืดหยุ่นสูง สามารถขยายตัวได้โดยไม่แตก เรียกว่าอะไร?",
+    "choices": ["Tonoplast", "Sarcolemma", "Plasmalemma", "Nuclear envelope", "Cristae"],
+    "answerIndex": 0,
+    "hint": "ชื่อเยื่อนี้เฉพาะเจาะจงกับแวคิวโอลในเซลล์พืช",
+    "explanation": "เยื่อหุ้ม Sap vacuole ที่ยืดหยุ่นสูงเรียกว่า Tonoplast"
+  },
+  {
+    "id": "cs7-26",
+    "topic": "Sap Vacuole (Central Vacuole)",
+    "lang": "en",
+    "question": "Central (sap) vacuoles, which can occupy up to 90% of cell volume, are found only in which type(s) of cells?",
+    "choices": ["Plant and algae cells", "Animal and fungal cells", "Bacterial cells only", "Protozoan cells only", "All eukaryotic cells"],
+    "answerIndex": 0,
+    "hint": "These organisms have a cell wall and carry out photosynthesis or are closely related to those that do.",
+    "explanation": "The material states central vacuoles are found only in plant cells and algae cells."
+  },
+  {
+    "id": "cs7-27",
+    "topic": "Sap Vacuole (Central Vacuole)",
+    "lang": "th",
+    "question": "Sap vacuole มีหน้าที่คล้ายคลึงกับออร์แกเนลล์ใดมากที่สุดตามที่ระบุในเนื้อหา?",
+    "choices": ["Lysosome", "Peroxisome", "Chloroplast", "Mitochondria", "Ribosome"],
+    "answerIndex": 0,
+    "hint": "ออร์แกเนลล์นี้เก็บเอนไซม์ไฮโดรไลติกเช่นเดียวกับ Sap vacuole",
+    "explanation": "Sap vacuole สามารถเก็บเอนไซม์ย่อยสลาย ทำให้มีหน้าที่คล้ายคลึงกับ Lysosome"
+  },
+  {
+    "id": "cs7-28",
+    "topic": "Sap Vacuole Contents",
+    "lang": "th",
+    "question": "เม็ดสีชนิดใดใน cell sap ที่ให้สีชมพู-ม่วง-น้ำเงินแก่กลีบดอกไม้ โดยสีจะเปลี่ยนไปตามค่า pH?",
+    "choices": ["Anthocyanin", "Carotenoid", "Xanthophyll", "Chlorophyll", "Melanin"],
+    "answerIndex": 0,
+    "hint": "เม็ดสีนี้ละลายน้ำได้และพบใน cell sap ไม่ใช่บนเยื่อพลาสติด",
+    "explanation": "Anthocyanin เป็นเม็ดสีที่เก็บใน sap vacuole ให้สีชมพู-ม่วง-น้ำเงิน ขึ้นอยู่กับ pH"
+  },
+  {
+    "id": "cs7-29",
+    "topic": "Sap Vacuole Contents",
+    "lang": "en",
+    "question": "According to the material, where is the water-soluble Flavonoid pigment located, compared with the fat-soluble Carotenoid?",
+    "choices": [
+      "In the cell sap (vacuole), while carotenoid is on the chromoplast membrane",
+      "On the chromoplast membrane, while carotenoid is in the vacuole",
+      "In the mitochondria, while carotenoid is in the nucleus",
+      "In the chloroplast stroma, while carotenoid is in the cytoplasm",
+      "In the cell wall, while carotenoid is in the peroxisome"
+    ],
+    "answerIndex": 0,
+    "hint": "Water-soluble substances tend to accumulate in the watery central sap, not on a lipid membrane.",
+    "explanation": "Flavonoid is water-soluble and found in the cell sap (vacuole), while carotenoid is fat-soluble and found on the chromoplast membrane."
+  },
+  {
+    "id": "cs7-30",
+    "topic": "Sap Vacuole Contents",
+    "lang": "th",
+    "question": "ในพืช CAM กรดมาลิก (Malic acid) จะถูกสะสมไว้ใน sap vacuole ในช่วงเวลาใด?",
+    "choices": ["กลางคืน", "กลางวัน", "พลบค่ำ", "รุ่งเช้า", "ตลอดเวลาเท่ากัน"],
+    "answerIndex": 0,
+    "hint": "พืช CAM เปิดปากใบและตรึง CO2 ในช่วงที่อากาศเย็นและชื้นกว่า",
+    "explanation": "เนื้อหาระบุว่า Malic acid ถูกสะสมในเวลากลางคืนสำหรับพืช CAM"
+  },
+  {
+    "id": "cs7-31",
+    "topic": "Sap Vacuole Contents",
+    "lang": "th",
+    "question": "สารต่อไปนี้ข้อใด \"ไม่ใช่\" สารที่ระบุว่าถูกเก็บสะสมใน Sap vacuole?",
+    "choices": ["Chlorophyll", "Caffeine", "Oxalate crystals", "Terpenes", "Malic acid"],
+    "answerIndex": 0,
+    "hint": "เม็ดสีนี้ทำหน้าที่สังเคราะห์แสงและอยู่ในออร์แกเนลล์อื่นที่มีเยื่อหุ้มสองชั้น",
+    "explanation": "Chlorophyll พบใน chloroplast ไม่ใช่สารที่ระบุว่าเก็บใน sap vacuole ต่างจาก caffeine, oxalate crystals, terpenes และ malic acid"
+  },
+  {
+    "id": "cs7-32",
+    "topic": "Food Vacuole - Porifera",
+    "lang": "th",
+    "question": "ในสัตว์ไฟลัม Porifera (ฟองน้ำ) เซลล์ชนิดใดที่มี food vacuole และทำหน้าที่ย่อยอาหารภายในเซลล์?",
+    "choices": ["Choanocyte และ Amoebocyte", "Nutritive cell", "Gland cell", "Epidermal cell", "Mesophyll cell"],
+    "answerIndex": 0,
+    "hint": "หนึ่งในสองเซลล์นี้มีแฟลกเจลลัมและเรียกอีกชื่อว่า collar cell",
+    "explanation": "เนื้อหาระบุว่า Choanocyte (collar cell) และ Amoebocyte ของฟองน้ำเป็นเซลล์ที่มี intracellular digestion"
+  },
+  {
+    "id": "cs7-33",
+    "topic": "Food Vacuole - Porifera",
+    "lang": "en",
+    "question": "The Choanocyte (collar cell) in sponges, which performs intracellular digestion, is characterized by having which structure?",
+    "choices": ["A flagellum", "A contractile vacuole", "Chlorophyll", "A tonoplast", "A gland"],
+    "answerIndex": 0,
+    "hint": "This structure helps the cell create water currents to draw in food particles.",
+    "explanation": "The material describes the Choanocyte as a collar cell with a flagellum."
+  },
+  {
+    "id": "cs7-34",
+    "topic": "Food Vacuole - Hydra",
+    "lang": "th",
+    "question": "เซลล์ชนิดใดใน Hydra ที่มี food vacuole ทำหน้าที่ย่อยอาหาร?",
+    "choices": ["Nutritive cell", "Nerve cell", "Choanocyte", "Amoebocyte", "Stinging cell"],
+    "answerIndex": 0,
+    "hint": "ชื่อเซลล์นี้บ่งบอกโดยตรงถึงหน้าที่เกี่ยวกับสารอาหาร",
+    "explanation": "เนื้อหาระบุว่า food vacuole ใน Hydra พบใน Nutritive cell"
+  },
+  {
+    "id": "cs7-35",
+    "topic": "Food Vacuole - Hydra",
+    "lang": "th",
+    "question": "ขั้นตอนแรกของกระบวนการย่อยอาหาร 4 ขั้นตอนใน Hydra ตามเนื้อหาคือข้อใด?",
+    "choices": [
+      "ปล่อยเอนไซม์ย่อยอาหารจาก gland cell",
+      "อนุภาคอาหารถูกโอบล้อม (engulf)",
+      "อนุภาคอาหารถูกย่อยใน food vacuole",
+      "อนุภาคอาหารถูกทำให้มีขนาดเล็กลง",
+      "ขับของเสียออกทาง exocytosis"
+    ],
+    "answerIndex": 0,
+    "hint": "ต้องมีเอนไซม์ถูกปล่อยออกมาก่อน เพื่อเริ่มสลายอาหารก้อนใหญ่",
+    "explanation": "ขั้นตอนแรกคือ enzymes ถูกปล่อยจาก gland cell ก่อนที่อาหารจะถูกย่อยและถูกโอบล้อม"
+  },
+  {
+    "id": "cs7-36",
+    "topic": "Food Vacuole - Hydra",
+    "lang": "en",
+    "question": "What is the final step in the 4-step food-digestion process in Hydra's nutritive cell described in the material?",
+    "choices": [
+      "The food particle is digested inside the food vacuole",
+      "Digestive enzymes are released from a gland cell",
+      "The food particle is engulfed",
+      "The food particle is broken into smaller pieces",
+      "Excess water is pumped out"
+    ],
+    "answerIndex": 0,
+    "hint": "This step happens only after the particle has already been taken into the cell.",
+    "explanation": "The final step is digestion of the food particle inside the food vacuole, after enzyme release, breakdown, and engulfment."
+  },
+  {
+    "id": "cs7-37",
+    "topic": "Food Vacuole Function",
+    "lang": "th",
+    "question": "ข้อใดถูกต้องเกี่ยวกับ Food vacuole ตามเนื้อหาที่เน้นย้ำ?",
+    "choices": [
+      "ไม่ได้ใช้สำหรับเก็บสะสมอาหาร แต่บรรจุอาหารที่รอการย่อยด้วย lysosome",
+      "ใช้สำหรับเก็บสะสมอาหารในระยะยาว",
+      "พบเฉพาะในเซลล์พืชเท่านั้น",
+      "ทำหน้าที่ควบคุมแรงดันออสโมซิสเป็นหลัก",
+      "มีเยื่อหุ้มยืดหยุ่นเรียกว่า tonoplast"
+    ],
+    "answerIndex": 0,
+    "hint": "เนื้อหาเน้นย้ำว่านี่ \"ไม่ใช่\" ที่เก็บสะสมอาหารระยะยาว",
+    "explanation": "Food vacuole ไม่ได้ใช้เก็บสะสมอาหาร แต่บรรจุอาหารที่ได้จาก endocytosis รอการย่อยร่วมกับ lysosome"
+  },
+  {
+    "id": "cs7-38",
+    "topic": "Food Vacuole Function",
+    "lang": "en",
+    "question": "According to the material, what is the key difference between Phagocytosis and Pinocytosis in forming a food vacuole?",
+    "choices": [
+      "Phagocytosis engulfs large particles, while pinocytosis engulfs small dissolved particles in fluid",
+      "Phagocytosis occurs only in plants, while pinocytosis occurs only in animals",
+      "Phagocytosis uses osmosis, while pinocytosis uses active transport",
+      "Phagocytosis forms a contractile vacuole, while pinocytosis forms a sap vacuole",
+      "Phagocytosis requires no membrane, while pinocytosis does"
+    ],
+    "answerIndex": 0,
+    "hint": "Think about particle size — one is a solid chunk, the other is dissolved in liquid.",
+    "explanation": "Phagocytosis engulfs a large particle, whereas pinocytosis engulfs small dissolved particles carried in fluid."
+  },
+  {
+    "id": "cs7-39",
+    "topic": "Food Vacuole Function",
+    "lang": "th",
+    "question": "เมื่อ Food vacuole รวมตัวกับ Lysosome จะเกิดเป็นโครงสร้างใด?",
+    "choices": ["Phagolysosome", "Autolysosome", "Residual body", "Peroxisome", "Glyoxysome"],
+    "answerIndex": 0,
+    "hint": "ชื่อโครงสร้างนี้รวมคำว่า \"phago-\" ที่หมายถึงการกิน เข้ากับ lysosome",
+    "explanation": "Food vacuole รวมกับ Lysosome กลายเป็น Phagolysosome ก่อนของเสียถูกขับออกทาง exocytosis"
+  },
+  {
+    "id": "cs7-40",
+    "topic": "Contractile Vacuole",
+    "lang": "th",
+    "question": "Contractile vacuole พบได้เฉพาะในสิ่งมีชีวิตกลุ่มใด?",
+    "choices": ["โปรโตซัวน้ำจืด (เช่น Amoeba, Paramecium)", "พืชบก", "สัตว์ทะเล", "ฟองน้ำ", "ไฮดรา"],
+    "answerIndex": 0,
+    "hint": "สิ่งมีชีวิตกลุ่มนี้อาศัยในน้ำที่มีความเข้มข้นของสารละลายต่ำกว่าภายในเซลล์",
+    "explanation": "Contractile vacuole พบเฉพาะในโปรโตซัวน้ำจืด เช่น Amoeba และ Paramecium"
+  },
+  {
+    "id": "cs7-41",
+    "topic": "Contractile Vacuole",
+    "lang": "en",
+    "question": "What is the primary function of the contractile vacuole?",
+    "choices": ["Eliminating excess water from the cell (osmoregulation)", "Digesting food particles", "Storing starch granules", "Storing pigments", "Producing ATP via photosynthesis"],
+    "answerIndex": 0,
+    "hint": "Freshwater organisms constantly take in water by osmosis and must get rid of the surplus.",
+    "explanation": "The contractile vacuole eliminates excess water that enters the cell via osmosis, a process called osmoregulation."
+  },
+  {
+    "id": "cs7-42",
+    "topic": "Contractile Vacuole",
+    "lang": "th",
+    "question": "น้ำส่วนเกินที่เข้าสู่เซลล์ก่อนจะถูกสูบออกทาง contractile vacuole เข้ามาได้ด้วยกระบวนการใด?",
+    "choices": ["Osmosis", "Active transport", "Phagocytosis", "Facilitated diffusion ผ่านช่องโปรตีน", "Exocytosis"],
+    "answerIndex": 0,
+    "hint": "เป็นการเคลื่อนที่ของน้ำแบบพาสซีฟตามความเข้มข้น",
+    "explanation": "น้ำเข้าสู่เซลล์โดย Osmosis ก่อนจะถูกสูบออกทางรูเปิดของเยื่อหุ้มเซลล์"
+  },
+  {
+    "id": "cs7-43",
+    "topic": "Proplastid",
+    "lang": "th",
+    "question": "พลาสติดทั้ง 3 ชนิดพัฒนามาจากโครงสร้างตั้งต้นใด?",
+    "choices": ["Proplastid", "Leucoplast", "Glyoxysome", "Peroxisome", "Tonoplast"],
+    "answerIndex": 0,
+    "hint": "ชื่อนี้มีคำนำหน้าที่แปลว่า \"ก่อน\" หรือ \"ต้นแบบ\"",
+    "explanation": "พลาสติดทั้ง 3 ชนิดพัฒนามาจาก Proplastid ซึ่งเป็นโครงสร้างตั้งต้นร่วมกัน"
+  },
+  {
+    "id": "cs7-44",
+    "topic": "Proplastid",
+    "lang": "en",
+    "question": "Proplastids are typically found in which type of plant cells?",
+    "choices": ["Meristematic cells (growing tissue)", "Mature leaf mesophyll cells", "Ripe fruit cells", "Root cap dead cells", "Xylem vessel cells"],
+    "answerIndex": 0,
+    "hint": "These are actively dividing cells found in growth regions of the plant.",
+    "explanation": "Proplastids are found in meristematic cells, the growing tissue of plants."
+  },
+  {
+    "id": "cs7-45",
+    "topic": "Proplastid",
+    "lang": "th",
+    "question": "Proplastid มีไรโบโซมชนิดใด เช่นเดียวกับพลาสติดชนิดอื่น?",
+    "choices": ["Ribosome 70S", "Ribosome 80S", "Ribosome 40S", "Ribosome 60S", "ไม่มีไรโบโซม"],
+    "answerIndex": 0,
+    "hint": "เป็นขนาดไรโบโซมแบบเดียวกับที่พบในโพรคาริโอตและไมโทคอนเดรีย",
+    "explanation": "Proplastid และพลาสติดชนิดอื่นทั้งหมดมี Ribosome 70S"
+  },
+  {
+    "id": "cs7-46",
+    "topic": "Leucoplast",
+    "lang": "th",
+    "question": "Leucoplast มีลักษณะเด่นอย่างไร?",
+    "choices": [
+      "ไม่มีสี (colorless) ไม่มีเม็ดสี",
+      "มีสีเขียวจาก chlorophyll",
+      "มีสีส้มจาก carotenoid",
+      "มีสีเหลืองจาก xanthophyll",
+      "มีสีม่วงจาก anthocyanin"
+    ],
+    "answerIndex": 0,
+    "hint": "ชื่อ Leuco- มาจากรากศัพท์ที่แปลว่า \"ขาว\"",
+    "explanation": "Leucoplast เป็นพลาสติดที่ไม่มีสี ไม่มีเม็ดสี พบในราก ลำต้น และผล"
+  },
+  {
+    "id": "cs7-47",
+    "topic": "Leucoplast",
+    "lang": "en",
+    "question": "Which subtype of Leucoplast is responsible for storing starch granules?",
+    "choices": ["Amyloplast", "Proteinoplast", "Elaioplast", "Chromoplast", "Glyoxysome"],
+    "answerIndex": 0,
+    "hint": "The prefix relates to \"amylose/amylum\", the chemical name related to starch.",
+    "explanation": "Amyloplast is the leucoplast subtype that stores starch granules."
+  },
+  {
+    "id": "cs7-48",
+    "topic": "Leucoplast",
+    "lang": "th",
+    "question": "Leucoplast ชนิดใดทำหน้าที่สะสมไขมัน (lipid)?",
+    "choices": ["Elaioplast", "Amyloplast", "Proteinoplast", "Chromoplast", "Proplastid"],
+    "answerIndex": 0,
+    "hint": "ชื่อนี้มาจากรากศัพท์ที่เกี่ยวข้องกับ \"น้ำมัน\"",
+    "explanation": "Elaioplast คือ leucoplast ชนิดที่สะสมไขมันหรือน้ำมัน"
+  },
+  {
+    "id": "cs7-49",
+    "topic": "Leucoplast",
+    "lang": "th",
+    "question": "Leucoplast มักพบมากในส่วนใดของพืชตามเนื้อหา?",
+    "choices": ["ราก ลำต้น และผล", "ใบเลี้ยงสีเขียว", "กลีบดอกไม้สีสด", "มะเขือเทศสุก", "แครอท"],
+    "answerIndex": 0,
+    "hint": "เป็นส่วนของพืชที่มักไม่ถูกแสงมากนักหรือยังไม่สุก",
+    "explanation": "เนื้อหาระบุว่า Leucoplast พบในราก ลำต้น และผล ต่างจาก Chromoplast ที่พบในผลสุกและดอกไม้สีสด"
+  },
+  {
+    "id": "cs7-50",
+    "topic": "Chromoplast",
+    "lang": "th",
+    "question": "Chromoplast ทำหน้าที่สะสมเม็ดสีชนิดใดที่ทำให้เกิดสีส้ม?",
+    "choices": ["Carotenoid", "Chlorophyll", "Anthocyanin", "Flavonoid", "Melanin"],
+    "answerIndex": 0,
+    "hint": "เม็ดสีนี้พบมากในแครอทและมันเทศ",
+    "explanation": "Carotenoid เป็นเม็ดสีในเนื้อหาที่ระบุว่าให้สีส้มใน Chromoplast"
+  },
+  {
+    "id": "cs7-51",
+    "topic": "Chromoplast",
+    "lang": "en",
+    "question": "Which pigment stored in the chromoplast gives a yellow color, according to the material?",
+    "choices": ["Xanthophyll", "Carotenoid", "Anthocyanin", "Chlorophyll a", "Chlorophyll b"],
+    "answerIndex": 0,
+    "hint": "This pigment is distinct from the one that gives the orange color.",
+    "explanation": "The material pairs Carotenoid with orange color and Xanthophyll with yellow color in the chromoplast."
+  },
+  {
+    "id": "cs7-52",
+    "topic": "Chromoplast",
+    "lang": "th",
+    "question": "ปัจจุบันเชื่อว่า Chromoplast สามารถผลิต ATP ได้ผ่านกระบวนการใด?",
+    "choices": ["Chromorespiration", "Photosynthesis", "Glycolysis", "Beta-oxidation", "Chemiosmosis ทั่วไป"],
+    "answerIndex": 0,
+    "hint": "ชื่อกระบวนการนี้มีคำว่า \"Chromo-\" นำหน้าเช่นเดียวกับชื่อออร์แกเนลล์",
+    "explanation": "เนื้อหาระบุว่าปัจจุบันเชื่อว่า Chromoplast ผลิต ATP ผ่านกระบวนการที่เรียกว่า Chromorespiration"
+  },
+  {
+    "id": "cs7-53",
+    "topic": "Chromoplast",
+    "lang": "th",
+    "question": "โครงสร้างใดต่อไปนี้ \"ไม่พบ\" เป็นองค์ประกอบของ Chromoplast ตามที่ระบุในเนื้อหา?",
+    "choices": [
+      "Grana ที่ทำหน้าที่สังเคราะห์แสงเต็มรูปแบบ",
+      "Plastoglobule",
+      "Circular DNA",
+      "Thylakoid remnant",
+      "Stroma"
+    ],
+    "answerIndex": 0,
+    "hint": "Chromoplast มีเพียง \"เศษ\" ของโครงสร้างที่เกี่ยวข้องกับการสังเคราะห์แสง ไม่ใช่โครงสร้างที่ทำงานเต็มรูปแบบ",
+    "explanation": "เนื้อหาระบุว่า Chromoplast มี Thylakoid remnant (เศษ thylakoid) ไม่ใช่ grana ที่ทำหน้าที่สังเคราะห์แสงเต็มรูปแบบแบบ chloroplast"
+  },
+  {
+    "id": "cs7-54",
+    "topic": "Chloroplast Structure",
+    "lang": "th",
+    "question": "Chloroplast มีเยื่อหุ้มกี่ชั้น?",
+    "choices": ["2 ชั้น (outer และ inner membrane)", "1 ชั้น", "3 ชั้น", "4 ชั้น", "ไม่มีเยื่อหุ้ม"],
+    "answerIndex": 0,
+    "hint": "เป็นออร์แกเนลล์ประเภท double-membranous organelle เช่นเดียวกับพลาสติดชนิดอื่น",
+    "explanation": "Chloroplast มีเยื่อหุ้ม 2 ชั้น คือ outer membrane และ inner membrane"
+  },
+  {
+    "id": "cs7-55",
+    "topic": "Chloroplast Structure",
+    "lang": "en",
+    "question": "A granum, as described in the material, is a stack of which structures?",
+    "choices": ["Thylakoid discs", "Cristae", "Stroma lamellae", "Nucleoid crystals", "Plastoglobules"],
+    "answerIndex": 0,
+    "hint": "This is the flattened, disc-shaped compartment where light reactions occur.",
+    "explanation": "A granum is a stack of thylakoid discs, each with a thylakoid membrane and thylakoid lumen."
+  },
+  {
+    "id": "cs7-56",
+    "topic": "Chloroplast Structure",
+    "lang": "th",
+    "question": "DNA ภายใน Chloroplast มีลักษณะเป็นแบบใด?",
+    "choices": ["Circular DNA (วงกลม)", "Linear DNA (เส้นตรง)", "ไม่มี DNA", "DNA สายเดี่ยว", "DNA ที่อยู่ในนิวเคลียสเท่านั้น"],
+    "answerIndex": 0,
+    "hint": "รูปร่างเดียวกับ DNA ที่พบในแบคทีเรียและ Chromoplast",
+    "explanation": "Chloroplast มี Circular DNA เช่นเดียวกับ Chromoplast และพลาสติดอื่น ๆ"
+  },
+  {
+    "id": "cs7-57",
+    "topic": "Chloroplast Structure",
+    "lang": "en",
+    "question": "The thylakoid membrane encloses which internal space within the granum, as named in the material?",
+    "choices": ["Thylakoid lumen (compartment)", "Stroma", "Intermembrane space", "Matrix", "Cristae space"],
+    "answerIndex": 0,
+    "hint": "This space is inside the thylakoid disc itself, distinct from the fluid surrounding the grana.",
+    "explanation": "The thylakoid membrane encloses the thylakoid lumen (thylakoid compartment), where part of photosynthesis occurs."
+  },
+  {
+    "id": "cs7-58",
+    "topic": "Chloroplast Structure",
+    "lang": "th",
+    "question": "ตามลำดับโครงสร้างจากใบสู่ Chloroplast ที่กล่าวถึงในเนื้อหา ข้อใดเรียงลำดับถูกต้อง?",
+    "choices": [
+      "ใบ → mesophyll cell → chloroplast → granum",
+      "ใบ → chloroplast → mesophyll cell → granum",
+      "granum → chloroplast → mesophyll cell → ใบ",
+      "mesophyll cell → ใบ → granum → chloroplast",
+      "chloroplast → granum → ใบ → mesophyll cell"
+    ],
+    "answerIndex": 0,
+    "hint": "เริ่มจากโครงสร้างใหญ่ที่สุดคือระดับอวัยวะของพืชไปจนถึงโครงสร้างย่อยที่สุดภายในออร์แกเนลล์",
+    "explanation": "ลำดับที่ถูกต้องคือ ใบ (leaf) → mesophyll cell → chloroplast → granum ตามลำดับชั้นที่อธิบายในเนื้อหา"
+  }
+]
